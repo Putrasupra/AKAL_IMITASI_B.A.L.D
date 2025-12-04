@@ -1,0 +1,1126 @@
+brand_name,model,price,avg_rating,5G_or_not,processor_brand,num_cores,processor_speed,battery_capacity,fast_charging_available,fast_charging,ram_capacity,internal_memory,screen_size,refresh_rate,num_rear_cameras,os,primary_camera_rear,primary_camera_front,extended_memory_available,resolution_height,resolution_width,antutu_total_score
+apple,Apple iPhone 11,6.500.000,7.3,0,bionic,6,2.60,3110,0,0,4,64,6.1,60,2,ios,12,12,0,1792,828,745.000
+apple,Apple iPhone 11 (128GB),7.000.000,7.5,0,bionic,6,2.60,3110,0,0,4,128,6.1,60,2,ios,12,12,0,1792,828,745.000
+apple,Apple iPhone 11 Pro Max,9.000.000,7.7,0,bionic,6,2.60,3500,1,18,4,64,6.5,60,3,ios,12,12,0,2688,1242,750.000
+apple,Apple iPhone 12,9.500.000,7.4,1,bionic,6,3.1,0,0,0,4,64,6.1,60,2,ios,12,12,0,2532,1170,820.000
+apple,Apple iPhone 12 (128GB),10.500.000,7.5,1,bionic,6,3.1,0,0,0,4,128,6.1,60,2,ios,12,12,0,2532,1170,820.000
+apple,Apple iPhone 12 (256GB),11.500.000,7.6,1,bionic,6,3.1,0,0,0,4,256,6.1,60,2,ios,12,12,0,2532,1170,820.000
+apple,Apple iPhone 12 Mini,8.500.000,7.4,1,bionic,6,3.1,0,0,0,4,64,5.4,60,2,ios,12,12,0,2340,1080,815.000
+apple,Apple iPhone 12 Mini (128GB),9.500.000,7.5,1,bionic,6,3.1,0,0,0,4,128,5.4,60,2,ios,12,12,0,2340,1080,815.000
+apple,Apple iPhone 12 Mini (256GB),10.500.000,7.5,1,bionic,6,3.1,0,0,0,4,256,5.4,60,2,ios,12,12,0,2340,1080,815.000
+apple,Apple iPhone 12 Pro (256GB),12.000.000,8,1,bionic,6,3.1,0,0,0,6,256,6.1,60,3,ios,12,12,0,2532,1170,825.000
+apple,Apple iPhone 12 Pro (512GB),13.500.000,8,1,bionic,6,3.1,0,0,0,6,512,6.1,60,3,ios,12,12,0,2532,1170,825.000
+apple,Apple iPhone 13,12.500.000,7.9,1,bionic,6,3.22,3240,1,0,4,128,6.1,60,2,ios,12,12,0,2532,1170,980.000
+apple,Apple iPhone 13 (256GB),14.000.000,7.9,1,bionic,6,3.22,3240,1,0,4,256,6.1,60,2,ios,12,12,0,2532,1170,980.000
+apple,Apple iPhone 13 (512GB),16.000.000,8,1,bionic,6,3.22,3240,1,0,4,512,6.1,60,2,ios,12,12,0,2532,1170,980.000
+apple,Apple iPhone 13 Mini,11.000.000,7.9,1,bionic,6,3.22,2438,1,0,4,128,5.4,60,2,ios,12,12,0,2340,1080,975.000
+apple,Apple iPhone 13 Pro,16.500.000,8.3,1,bionic,6,3.22,3095,1,0,6,128,6.1,120,3,ios,12,12,0,2532,1170,990.000
+apple,Apple iPhone 13 Pro (1TB),25.000.000,8.4,1,bionic,6,3.22,3095,1,0,6,1024,6.1,120,3,ios,12,12,0,2532,1170,990.000
+apple,Apple iPhone 13 Pro (256GB),18.000.000,8.3,1,bionic,6,3.22,3095,1,0,6,256,6.1,120,3,ios,12,12,0,2532,1170,990.000
+apple,Apple iPhone 13 Pro Max,18.500.000,8.4,1,bionic,6,3.22,4352,1,0,6,128,6.7,120,3,ios,12,12,0,2778,1284,1.000.000
+apple,Apple iPhone 13 Pro Max (1TB),27.000.000,8.6,1,bionic,6,3.22,4352,1,0,6,1024,6.7,120,3,ios,12,12,0,2778,1284,1.000.000
+apple,Apple iPhone 13 Pro Max (256GB),20.000.000,8.4,1,bionic,6,3.22,4352,1,0,6,256,6.7,120,3,ios,12,12,0,2778,1284,1.000.000
+apple,Apple iPhone 14,13.000.000,8.1,1,bionic,6,3.22,3279,1,0,6,128,6.1,60,2,ios,12,12,0,2532,1170,1.050.000
+apple,Apple iPhone 14 (256GB),15.000.000,8.2,1,bionic,6,3.22,3279,1,0,6,256,6.1,60,2,ios,12,12,0,2532,1170,1.050.000
+apple,Apple iPhone 14 (512GB),17.000.000,8.2,1,bionic,6,3.22,3279,1,0,6,512,6.1,60,2,ios,12,12,0,2532,1170,1.050.000
+apple,Apple iPhone 14 Mini,null,7,0,bionic,0,0,3500,1,0,6,128,"5,4",60,2,ios,12,12,0,2340,1080,null
+apple,Apple iPhone 14 Plus,14.500.000,8.2,1,bionic,6,3.22,4325,1,0,6,128,6.7,60,2,ios,12,12,0,2778,1284,1.060.000
+apple,Apple iPhone 14 Plus (256GB),16.000.000,8.3,1,bionic,6,3.22,4325,1,0,6,256,6.7,60,2,ios,12,12,0,2778,1284,1.060.000
+apple,Apple iPhone 14 Plus (512GB),18.000.000,8.3,1,bionic,6,3.22,4325,1,0,6,512,6.7,60,2,ios,12,12,0,2778,1284,1.060.000
+apple,Apple iPhone 14 Pro,18.000.000,7.5,1,bionic,6,0,3200,1,0,6,128,6.1,120,3,ios,48,12,0,2556,1179,1.350.000
+apple,Apple iPhone 14 Pro (1TB),28.000.000,7.7,1,bionic,6,0,3200,1,0,6,1024,6.1,120,3,ios,48,12,0,2556,1179,1.350.000
+apple,Apple iPhone 14 Pro (256GB),20.000.000,7.6,1,bionic,6,0,3200,1,0,6,256,6.1,120,3,ios,48,12,0,2556,1179,1.350.000
+apple,Apple iPhone 14 Pro Max,20.000.000,7.6,1,bionic,6,0,4323,1,0,6,128,6.7,120,3,ios,48,12,0,2796,1290,1.360.000
+apple,Apple iPhone 14 Pro Max (1TB),30.000.000,7.8,1,bionic,6,0,4323,1,0,6,1024,6.7,120,3,ios,48,12,0,2796,1290,1.360.000
+apple,Apple iPhone 14 Pro Max (256GB),22.000.000,7.7,1,bionic,6,0,4323,1,0,6,256,6.7,120,3,ios,48,12,0,2796,1290,1.360.000
+apple,Apple iPhone 14 Pro Max (512GB),25.000.000,7.8,1,bionic,6,0,4323,1,0,6,512,6.7,120,3,ios,48,12,0,2796,1290,1.360.000
+apple,Apple iPhone 15,16.499.000,7.2,0,bionic,0,0,3285,1,0,6,128,"6,6",60,2,ios,50,13,0,2532,1170,1.355.000
+apple,Apple iPhone 15 Plus,18.499.000,7.5,1,bionic,6,0,4532,1,0,8,128,"6,7",120,2,ios,12,12,0,2778,1284,1.355.000
+apple,Apple iPhone 15 Pro,20.999.000,7.5,1,bionic,0,0,0,0,0,8,128,"6,6",120,3,ios,50,12,0,2532,1170,1.550.000
+apple,Apple iPhone 15 Pro Max,22.999.000,7.9,1,bionic,0,0,4352,1,25,8,256,"6,6",120,3,ios,50,12,0,2778,1284,1.560.000
+apple,Apple iPhone 15 Ultra,null,7.9,1,bionic,8,0,4700,1,0,8,128,"6,6",120,3,ios,48,12,0,2796,1290,null
+apple,Apple iPhone 7s,null,0,0,fusion,4,2.37,2230,0,0,3,32,4.7,60,1,ios,13,7,0,1334,750,null
+apple,Apple iPhone 9,null,6.1,0,bionic,6,2.65,2050,1,0,3,64,4.7,60,750,ios,12,7,0,1334,750,null
+apple,Apple iPhone SE 2020,7.999.000,6.3,0,bionic,6,2.65,1821,1,18,3,64,4.7,60,1,ios,12,7,0,1334,750,740.000
+apple,Apple iPhone SE 3 2022,7.499.000,0,1,bionic,6,3.22,0,0,0,4,64,4.7,60,1,ios,12,7,0,1334,750,980.000
+apple,Apple iPhone SE 4,null,6,1,bionic,6,3.22,0,0,0,4,64,6.1,60,1,ios,12,11,0,1580,750,null
+apple,Apple iPhone XR2,null,6,0,bionic,0,0,3060,1,0,4,64,6.1,60,2,ios,12,7,0,1792,828,null
+Apple,iPhone 17 Pro Max,null,,1,Apple,6,4.26,4955,1,PD3.2,12,256 / 512 / 1024 / 2048,6.9,120,3,ios,48,18,0,2868,1320,null
+Apple,iPhone 17 Pro,null,,1,Apple,6,4.26,3998,1,PD3.2,12,256 / 512 / 1024,6.3,120,3,ios,48,18,0,2622,1206,null
+Apple,iPhone 17 Air,null,,1,Apple,6,4.26,3149,1,PD2.0,12,256 / 512 / 1024,6.5,120,1,ios,48,18,0,2736,1260,null
+Apple,iPhone 17,null,,1,Apple,6,4.26,3600,1,PD (N/A),8,128 / 256 / 512,6.3,120,2,ios,48,18,0,2622,1206,null
+Apple,iPhone 16e,null,,1,Apple,6,04.04,4005,1,20.0W,8,128 / 256 / 512,6.1,60,1,ios,48,12,0,2532,1170,null
+Apple,iPhone 16 Pro Max,null,,1,Apple,6,04.05,4685,1,PD2.0,8,256 / 512 / 1024,6.9,120,3,ios,48,12,0,2868,1320,null
+Apple,iPhone 16 Pro,null,,1,Apple,6,04.04,3582,1,PD2.0,8,128 / 256 / 512 / 1024,6.3,120,3,ios,48,12,0,2622,1206,null
+asus,Asus ROG Phone 5s 5G,8.500.000,8.7,1,snapdragon,8,2.9,6000,1,65,8,128,"6,7",144,3,android,64,24,0,2448,1080,835.000
+asus,Asus ROG Phone 6,10.500.000,8.6,1,snapdragon,8,3.2,6000,1,65,12,256,"6,7",165,3,android,50,12,0,2448,1080,1.100.000
+asus,Asus ROG Phone 6 Batman Edition,11.500.000,8.8,1,dimensity,8,3.2,6000,1,65,16,256,"6,7",165,3,android,50,12,0,2448,1080,1.100.000
+asus,Asus ROG Phone 6 Pro 5G,12.500.000,8.8,1,snapdragon,8,3.2,6000,1,65,18,512,"6,7",165,3,android,50,12,0,2448,1080,1.110.000
+asus,Asus ROG Phone 6D Ultimate,13.000.000,0,1,dimensity,8,3.2,6000,1,65,16,512,"6,7",165,3,android,50,12,0,2448,1080,1130000
+asus,Asus ROG Phone 7,14.000.000,8.7,1,snapdragon,8,3.2,6000,1,120,18,256,6.8,165,3,android,64,32,0,2448,1080,1310000
+asus,Asus ZenFone 9,8.999.000,8.6,1,snapdragon,8,3.2,4300,1,30,8,128,5.9,120,2,android,50,12,0,2400,1080,1080000
+blackview,Blackview BV5200 Pro,1.800.000,6.7,1,helio,8,2.3,5180,1,10,4,64,6.1,60,2,android,13,8,1,1560,720,120000
+blu,BLU F91 5G,4.800.000,8.5,1,dimensity,8,2.4,5000,1,0,8,128,6.8,60,4,android,48,16,1,2460,1080,380000
+cat,CAT S22 Flip,2.500.000,0,0,snapdragon,4,1.3,2000,0,0,2,16,4,60,1,android,5,2,0,640,480,50000
+cola,Cola Phone,4.200.000,7.4,0,helio,8,2.2,5000,1,33,4,64,6.4,90,2,android,50,16,1,2400,1080,null
+doogee,Doogee S99,3.500.000,8.4,0,helio,8,02.05,6000,1,33,8,128,6.3,60,3,android,108,32,1,2340,1080,340000
+doogee,Doogee V Max,6.400.000,8.8,1,dimensity,8,2.6,22000,1,33,12,256,6.58,120,3,android,108,32,1,2408,1080,520000
+duoqin,Duoqin F22 Pro,1.500.000,0,0,helio,8,2,2150,0,0,4,64,3.54,60,1,android,8,2,1,960,640,150000
+gionee,Gionee G13 Pro,1.100.000,0,0,tiger,4,2,3500,0,0,4,32,6.26,60,2,other,13,5,1,1600,720,110.000
+gionee,Gionee K10,900,0,0,tiger,4,2,4800,0,0,3,32,6.8,60,1,android,13,5,1,1600,720,110000
+gionee,Gionee M12 Pro,1.400.000,6.7,0,helio,8,1.99,4000,0,0,6,128,6.2,60,1,android,16,13,1,1520,720,120000
+google,Google Pixel 2 XL,4.500.000,6.9,0,snapdragon,8,2.35,3520,1,0,4,128,6,60,1,android,0,8,0,2880,1440,205.000
+google,Google Pixel 3a XL,3.800.000,6.7,0,snapdragon,8,2,3700,1,18,4,64,6,60,1,android,0,8,0,2160,1080,165.000
+google,Google Pixel 4,6.500.000,7.8,0,snapdragon,8,2.8,2800,1,0,6,64,5.7,60,2,android,16,8,0,2280,1080,450.000
+google,Google Pixel 5,8.000.000,8.2,1,snapdragon,8,2.4,4080,1,18,8,128,6,90,2,android,16,8,0,2340,1080,385000
+google,Google Pixel 5A,7.500.000,7.8,1,snapdragon,8,2.4,4620,1,18,6,128,6.34,60,2,android,16,8,0,2400,1080,385000
+google,Google Pixel 6,8.900.000,8.4,1,google,8,2.8,4614,1,30,8,128,6.4,90,2,android,50,8,0,2400,1080,720000
+google,Google Pixel 6 Pro,10.500.000,8.9,1,google,8,2.8,5003,1,30,12,128,6.71,120,3,android,50,11,0,3120,1440,730000
+google,Google Pixel 6 Pro (12GB RAM + 256GB),11.500.000,0,1,google,8,2.8,5003,1,30,12,256,6.71,120,3,android,50,11,0,3120,1440,730000
+google,Google Pixel 6A,6.500.000,7.1,1,google,8,0,4410,1,0,6,128,6.14,60,2,android,0,8,0,2400,1080,725000
+google,Google Pixel 7 5G,9.600.000,8.6,1,google,8,2.85,4355,1,30,8,128,6.3,90,2,android,50,11,0,2400,1080,820000
+google,Google Pixel 7 Pro 5G,14.400.000,0,1,google,8,2.85,5000,1,30,12,128,6.7,120,3,android,50,11,0,3120,1440,830000
+google,Google Pixel 7A,7.200.000,6.9,1,google,8,0,4410,1,0,6,128,6.1,90,2,android,0,8,0,2400,1080,825000
+google,Google Pixel 8,11.200.000,7.5,1,google,8,0,4830,1,67,8,128,6.6,120,2,android,50,10,0,2400,1080,1150000
+google,Google Pixel 8 Pro,14.400.000,8,1,google,8,0,5000,1,67,12,256,6.73,120,3,android,50,12,0,3120,1440,1160000
+honor,Honor 50,5.500.000,8.5,1,snapdragon,8,2.4,4300,1,66,6,128,6.57,120,4,android,108,32,0,2340,1080,530000
+honor,Honor 60 SE 5G,4.000.000,7.5,1,dimensity,8,2,4300,1,66,8,128,6.67,120,3,android,64,16,0,2340,1080,470000
+honor,Honor 70 5G,6.999.000,8.8,1,snapdragon,8,2.5,4800,1,66,12,512,6.67,120,3,android,54,32,0,2400,1080,550000
+honor,Honor 70 5G (8GB RAM + 256GB),7.500.000,8.6,1,snapdragon,8,2.5,4800,1,66,8,256,6.67,120,3,android,54,32,0,2400,1080,550000
+honor,Honor 80 Pro Plus,null,0,1,snapdragon,8,3,4500,1,100,12,256,6.78,120,3,android,200,50,0,2652,1200,null
+honor,Honor Magic 4 Pro Plus 5G,17.000.000,0,1,snapdragon,8,3,4600,1,120,12,512,6.76,120,4,android,50,13,0,2772,1344,1020000
+honor,Honor Play 30,1.500.000,6.8,1,snapdragon,8,2.2,5000,0,0,4,128,6.5,60,1,android,13,5,1,1600,720,130000
+honor,Honor X6,1.700.000,7.1,0,helio,8,2,5000,1,10,4,64,6.5,60,3,android,50,5,1,1600,720,120000
+honor,Honor X7a,1.800.000,7.5,0,helio,8,2.3,5000,1,22,6,128,6.75,90,4,android,50,8,1,1600,720,125000
+honor,Honor X8,2.500.000,7.6,0,snapdragon,8,2.4,4000,1,22,6,128,6.7,90,4,android,64,16,0,2388,1080,275000
+honor,Honor X8 5G,2.300.000,7.5,1,snapdragon,8,2.2,5000,1,22,6,128,6.5,60,3,android,48,8,1,1600,720,230000
+honor,Honor X9 5G,3.500.000,8,1,snapdragon,8,2.2,4800,1,66,8,128,6.81,60,3,android,48,16,0,2388,1080,400000
+honor,Honor X9a,3.800.000,8.1,1,snapdragon,8,2.2,5100,1,40,8,256,6.67,120,3,android,64,16,0,2400,1080,405.000
+huawei,Huawei Honor 9N,2.800.000,6.6,0,kirin,8,2.36,3000,0,0,4,64,5.84,60,2,android,13,16,1,2280,1080,180.000
+huawei,Huawei Mate 30 RS Porsche Design,30.000.000,0,1,kirin,8,2.86,4500,1,0,12,512,6.53,60,4,android,40,32,1,2400,1176,950000
+huawei,Huawei Mate 40 Pro 4G,15.000.000,0,0,kirin,8,3.13,4400,1,66,8,128,6.76,90,3,other,50,13,1,2772,1344,780.000
+huawei,Huawei Mate 50 Pro 5G,18.000.000,8.5,1,kirin,8,3.13,4500,1,66,8,256,6.76,120,3,other,64,13,0,3200,1440,1.000.000
+huawei,Huawei Mate 50 RS Porsche Design,35.000.000,8.1,0,snapdragon,8,3.2,4700,1,66,12,512,6.74,120,3,other,50,13,1,2616,1212,1000000
+huawei,Huawei Mate X,25.000.000,0,1,kirin,8,2.86,4500,1,55,8,512,8,60,4,android,48,0,0,2480,2200,800.000
+huawei,Huawei Mate Xs 2,30.000.000,8.9,0,snapdragon,8,2.84,4600,1,66,8,512,7.8,120,3,android,50,11,0,2480,2200,950000
+huawei,Huawei Nova 10,8.500.000,8.2,0,snapdragon,8,2.4,4000,1,66,8,128,6.67,120,3,other,50,60,0,2400,1080,500000
+huawei,Huawei Nova 10 SE,4.300.000,8.4,0,snapdragon,8,2.4,4500,1,66,8,256,6.67,90,3,android,108,16,1,2160,1080,280000
+huawei,Huawei Nova 7i,3.999.000,8.1,0,kirin,8,2.2,4200,1,40,8,128,6.4,60,4,android,48,16,1,2340,1080,300000
+huawei,Huawei Nova 9,6.500.000,8.3,0,snapdragon,8,2.4,4300,1,66,8,128,6.57,120,4,other,50,32,0,2340,1080,510000
+huawei,Huawei Nova 9 SE,4.000.000,8.4,0,snapdragon,8,2.4,4000,1,66,8,128,6.78,90,4,android,108,16,1,2388,1080,285000
+huawei,Huawei Nova Y61,1.800.000,6.3,0,,8,0,5000,1,22,4,64,6.52,60,3,other,50,5,1,1600,720,100000
+huawei,Huawei Nova Y90,2.800.000,8.2,0,snapdragon,8,2.4,5000,1,40,8,128,6.7,90,4,other,50,8,1,2388,1080,260000
+huawei,Huawei P40 Pro,11.000.000,0,1,kirin,8,2.86,4200,1,40,8,256,6.58,90,4,android,50,32,1,2640,1200,680000
+huawei,Huawei P50 Pro 4G,13.000.000,0,0,snapdragon,8,2.84,4360,1,66,8,256,6.6,120,4,other,50,13,1,2700,1288,960000
+Huawei,Pura 70 Ultra,21.700.000,,1,Kirin,8,2.3,5200,1,100.0W,12 / 16,512 / 1024,6.8,120,3,HarmonyOS,50,13,0,2844,1260,null
+Huawei,Pura 70 Pro,15.200.000,,1,Kirin,8,2.3,5050,1,100.0W,12 / 16,256 / 512 / 1024,6.8,120,3,HarmonyOS,50,13,0,2844,1260,null
+Huawei,Mate 70 Pro+,null,,1,Kirin,8,2.5,5700,1,100.0W,16,512 / 1024,6.9,120,3,HarmonyOS,50,13,0,2832,1316,null
+Huawei,Mate 70 Pro,null,,1,Kirin,8,2.5,5500,1,100.0W,12 / 16,256 / 512 / 1024,6.9,120,3,HarmonyOS,50,13,0,2832,1316,null
+Huawei,Pura 80 Ultra,null,,1,Kirin,8,2.5,5170,1,100.0W,16,512 / 1024,6.8,120,4,HarmonyOS,50,13,0,2848,1276,null
+ikall,iKall Z18,null,6.1,0,,4,1.3,5000,0,0,4,64,6.82,60,1,android,20,13,1,1560,720,null
+ikall,iKall Z19,null,6.1,0,,4,1.6,5000,0,0,4,32,6.5,60,1,android,20,13,1,1600,720,null
+ikall,iKall Z19 Pro,null,6,0,,4,1.6,5000,0,0,4,64,6.5,60,1,android,13,8,1,1600,720,null
+infinix,Infinix Hot 11S,1.899.000,7.1,0,helio,8,2,5000,0,0,4,64,6.78,90,3,android,50,8,1,2480,1080,215000
+infinix,Infinix Hot 12,1.749.000,7.2,0,helio,8,2.3,6000,1,18,4,64,6.82,90,3,android,50,8,1,1640,720,195000
+infinix,Infinix Hot 12 Play,1.649.000,6.6,0,tiger,8,1.82,6000,1,18,4,64,6.82,90,2,android,13,8,1,720,1640,160000
+infinix,Infinix Hot 12 Pro,2.099.000,7.4,0,tiger,8,2,5000,1,18,6,64,6.6,90,2,android,50,8,1,1612,720,210000
+infinix,Infinix Hot 12 Pro (8GB RAM+ 128GB),2.299.000,7.6,0,tiger,8,2,5000,1,18,8,128,6.6,90,2,android,50,8,1,1612,720,210000
+infinix,Infinix Hot 20,1.999.000,7.5,1,dimensity,8,2.4,5000,1,18,4,64,6.6,120,2,android,50,8,1,2408,1080,218000
+infinix,Infinix Hot 20 (6GB RAM+ 128GB),2.199.000,7.8,1,dimensity,8,2.4,5000,1,18,6,128,6.6,120,2,android,50,8,1,2408,1080,218000
+infinix,Infinix Hot 20 Play,1.599.000,6.7,0,helio,8,2.3,6000,1,18,4,64,6.82,90,2,android,13,8,1,1640,720,162000
+infinix,Infinix Hot 20i,1.499.000,6.4,0,helio,8,2,5000,0,0,3,64,6.6,60,2,android,13,8,1,1612,720,110000
+infinix,Infinix Hot 20S,2.299.000,7.7,0,helio,8,02.05,5000,1,18,8,128,6.78,60,2,android,50,8,1,2460,1080,360000
+infinix,Infinix Note 11 (6GB RAM + 128GB),2.199.000,7.7,0,helio,8,2,5000,1,33,6,128,6.7,60,3,android,50,16,1,2400,1080,250000
+infinix,Infinix Note 11S (8GB RAM + 128GB),2.599.000,7.9,0,helio,8,02.05,5000,1,33,8,128,6.95,120,3,android,50,16,1,2460,1080,255000
+infinix,Infinix Note 12,1.999.000,7.4,0,helio,8,2,5000,1,33,4,64,6.7,60,3,android,50,16,1,1080,2400,245000
+infinix,Infinix Note 12 (6GB RAM + 128GB),2.299.000,7.7,0,helio,8,2,5000,1,33,6,128,6.7,60,3,android,50,16,1,1080,2400,245000
+infinix,Infinix Note 12 (G96),2.399.000,7.9,0,helio,8,02.05,5000,1,33,8,128,6.7,60,3,android,50,16,1,2400,1080,350000
+infinix,Infinix Note 12 5G,2.899.000,7.8,1,dimensity,8,2.4,5000,1,33,6,64,6.7,60,3,android,50,16,1,2400,1080,300000
+infinix,Infinix Note 12 Pro,2.499.000,8.3,0,helio,8,2.2,5000,1,33,8,256,6.7,60,3,android,108,16,1,2400,1080,360000
+infinix,Infinix Note 12 Pro 5G,3.199.000,8.4,1,dimensity,8,2.4,5000,1,33,8,128,6.7,60,3,android,108,16,1,2400,1080,305000
+infinix,Infinix Note 12 Turbo,2.600.000,7.9,0,helio,8,2,5000,1,33,8,128,6.7,60,3,android,50,16,1,1080,2400,355000
+infinix,Infinix Note 12 VIP,3.799.000,8.4,0,helio,8,02.05,4500,1,120,8,128,6.7,120,3,android,108,16,1,2400,1080,400000
+infinix,Infinix Note 12i (2022),1.849.000,7.3,0,helio,8,2,5000,1,33,4,64,6.7,60,3,android,50,8,1,2400,1080,165000
+infinix,Infinix Note 13 Pro,null,8,0,helio,8,2.2,5000,1,120,6,128,6.91,60,4,android,108,16,1,2460,1080,null
+infinix,Infinix Smart 6,1.249.000,6,0,helio,4,2,5000,0,0,2,64,6.6,60,2,android,8,5,1,1600,720,95000
+infinix,Infinix Smart 6 HD,1.199.000,0,0,helio,4,2,5000,0,0,2,32,6.6,60,2,android,8,5,1,1600,720,95000
+infinix,Infinix Smart 6 Plus,1.349.000,6.3,0,helio,8,2,5000,0,0,3,64,6.82,60,2,android,8,5,1,1600,720,120000
+infinix,Infinix Zero 20,3.499.000,8.7,0,helio,8,2.2,4500,1,45,8,128,6.7,90,3,android,108,60,1,2400,1080,380000
+infinix,Infinix Zero 5G 2023,4.099.000,8.5,1,dimensity,8,2.6,5000,1,33,8,256,6.78,120,3,android,50,16,1,2460,1080,520000
+infinix,Infinix Zero Ultra,6.599.000,8.9,1,dimensity,8,2.5,4500,1,180,8,256,6.8,120,3,android,200,32,1,2400,1080,650000
+infinix,Infinix Zero X Pro,3.199.000,8.5,1,helio,8,02.05,4500,1,45,8,128,6.67,120,3,android,108,16,1,2400,1080,290000
+iqoo,iQOO 11 (16GB RAM + 256GB),12.000.000,8.9,1,snapdragon,8,3.2,5000,1,120,16,256,6.78,144,3,android,50,16,0,3200,1440,1310000
+iqoo,iQOO 11 5G,10.999.000,8.8,1,snapdragon,8,3.2,5000,1,120,8,256,6.78,144,3,android,50,16,0,3200,1440,1300000
+iqoo,iQOO 11 Pro 5G,13.500.000,8.9,1,snapdragon,8,3.2,4700,1,200,8,256,6.78,144,3,android,50,16,0,3200,1440,1310000
+iqoo,iQOO 7,6.500.000,8.3,1,snapdragon,8,3.2,4400,1,66,8,128,6.62,120,3,android,48,16,0,2400,1080,820000
+iqoo,iQOO 7 (12GB RAM + 256GB),7.500.000,8.5,1,snapdragon,8,3.2,4400,1,66,12,256,6.62,120,3,android,48,16,0,2400,1080,820000
+iqoo,iQOO 7 Legend,7.800.000,8.4,1,snapdragon,8,2.84,4000,1,66,8,128,6.62,120,3,android,48,16,0,2400,1080,825000
+iqoo,iQOO 9 5G,7.999.000,8.4,1,snapdragon,8,2.9,4350,1,120,8,128,6.56,120,3,android,48,16,0,2376,1080,1000000
+iqoo,iQOO 9 5G (12GB RAM + 256GB),8.999.000,8.5,1,snapdragon,8,2.9,4350,1,120,12,256,6.56,120,3,android,48,16,0,2376,1080,1000000
+iqoo,iQOO 9 Pro 5G,9.500.000,8.8,1,snapdragon,8,3,4700,1,120,8,256,6.78,120,3,android,50,16,0,3200,1440,1020000
+iqoo,iQOO 9 SE 5G,6.000.000,8.3,1,snapdragon,8,2.84,4500,1,66,8,128,6.62,120,3,android,48,16,0,2400,1080,730000
+iqoo,iQOO 9 SE 5G (12GB RAM + 256GB),6.800.000,8.5,1,snapdragon,8,2.84,4500,1,66,12,256,6.62,120,3,android,48,16,0,2400,1080,730000
+iqoo,iQOO 9T 5G,8.499.000,8.5,1,snapdragon,8,3.2,4700,1,120,8,128,6.78,120,3,android,50,16,0,2400,1080,1100000
+iqoo,iQOO Neo 6 5G,5.500.000,8.2,1,snapdragon,8,3.2,4700,1,80,8,128,6.62,120,3,android,64,16,0,2400,1080,735000
+iqoo,iQOO Neo 6 5G (12GB RAM + 256GB),6.000.000,8.4,1,snapdragon,8,3.2,4700,1,80,12,256,6.62,120,3,android,64,16,0,2400,1080,735000
+iqoo,iQOO Neo 6 SE 5G,6.200.000,8.3,1,snapdragon,8,3.2,4700,1,80,8,128,6.62,120,3,android,64,16,0,2400,1080,720000
+iqoo,iQOO Neo 7 5G,7.000.000,8.2,1,dimensity,8,3.1,5000,1,120,8,128,6.78,120,3,android,64,16,0,2400,1080,860000
+iqoo,iQOO Neo 7 Racing Edition,8.500.000,8.4,1,snapdragon,8,3.2,5000,1,120,8,256,6.78,120,3,android,50,16,0,2400,1080,1110000
+iqoo,iQOO Neo 7 SE 5G,7.800.000,8.3,1,dimensity,8,3.1,5000,1,120,8,128,6.78,120,3,android,64,16,0,2400,1080,850000
+iqoo,iQOO Z6 4G,2.999.000,7.7,0,snapdragon,8,2.4,5000,1,44,4,128,6.44,120,3,android,50,16,1,2400,1080,280000
+iqoo,iQOO Z6 4G (6GB RAM + 128GB),3.299.000,8,0,snapdragon,8,2.4,5000,1,44,6,128,6.44,120,3,android,50,16,1,2400,1080,280000
+iqoo,iQOO Z6 5G,3.399.000,7.8,1,snapdragon,8,2.2,5000,1,18,4,128,6.58,120,3,android,50,16,1,2408,1080,300000
+iqoo,iQOO Z6 5G (6GB RAM + 128GB),3.599.000,8,1,snapdragon,8,2.2,5000,1,18,6,128,6.58,120,3,android,50,16,1,2408,1080,300000
+iqoo,iQOO Z6 5G (8GB RAM + 128GB),3.899.000,8.2,1,snapdragon,8,2.2,5000,1,18,8,128,6.58,120,3,android,50,16,1,2408,1080,300000
+iqoo,iQOO Z6 Lite (6GB RAM + 128GB),2.600.000,7.9,1,snapdragon,8,2,5000,1,18,6,128,6.58,120,2,android,50,8,1,2408,1080,280000
+iqoo,iQOO Z6 Lite 5G,2.500.000,7.5,1,snapdragon,8,2,5000,1,18,4,64,6.58,120,2,android,50,8,1,2408,1080,280000
+iqoo,iQOO Z6 Pro 5G,4.299.000,7.8,1,snapdragon,8,2.4,4700,1,66,6,128,6.44,90,3,android,64,16,0,2404,1080,400000
+iqoo,iQOO Z6 Pro 5G (12GB RAM + 256GB),4.899.000,8.2,1,snapdragon,8,2.4,4700,1,66,12,256,6.44,90,3,android,64,16,0,2404,1080,400000
+iqoo,iQOO Z6 Pro 5G (8GB RAM + 128GB),4.599.000,8,1,snapdragon,8,2.4,4700,1,66,8,128,6.44,90,3,android,64,16,0,2404,1080,400000
+iqoo,iQOO Z7 5G,3.999.000,8,1,snapdragon,8,2.2,4200,1,55,8,128,6.67,120,3,android,50,16,0,2400,1080,475000
+iqoo,iQOO Z7 Pro 5G,4.800.000,8,1,snapdragon,8,2.36,5000,1,67,6,128,6.62,144,3,android,50,16,1,2412,1080,600000
+iqoo,iQOO Z8 5G,5.500.000,7.8,1,snapdragon,8,2.2,5000,1,18,4,128,6.58,120,3,android,50,16,1,2412,1080,null
+iqoo,iQOO Z9,5.800.000,7.6,1,snapdragon,8,0,5000,1,45,8,128,6.67,120,3,android,64,16,1,2412,1080,null
+itel,Itel A23 Pro,700,0,0,spreadtrum,4,1.4,2400,0,0,1,8,5,60,1,android,5,2,0,480,854,25000
+itel,itel A23s,750,0,0,spreadtrum,4,1.4,3020,0,0,2,32,5,60,1,android,2,0,0,480,854,30000
+itel,Itel A24 Pro,800,0,0,unisoc,4,1.4,3020,0,0,2,32,5,60,1,android,2,0,1,480,854,30000
+itel,itel A56,850,0,0,,4,1.3,4000,0,0,1,16,6,60,2,android,8,5,1,1600,720,40000
+itel,itel P36,950,0,0,spreadtrum,4,1.3,5000,0,0,1,16,6.5,60,2,android,8,8,0,720,1600,50000
+itel,itel S16,1.000.000,0,0,unisoc,4,1.3,4000,0,0,1,16,6.5,60,3,android,8,8,1,720,1600,60000
+itel,itel S16 Pro,1.100.000,0,0,,4,1.3,4000,0,0,2,32,6.6,60,3,android,8,8,1,720,1600,70000
+itel,itel Vision 1 (3GB RAM + 32GB),1.200.000,0,0,unisoc,8,1.6,4000,0,0,3,32,06.09,60,2,android,8,5,1,720,1520,90000
+itel,itel Vision 3,1.250.000,6.1,0,unisoc,8,1.6,5000,1,18,3,64,6.6,60,2,android,8,5,1,720,1612,95000
+itel,itel Vision 3 (2GB RAM + 32GB),1.150.000,0,0,unisoc,8,1.6,5000,1,18,2,32,6.6,60,2,android,8,5,1,720,1612,95000
+jio,Jio JioPhone 5G,null,6.4,1,snapdragon,8,2.2,5000,1,18,4,32,6.5,90,1,android,13,8,1,1600,720,null
+jio,Jio JioPhone Next,900,0,0,snapdragon,4,1.3,3500,0,0,2,32,5.45,60,1,android,13,8,1,1440,720,100000
+jio,Jio JioPhone Next (3GB RAM + 32GB),1.100.000,0,0,snapdragon,4,1.3,3000,0,0,3,32,5.5,60,1,android,13,8,1,1440,720,100000
+jio,Jio Phone 3,null,0,0,,4,1.4,2800,0,0,2,64,5,60,1,android,5,2,1,1280,720,null
+lava,Lava Agni 5G,4.000.000,8.4,1,dimensity,8,2.4,5000,1,30,8,128,6.78,90,4,android,64,16,1,2460,1080,300000
+lava,Lava Blaze 5G,2.000.000,7.3,1,dimensity,8,2.2,5000,0,0,4,128,6.5,90,3,android,50,8,1,720,1600,210000
+lava,Lava Blaze NXT,1.700.000,6.6,0,helio,8,2.3,5000,0,0,4,64,6.5,60,3,android,13,8,1,1600,720,165000
+lava,Lava X3,1.400.000,0,0,helio,4,2,4000,0,0,3,32,6.5,60,2,android,8,5,1,720,1600,125000
+leeco,LeEco S1 Pro,2.400.000,6.5,0,tiger,4,1.8,5000,1,10,8,128,6.5,60,2,android,13,5,0,1600,720,110000
+leitz,Leitz Phone 2,32.000.000,8.9,1,snapdragon,8,3,5000,1,0,12,256,6.6,240,2,android,0,13,1,2730,1260,1000000
+lenovo,Lenovo Legion Pro 2,11.000.000,8.9,1,snapdragon,8,2.84,5000,1,120,16,512,6.5,144,2,android,64,20,0,2400,1080,850000
+lenovo,Lenovo Legion Y90,12.000.000,8.7,1,snapdragon,8,3,5600,1,68,12,256,6.92,144,2,android,64,16,0,2460,1080,1100000
+letv,Letv Y1 Pro,1.000.000,0,0,tiger,4,2,4000,0,0,4,32,6.54,60,2,android,8,5,0,1560,720,90000
+letv,Letv Y1 Pro Plus,1.100.000,6,0,tiger,4,1.8,4000,1,10,6,64,6.5,60,2,android,8,5,0,1560,720,90000
+letv,Letv Y2 Pro,1.200.000,0,0,unisoc,8,0,4000,0,0,4,32,6.5,60,3,android,13,8,0,1560,720,100000
+lg,LG V60 ThinQ,8.500.000,0,1,snapdragon,8,2.84,5000,1,0,8,128,6.8,60,3,android,64,10,0,2460,1080,600000
+lg,LG Velvet 5G,6.500.000,8.5,1,snapdragon,8,2.4,4300,1,25,6,128,6.8,60,3,android,48,16,1,2460,1080,400000
+lg,LG Wing 5G,10.000.000,8.9,1,snapdragon,8,2.4,4000,1,0,8,128,6.8,60,3,android,64,32,0,2460,1080,500000
+lyf,Lyf Earth 1,null,6,0,snapdragon,8,1.5,3500,0,0,3,32,5.5,60,2,android,13,5,1,1920,1080,null
+lyf,Lyf Earth 2,null,0,0,snapdragon,8,1.5,2500,0,0,3,32,5,60,1,android,13,13,1,1920,1080,null
+micromax,Micromax IN 2B,1.500.000,6.6,0,unisoc,8,1.8,5000,0,0,4,64,6.52,60,2,android,13,5,1,1600,720,175000
+micromax,Micromax IN 2B (6GB RAM + 64GB),1.700.000,6.8,0,unisoc,8,1.8,5000,0,0,6,64,6.52,60,2,android,13,5,1,1600,720,175000
+micromax,Micromax IN 2C,1.400.000,6,0,tiger,8,1.8,5000,0,0,3,32,6.52,60,1,android,8,5,1,1600,720,180000
+motorola,Motorola Edge 20 Fusion 5G,4.800.000,8.7,1,dimensity,8,2.4,5000,1,30,6,128,6.67,90,3,android,108,32,1,2400,1080,500000
+motorola,Motorola Edge 30 5G,6.000.000,8.3,1,snapdragon,8,2.5,4020,1,33,6,128,6.5,144,3,android,50,32,0,2400,1080,580000
+motorola,Motorola Edge 30 5G (8GB RAM + 128GB),6.500.000,8.5,1,snapdragon,8,2.5,4020,1,33,8,128,6.5,144,3,android,50,32,0,2400,1080,580000
+motorola,Motorola Edge 30 Fusion 5G,8.000.000,8.8,1,snapdragon,8,2.9,4400,1,68,8,128,6.55,144,3,android,50,32,0,2400,1080,870000
+motorola,Motorola Edge 30 Pro 5G,8.500.000,8.9,1,snapdragon,8,3,4800,1,68,8,128,6.7,144,3,android,50,60,0,2400,1080,830000
+motorola,Motorola Edge 30 Ultra,12.000.000,0,1,snapdragon,8,3.2,4610,1,125,8,128,6.67,144,3,android,200,60,0,2400,1080,1120000
+motorola,Motorola Edge 30 Ultra (12GB RAM + 256GB),13.000.000,0,1,snapdragon,8,3.2,4610,1,125,12,256,6.67,144,3,android,200,60,0,2400,1080,1120000
+motorola,Motorola Edge 40 5G,8.999.000,8.6,1,snapdragon,8,2.36,4200,1,67,8,128,6.5,144,3,android,50,32,0,2412,1080,900000
+motorola,Motorola Edge 40 Fusion,null,8.7,1,snapdragon,8,3.2,4500,1,68,8,128,6.67,144,3,android,50,32,0,2400,1080,null
+motorola,Motorola Edge 40 Pro 5G,13.500.000,8.9,1,snapdragon,8,3.2,4800,1,125,8,128,6.7,165,3,android,50,60,0,2460,1080,1250000
+motorola,Motorola Edge Plus,10.000.000,8.9,1,snapdragon,8,2.84,5000,1,18,12,256,6.7,90,3,android,108,25,0,2340,1080,610000
+motorola,Motorola Edge S,6.000.000,8.7,1,snapdragon,8,3.2,5000,1,20,6,128,6.7,90,4,android,64,16,1,2520,1080,505000
+motorola,Motorola Moto E13,1.600.000,6.5,0,tiger,8,2,5000,1,10,2,64,6.5,60,1,android,13,5,1,1600,720,115000
+motorola,Motorola Moto E22s,1.700.000,7,0,helio,8,2.3,5000,1,10,4,64,6.5,90,2,android,16,8,1,1600,720,150000
+motorola,Motorola Moto E32,1.800.000,7.1,0,helio,8,2.3,5000,1,10,4,64,6.5,90,2,android,50,8,1,1600,720,180000
+motorola,Motorola Moto E32s,1.900.000,6.5,0,helio,8,1.8,5000,1,18,3,32,6.5,90,3,android,16,8,1,1600,720,185000
+motorola,Motorola Moto E32s (4GB RAM + 64GB),2.100.000,6.7,0,helio,8,1.8,5000,1,18,4,64,6.5,90,3,android,16,8,1,1600,720,185000
+motorola,Motorola Moto E40,2.000.000,7.1,0,tiger,8,1.8,5000,0,0,4,64,6.5,90,3,android,48,8,1,1600,720,200000
+motorola,Motorola Moto Edge 30 Neo,4.500.000,8.4,1,snapdragon,8,2.2,4020,1,68,8,128,6.28,120,2,android,64,32,0,2400,1080,410000
+motorola,Motorola Moto Edge S30 5G,6.500.000,8.5,1,snapdragon,8,2.9,5000,1,33,6,128,6.8,144,3,android,108,16,0,2460,1080,855000
+motorola,Motorola Moto Edge S30 Pro,7.500.000,8.3,1,snapdragon,8,3,5000,1,68,8,128,6.67,120,3,android,64,16,0,2460,1080,null
+motorola,Motorola Moto Edge X30 Pro,8.500.000,0,1,snapdragon,8,3.2,4450,1,125,8,128,6.67,144,3,android,200,60,0,2340,1080,null
+motorola,Motorola Moto G 5G,3.500.000,8.2,1,snapdragon,8,2.2,5000,1,20,6,128,6.67,60,3,android,48,16,1,2400,1080,350000
+motorola,Motorola Moto G13,2.000.000,7.5,0,helio,8,2,5000,1,10,4,128,6.5,90,3,android,50,8,1,1600,720,210000
+motorola,Motorola Moto G22,1.900.000,7.5,0,helio,8,2.3,5000,1,20,4,64,6.53,90,4,android,50,16,1,1600,720,200000
+motorola,Motorola Moto G23,2.200.000,7.7,0,helio,8,2,5000,1,30,4,128,6.5,90,3,android,50,16,1,1600,720,220000
+motorola,Motorola Moto G31,2.500.000,7.5,0,helio,8,2,5000,1,20,4,64,6.47,60,3,android,50,13,1,2400,1080,215000
+motorola,Motorola Moto G31 (6GB RAM+ 128GB),2.800.000,7.8,0,helio,8,2,5000,1,20,6,128,6.47,60,3,android,50,13,1,2400,1080,215000
+motorola,Motorola Moto G32,2.700.000,7.5,0,snapdragon,8,2.4,5000,1,33,4,64,6.55,90,3,android,50,16,1,2400,1080,270000
+motorola,Motorola Moto G40 Fusion,3.000.000,7.7,0,snapdragon,8,2.3,6000,1,20,4,64,6.78,120,3,android,64,16,1,2460,1080,300000
+motorola,Motorola Moto G42,2.900.000,7.8,0,snapdragon,8,2.4,5000,1,20,4,64,6.47,60,3,android,50,16,1,2400,1080,280000
+motorola,Motorola Moto G51 5G,3.200.000,7.7,1,snapdragon,8,2.2,5000,0,0,4,64,6.8,120,3,android,50,13,1,2400,1080,300000
+motorola,Motorola Moto G52,3.500.000,7.5,0,snapdragon,8,2.4,5000,1,33,4,64,6.6,90,3,android,50,16,1,1080,2460,380000
+motorola,Motorola Moto G52 (6GB RAM + 128GB),3.800.000,7.9,0,snapdragon,8,2.4,5000,1,33,6,128,6.6,90,3,android,50,16,1,1080,2460,380000
+motorola,Motorola Moto G52 5G,4.000.000,7.6,1,snapdragon,8,2.2,5000,1,33,4,64,6.6,90,3,android,50,16,1,1080,2460,400000
+motorola,Motorola Moto G53,3.800.000,7.9,1,snapdragon,8,2.2,5000,1,10,4,128,6.5,120,2,android,50,16,1,1600,720,390000
+motorola,Motorola Moto G60,3.200.000,8.4,0,snapdragon,8,2.3,6000,1,20,6,128,6.78,120,3,android,108,32,1,2460,1080,300000
+motorola,Motorola Moto G62 (8GB RAM + 128GB),4.000.000,8.4,1,snapdragon,8,2.2,5000,1,0,8,128,6.55,120,3,android,50,16,1,2400,1080,390000
+motorola,Motorola Moto G62 5G,4.500.000,8.1,1,snapdragon,8,2.2,5000,1,0,6,128,6.55,120,3,android,50,16,1,2400,1080,390000
+motorola,Motorola Moto G71 5G,4.300.000,8,1,snapdragon,8,2.2,5000,1,33,6,128,6.4,60,3,android,50,16,0,2400,1080,380000
+motorola,Motorola Moto G72,4.800.000,8.1,1,snapdragon,8,2.2,5000,1,33,6,128,6.5,120,3,android,108,16,0,2400,1080,470000
+motorola,Motorola Moto G72 4G,4.500.000,8.3,0,helio,8,2.2,5000,1,33,6,128,6.55,120,3,android,108,16,1,2400,1080,860000
+motorola,Motorola Moto G73,4.800.000,8.5,1,dimensity,8,2.2,5000,1,30,8,256,6.5,120,2,android,50,16,1,2400,1080,null
+motorola,Motorola Moto G82 (8GB RAM + 128GB),5.000.000,8.6,1,snapdragon,8,2.2,5000,1,30,8,128,6.6,120,3,android,50,16,1,2400,1080,865000
+motorola,Motorola Moto G82 5G,5.500.000,8.3,1,snapdragon,8,2.2,5000,1,30,6,128,6.6,120,3,android,50,16,1,2400,1080,190000
+motorola,Motorola Moto G91 5G,5.300.000,8,1,snapdragon,8,2.2,5000,1,0,6,128,6.8,60,3,android,108,32,1,2400,1080,870000
+motorola,Motorola Moto S30 Pro,null,8.3,1,snapdragon,8,2.9,4400,1,68,8,128,6.55,144,3,android,50,32,0,2460,1080,null
+motorola,Motorola Moto X30 Pro,8.000.000,0,1,snapdragon,8,3.2,4450,1,125,8,128,6.67,144,3,android,200,60,0,2400,1080,null
+motorola,Motorola Moto X40,9.000.000,8.9,1,snapdragon,8,3.2,4600,1,125,8,128,6.7,165,3,android,50,60,0,2400,1080,null
+motorola,Motorola One Fusion Plus,11.000.000,8,0,snapdragon,8,2.2,5000,1,18,6,128,6.5,60,4,android,64,16,1,2340,1080,null
+motorola,Motorola One Macro,4.500.000,6.8,0,helio,8,2,4000,1,10,4,64,6.2,60,3,android,13,8,1,1520,720,null
+motorola,Motorola ThinkPhone,2.800.000,8.9,1,snapdragon,8,3.2,5000,1,68,8,128,6.6,144,3,android,50,32,0,2400,1080,null
+Motorola,Edge 70,12.000.000,,1,Qualcomm,8,2.8,4800,1,68.0W,12,256 / 512,6.7,120,2,android,50,50,0,2712,1220,null
+Motorola,Edge 70,null,,1,Qualcomm,8,2.8,4800,1,68.0W,12,256 / 512,6.7,120,2,android,50,50,0,2712,1220,null
+Motorola,Moto G67 Power,null,,1,Qualcomm,8,2.4,7000,1,30.0W,8,128 / 256,6.72,120,2,android,50,32,0,2400,1080,null
+Motorola,Moto G86 Power,null,,1,Mediatek,8,2.5,6720,1,30.0W,8 / 12,128 / 256 / 512,6.67,120,2,android,50,32,1,2712,1220,null
+Motorola,Edge 60 Fusion,null,,1,Mediatek,8,2.5,5200,1,68.0W,8 / 12,256 / 512,6.67,120,2,android,50,32,1,2712,1220,null
+Motorola,Moto G96 5G,null,,1,Qualcomm,8,2.4,5500,1,30.0W,8,128 / 256,6.67,144,2,android,50,32,0,2400,1080,60000
+Motorola,Edge 60 Pro,null,,1,Mediatek,8,3.35,6000,1,90.0W,12 / 16,256 / 512,6.7,120,3,android,50,50,0,2712,1220,100000
+Motorola,Edge 60 Stylus,null,,1,Qualcomm,8,2.4,5000,1,68.0W,8,256,6.7,120,2,android,50,32,1,2712,1220,105000
+Motorola,Moto G35,null,,1,Unisoc,8,2.2,5000,1,18.0W,4.0 / 8,128 / 256,6.72,120,2,android,50,16,1,2400,1080,210000
+Motorola,Edge 70 5G,null,,1,Qualcomm,8,2.8,4800,1,68.0W,12,256 / 512,6.7,120,2,android,50,50,0,2712,1220,200000
+Motorola,Edge 50 Fusion,null,,1,Qualcomm,8,2.4,5000,1,68.0W,8 / 12,128 / 256 / 512,6.7,144,2,android,50,32,0,2400,1080,200000
+nokia,Nokia C01 Plus,null,0,0,unisoc,8,1.6,3000,0,0,2,16,5.45,60,1,android,5,5,1,1440,720,340000
+nokia,Nokia C21 Plus (4GB RAM + 64GB),1.100.000,6.4,0,unisoc,8,1.6,5050,0,0,4,64,6.52,60,2,android,13,5,1,1600,720,null
+nokia,Nokia C31,1.600.000,6.2,0,unisoc,8,1.6,5050,1,10,3,32,6.74,60,3,android,13,5,1,1600,720,390000
+nokia,Nokia G11 Plus,1.800.000,7,0,unisoc,8,1.6,5000,1,10,4,64,6.52,90,2,android,50,8,1,1600,720,530000
+nokia,Nokia G21,2.000.000,7.1,0,unisoc,8,1.6,5050,1,18,4,64,6.5,90,3,android,50,8,1,1600,720,null
+nokia,Nokia G21 (6GB RAM + 128GB),2.400.000,7.5,0,unisoc,8,1.6,5050,1,18,6,128,6.5,90,3,android,50,8,1,1600,720,null
+nokia,Nokia G60,2.700.000,8.1,1,snapdragon,8,2.2,4500,1,20,6,128,6.58,120,3,android,50,8,1,2400,1080,null
+nokia,Nokia N73 5G,4.000.000,0,1,snapdragon,8,3,6000,1,65,12,256,6.9,120,1,android,200,32,1,3200,1400,590000
+nokia,Nokia X100 5G,null,8.2,1,snapdragon,8,2,4470,1,18,6,128,6.67,60,4,android,48,16,1,2400,1080,590000
+nokia,Nokia X30,4.200.000,8.5,1,snapdragon,8,2.2,4200,1,33,6,128,6.43,90,2,android,50,16,1,2400,1080,590000
+nokia,Nokia X50 5G,5.200.000,7.6,1,snapdragon,0,0,6000,1,33,6,64,6.81,60,4,android,108,32,1,2400,1080,null
+nokia,Nokia X60 5G,null,8.7,1,snapdragon,8,3.2,6000,1,33,6,128,6.51,144,4,other,200,16,1,2400,1080,null
+nokia,Nokia X60 Pro 5G,null,0,1,snapdragon,8,3.2,6000,1,44,8,128,6.51,144,4,android,200,32,1,2408,1080,null
+nothing,Nothing Phone 1,null,8.5,1,snapdragon,8,2.5,4500,1,33,8,128,6.55,120,2,android,50,16,0,2400,1080,850000
+nothing,Nothing Phone 1 (12GB RAM + 256GB),7.999.000,8.7,1,snapdragon,8,2.5,4500,1,33,12,256,6.55,120,2,android,50,16,0,2400,1080,1110000
+nothing,Nothing Phone 1 (8GB RAM + 256GB),9.500.000,8.6,1,snapdragon,8,2.5,4500,1,33,8,256,6.55,120,2,android,50,16,0,2400,1080,1320000
+nothing,Nothing Phone 1 Lite,8.999.000,8,1,snapdragon,8,2.5,5000,1,33,6,128,6.55,120,2,android,50,16,0,2400,1080,1330000
+nothing,Nothing Phone 2,null,8.8,1,snapdragon,8,3.2,4700,1,66,8,128,6.67,120,3,android,50,32,0,2400,1080,710000
+Nothing,Phone (3a) Lite,9.999.000,,1,Mediatek,8,2.5,5000,1,33.0W,8,128 / 256,6.77,120,3,android,50,16,1,2392,1080,840000
+nubia,Nubia Red Magic 6S 5G,null,8.4,1,snapdragon,8,2.9,5050,1,30,8,128,6.8,165,3,android,64,8,0,2400,1080,1050000
+nubia,Nubia Red Magic 7S Pro,10.000.000,8.6,1,snapdragon,8,3.2,5000,1,135,12,256,6.8,120,3,android,64,8,0,2400,1080,1050000
+nubia,Nubia Red Magic 8 Pro 5G,12.000.000,8.4,1,snapdragon,8,3.2,6000,1,80,8,128,6.8,120,3,android,50,16,0,2480,1116,1050000
+nubia,Nubia Red Magic 8 Pro Plus,13.000.000,8.6,1,snapdragon,8,3.2,5000,1,165,12,256,6.8,120,3,android,50,16,0,2480,1116,570000
+nubia,Nubia Z40 Pro 5G,14.000.000,8.4,1,snapdragon,8,3,5000,1,80,8,128,6.67,144,3,android,64,16,0,2400,1080,570000
+nubia,Nubia Z50,8.000.000,8.2,1,snapdragon,8,3.2,5000,1,80,8,128,6.67,144,3,android,64,16,0,2400,1080,570000
+oneplus,OnePlus 10 Pro 5G,8.500.000,8.9,1,snapdragon,8,3,5000,1,80,8,128,6.7,120,3,android,50,32,0,3216,1440,1100000
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 256GB),11.500.000,0,1,snapdragon,8,3,5000,1,80,12,256,6.7,120,3,android,50,32,0,3216,1440,1100000
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 512GB),13.000.000,0,1,snapdragon,8,3,5000,1,80,12,512,6.7,120,3,android,50,32,0,3216,1440,1100000
+oneplus,OnePlus 10R 5G,14.000.000,8.6,1,dimensity,8,2.85,5000,1,80,8,128,6.7,120,3,android,50,16,0,2412,1080,1350000
+oneplus,OnePlus 10R 5G (12GB RAM + 256GB),6.800.000,8.7,1,dimensity,8,2.85,5000,1,80,12,256,6.7,120,3,android,50,16,0,2412,1080,null
+oneplus,OnePlus 10R Prime Edition,7.500.000,8.5,1,dimensity,8,2.85,5000,1,80,8,128,6.7,120,3,android,50,16,0,2412,1080,900000
+oneplus,OnePlus 10T,7.000.000,8.5,1,snapdragon,8,3.2,4800,1,150,8,128,6.7,120,3,android,50,16,0,2412,1080,null
+oneplus,OnePlus 10T (12GB RAM + 256GB),8.000.000,8.7,1,snapdragon,8,3.2,4800,1,150,12,256,6.7,120,3,android,50,16,0,2412,1080,290000
+oneplus,OnePlus 10T (16GB RAM + 256GB),9.000.000,8.7,1,snapdragon,8,3.2,4800,1,150,16,256,6.7,120,3,android,50,16,0,2412,1080,null
+oneplus,OnePlus 11 5G,9.500.000,8.9,1,snapdragon,8,3.2,5000,1,100,12,256,6.7,120,3,android,50,16,0,3216,1440,600000
+oneplus,OnePlus 11 Pro,11.999.000,0,1,snapdragon,8,3.2,4500,1,100,8,128,6.7,120,3,android,50,16,0,3216,1440,null
+oneplus,OnePlus 11R,null,8.5,1,snapdragon,8,3.2,5000,1,100,8,128,6.7,120,3,android,50,16,0,2412,1080,null
+oneplus,OnePlus 12 Pro,8.499.000,0,1,snapdragon,8,3.2,4800,1,150,12,256,6.73,144,3,android,108,32,0,3412,1440,null
+oneplus,OnePlus 6 (8GB RAM + 128GB),null,7.7,0,snapdragon,8,2.8,3300,0,0,8,128,6.28,60,2,android,20,16,0,2280,1080,200000
+oneplus,OnePlus 9 Pro,4.500.000,8.9,1,snapdragon,8,2.84,4500,1,65,8,128,6.7,120,4,android,48,16,0,3216,1440,390000
+oneplus,OnePlus 9RT 5G,10.000.000,8.5,1,snapdragon,8,2.84,4500,1,0,8,128,6.62,120,3,android,50,16,0,2400,1080,520000
+oneplus,OnePlus 9T,8.000.000,8.6,1,snapdragon,8,2.84,4500,1,65,8,128,6.55,120,4,android,108,16,0,2400,1080,520000
+oneplus,OnePlus Ace 2,null,8.4,1,snapdragon,8,3.2,5000,1,100,8,128,6.7,120,3,android,50,16,0,2412,1080,null
+oneplus,OnePlus Ace 5G,7.500.000,8.4,1,dimensity,8,2.85,4500,1,150,8,128,6.7,120,3,android,50,16,0,2412,1080,null
+oneplus,OnePlus Ace Pro,null,8.6,1,snapdragon,8,3.2,4800,1,150,12,256,6.7,120,3,android,50,16,0,2412,1080,null
+oneplus,OnePlus Ace Racing Edition 5G,8.000.000,8.3,1,dimensity,8,2.85,5000,1,0,8,128,6.59,120,3,android,64,16,0,2412,1080,null
+oneplus,OnePlus Clover,5.500.000,6.9,0,snapdragon,8,1.8,6000,1,18,4,64,6.52,60,3,android,13,8,1,1560,720,395000
+oneplus,OnePlus Nord 2 Lite 5G,null,8.3,1,snapdragon,8,2.2,5000,1,33,8,128,6.59,120,3,android,64,16,1,2412,1080,395000
+oneplus,OnePlus Nord 2T (12GB RAM + 256GB),4.000.000,8.5,1,dimensity,8,3,4500,1,80,12,256,6.43,90,3,android,50,32,0,2400,1080,500000
+oneplus,OnePlus Nord 2T 5G,5.500.000,8.4,1,dimensity,8,3,4500,1,80,8,128,6.43,90,3,android,50,32,0,2400,1080,530000
+oneplus,OnePlus Nord 3 5G,5.000.000,8.4,1,dimensity,8,3.1,4200,1,120,8,128,6.43,90,3,android,50,32,0,2400,1080,400000
+oneplus,OnePlus Nord 3T 5G,6.500.000,8.4,1,dimensity,8,3,4500,1,80,8,128,6.43,90,3,android,50,32,0,2400,1080,250000
+oneplus,OnePlus Nord 4 5G,null,8.3,1,snapdragon,8,2.36,4500,1,80,8,128,6.43,120,3,android,50,32,0,2412,1080,110000
+oneplus,OnePlus Nord 5,null,7.6,1,dimensity,8,0,5000,1,120,8,128,6.57,120,3,android,64,32,0,2400,1080,300000
+oneplus,OnePlus Nord CE 2 Lite 5G,null,8.1,1,snapdragon,8,2.2,5000,1,33,6,128,6.59,120,3,android,64,16,1,2412,1080,120000
+oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),3.999.000,8.4,1,snapdragon,8,2.2,5000,1,33,8,128,6.59,120,3,android,64,16,1,2412,1080,null
+oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),4.200.000,8.5,1,snapdragon,8,2.2,5000,1,33,8,256,6.59,120,3,android,64,16,1,2412,1080,null
+oneplus,OnePlus Nord CE 3 5G,4.500.000,8.3,1,snapdragon,8,2.2,5000,1,67,6,128,6.7,120,3,android,108,16,1,2412,1080,null
+oneplus,OnePlus Nord CE 3 Lite 5G,5.500.000,8.1,1,snapdragon,8,2.2,5000,1,33,6,128,6.59,120,3,android,50,16,1,2412,1080,null
+oneplus,OnePlus Nord Lite,4.500.000,7.7,0,snapdragon,8,2,4300,1,30,8,128,6.55,90,3,android,48,16,0,2400,1080,null
+oneplus,OnePlus Nord N10,null,8.1,1,snapdragon,8,2,4300,1,30,6,128,6.49,90,4,android,64,16,1,2400,1080,null
+oneplus,OnePlus Nord N100,5.000.000,6.8,0,snapdragon,8,1.8,5000,1,18,4,64,6.52,90,3,android,13,8,1,1600,720,120000
+oneplus,OnePlus Nord N20 5G,2.000.000,8.1,1,snapdragon,8,2.2,4500,1,33,6,128,6.43,60,3,android,64,16,1,2400,1080,130000
+oneplus,OnePlus Nord N200,4.800.000,7.5,1,snapdragon,8,2,5000,1,18,4,64,6.49,90,3,android,13,16,1,2400,1080,110000
+oneplus,OnePlus Nord N300,3.500.000,7.5,1,dimensity,8,2.4,5000,1,33,4,64,6.56,90,2,android,48,16,1,1612,720,120000
+oneplus,OnePlus Nord SE,3.000.000,7.3,0,snapdragon,8,2,4500,1,65,4,64,6.3,60,4,android,48,13,1,2400,1080,115000
+oneplus,OnePlus Z,null,7.9,0,snapdragon,8,2.4,4300,1,30,8,128,6.55,90,3,android,64,16,0,2400,1080,120000
+OnePlus,Ace 6,null,,1,Qualcomm,8,4.32,7800,1,120.0W,12 / 16,256 / 512 / 1024,6.83,165,2,android,50,16,0,2800,1272,110000
+OnePlus,13,null,,1,Qualcomm,8,4.32,6000,1,100.0W,12 / 16 / 24,256 / 512 / 1024,6.82,120,3,android,50,32,0,3168,1440,120000
+OnePlus,15,null,,1,Qualcomm,8,4.6,7300,1,120.0W,12 / 16,256 / 512 / 1024,6.78,165,3,android,50,32,0,2772,1272,160000
+OnePlus,Ace 6,null,,1,Qualcomm,8,4.32,7800,1,120.0W,12 / 16,256 / 512 / 1024,6.83,165,2,android,50,16,0,2800,1272,180000
+OnePlus,13,5.800.000,,1,Qualcomm,8,4.32,6000,1,100.0W,12 / 16 / 24,256 / 512 / 1024,6.82,120,3,android,50,32,0,3168,1440,185000
+oppo,OPPO A1 Pro,1.600.000,8.4,1,snapdragon,8,2.2,4800,1,67,8,128,6.7,120,2,android,108,16,1,2412,1080,185000
+oppo,Oppo A12,1.800.000,6.4,0,helio,8,1.8,4230,0,0,3,32,6.22,60,2,android,13,5,1,720,1520,190000
+oppo,OPPO A15,2.000.000,6.6,0,helio,8,2.3,4230,0,0,3,32,6.52,60,3,android,13,5,1,1600,720,190000
+oppo,Oppo A15s (4GB RAM + 128GB),1.999.000,7.2,0,helio,8,2.3,4230,0,0,4,128,6.52,60,3,android,13,8,1,1600,720,190000
+oppo,OPPO A16,1.800.000,6.9,0,helio,8,2.3,5000,0,0,4,64,6.52,60,3,android,13,8,1,1600,720,280000
+oppo,OPPO A16e,2.000.000,6.5,0,helio,8,2,4230,0,0,3,32,6.52,60,1,android,13,5,1,1600,720,275000
+oppo,OPPO A16e (4GB RAM + 64GB),1.900.000,6.8,0,helio,8,2,4230,0,0,4,64,6.52,60,1,android,13,5,1,1600,720,275000
+oppo,OPPO A16K (4GB RAM + 64GB),1.899.000,6.6,0,helio,8,2.3,4230,0,0,4,64,6.52,60,1,android,13,5,1,1600,720,275000
+oppo,OPPO A17,1.599.000,7.2,0,helio,8,2.3,5000,1,0,4,64,6.56,60,2,android,50,5,1,1612,720,290000
+oppo,OPPO A17K,2.500.000,6.2,0,helio,8,2.3,5000,0,0,3,64,6.56,60,1,android,8,5,1,1612,720,270000
+oppo,Oppo A31 2020 (6GB RAM + 128GB),2.800.000,7.2,0,helio,8,2.3,4230,0,0,6,128,6.5,60,3,android,12,8,1,1600,720,300000
+oppo,OPPO A53 2020 (6GB RAM + 128GB),2.300.000,7,0,snapdragon,8,1.8,5000,1,18,6,128,6.5,90,3,android,13,16,1,720,1600,350000
+oppo,OPPO A54,2.500.000,7,0,helio,8,2.3,5000,1,0,4,64,6.51,60,3,android,13,16,1,720,1600,360000
+oppo,OPPO A54 (4GB RAM + 128GB),2.800.000,7.1,0,helio,8,2.3,5000,1,0,4,128,6.51,60,3,android,13,16,1,720,1600,360000
+oppo,OPPO A54 (6GB RAM + 128GB),2.900.000,7.4,0,helio,8,2.3,5000,1,0,6,128,6.51,60,3,android,13,16,1,720,1600,380000
+oppo,OPPO A55 4G,3.200.000,7.3,0,helio,8,2.3,5000,1,18,4,64,6.51,60,3,android,50,16,1,1600,720,400000
+oppo,OPPO A55 4G (6GB RAM + 128GB),3.500.000,7.6,0,helio,8,2.3,5000,1,18,6,128,6.51,60,3,android,50,16,1,1600,720,405000
+oppo,OPPO A55 5G,3.800.000,7.4,1,dimensity,8,2.2,5000,0,0,6,128,6.5,60,3,android,13,8,1,1600,720,400000
+oppo,Oppo A56 5G,4.000.000,7.3,1,dimensity,8,2.2,5000,0,0,6,128,6.5,60,2,android,13,8,1,1600,720,280000
+oppo,Oppo A56s,2.500.000,7.5,1,dimensity,8,2.4,5000,0,0,8,128,6.56,60,2,android,13,8,1,1612,720,300000
+oppo,OPPO A57 4G,2.800.000,6.7,0,helio,8,2.3,5000,1,33,3,64,6.56,60,2,android,13,8,1,1612,720,360000
+oppo,OPPO A57 4G (4GB RAM + 64 GB),3.000.000,6.9,0,helio,8,2.3,5000,1,33,4,64,6.56,60,2,android,13,8,1,1612,720,400000
+oppo,OPPO A58,3.200.000,7.6,1,dimensity,8,2.2,5000,1,33,6,128,6.56,90,2,android,50,8,1,1612,720,null
+oppo,OPPO A58x,3.500.000,7.2,1,dimensity,8,2.2,5000,1,10,6,128,6.56,90,2,android,13,8,1,1612,720,950000
+oppo,OPPO A73,4.500.000,6.2,0,helio,8,2.5,3200,0,0,3,32,6,60,1,android,13,16,1,2160,1080,null
+oppo,OPPO A74 5G,4.800.000,7.7,1,snapdragon,8,2,5000,1,18,6,128,6.5,90,3,android,48,8,1,2400,1080,960000
+oppo,OPPO A76,4.000.000,7.3,0,snapdragon,8,2.4,5000,1,33,6,128,6.56,90,2,android,13,8,1,1612,720,1250000
+oppo,OPPO A77,3.800.000,7,0,helio,8,2.3,5000,1,33,4,64,6.56,60,2,android,50,8,1,1600,720,1250000
+oppo,OPPO A77 (4GB RAM + 128 GB),4.200.000,7.1,0,helio,8,2.3,5000,1,33,4,128,6.56,60,2,android,50,8,1,1600,720,1000000
+oppo,Oppo A77 5G,3.500.000,7.6,1,snapdragon,8,2.4,5000,1,33,6,128,6.56,90,2,android,48,8,1,1600,720,850000
+oppo,OPPO A77s,3.800.000,7.6,0,snapdragon,8,2.4,5000,1,33,8,128,6.56,90,2,android,50,8,1,1600,720,860000
+oppo,Oppo A78,4.500.000,7.9,1,dimensity,8,2.2,5000,1,33,8,128,6.56,90,2,android,50,8,1,1612,720,700000
+oppo,OPPO A96 4G,null,8,0,snapdragon,8,2.4,5000,1,33,8,128,6.59,90,2,android,50,16,1,2412,1080,700000
+oppo,Oppo A96 5G,4.000.000,8.2,1,snapdragon,8,2.2,4500,1,33,8,256,6.43,60,2,android,48,16,1,2400,1080,710000
+oppo,OPPO A97 5G,3.500.000,7.9,1,dimensity,8,2.4,5000,1,33,12,256,6.56,90,2,android,48,8,1,2400,1080,710000
+oppo,Oppo A98,4.500.000,8.7,1,snapdragon,8,3,5000,1,67,8,128,6.7,120,2,android,108,16,1,2412,1080,715000
+oppo,OPPO F17 Pro,5.000.000,8.3,0,helio,8,2.2,4015,1,30,8,128,6.43,60,4,android,48,16,1,2400,1080,850000
+oppo,OPPO F19,4.800.000,7.8,0,snapdragon,8,2,5000,1,33,6,128,6.4,60,3,android,48,16,1,2400,1080,null
+oppo,OPPO F19 Pro,null,8,0,helio,8,2.2,4310,1,30,8,128,6.43,60,4,android,48,16,1,2400,1080,860000
+oppo,OPPO F19 Pro Plus 5G,null,8.2,1,dimensity,8,2.4,4310,1,50,8,128,6.43,60,4,android,48,16,1,2400,1080,1050000
+oppo,OPPO F19s,null,7.9,0,snapdragon,8,2,5000,1,33,6,128,6.43,60,3,android,48,16,1,2400,1080,1100000
+oppo,OPPO F21 Pro 4G,null,8.2,0,snapdragon,8,2.4,4500,1,33,8,128,6.5,90,3,android,64,32,1,2400,1080,null
+oppo,OPPO F21 Pro 5G,null,8.2,1,snapdragon,8,2.2,4500,1,33,8,128,6.43,60,3,android,64,16,1,2400,1080,null
+oppo,OPPO F21s Pro,null,8.2,1,snapdragon,8,2.2,4500,1,33,8,128,6.43,60,3,android,64,16,1,2400,1080,900000
+oppo,OPPO F21s Pro 4G,16.000.000,8.2,0,snapdragon,8,2.4,4500,1,33,8,128,6.43,90,3,android,64,32,1,2400,1080,850000
+oppo,OPPO F22 Pro,18.000.000,8.3,1,snapdragon,8,2.2,4800,1,67,8,128,6.58,120,3,android,64,32,1,2400,1080,860000
+oppo,OPPO F23 Pro,15.000.000,8.2,1,snapdragon,8,2.2,4500,1,33,8,128,6.5,90,3,android,64,32,1,2400,1080,870000
+oppo,OPPO F23 Pro Plus 5G,2.999.000,8.3,1,snapdragon,8,2.36,4500,1,65,8,128,6.43,90,4,android,50,16,1,2460,1080,null
+oppo,Oppo Find N 5G,3.200.000,0,1,snapdragon,8,2.84,4500,1,33,8,256,7.1,120,3,android,50,32,0,1920,1792,1500000
+oppo,OPPO Find N Flip,3.500.000,8.8,1,dimensity,8,03.05,4300,1,44,8,128,6.8,120,2,other,50,32,0,2400,1200,1500000
+oppo,Oppo Find N Fold,5.500.000,0,1,snapdragon,8,3.2,5000,1,67,8,256,7.1,120,2,other,50,0,0,1920,1792,null
+oppo,Oppo Find N2 5G,4.500.000,0,1,snapdragon,8,3.2,4520,1,67,12,256,7.1,120,3,android,50,32,0,1920,1792,null
+oppo,OPPO Find N2 Flip,4.000.000,8.8,1,dimensity,8,3.2,4300,1,44,8,256,6.8,120,2,android,50,32,0,2520,1080,null
+oppo,Oppo Find X3 Pro,null,0,1,snapdragon,8,2.84,4500,1,65,12,256,6.7,120,4,android,50,32,0,3216,1440,null
+oppo,Oppo Find X5 Pro 5G,null,0,1,snapdragon,8,3,5000,1,80,8,256,6.7,120,3,android,50,32,0,3216,1440,null
+oppo,Oppo Find X6,null,8.9,1,snapdragon,8,3.2,4700,1,120,8,256,6.73,120,3,android,50,32,0,2400,1080,null
+oppo,Oppo Find X6 Pro,5.000.000,0,1,snapdragon,8,3.2,4700,1,120,12,256,6.78,120,3,android,50,32,0,2400,1080,null
+oppo,OPPO K10,8.000.000,7.8,0,snapdragon,8,2.4,5000,1,33,6,128,6.59,90,3,android,50,16,1,2412,1080,null
+oppo,OPPO K10 (8GB RAM + 128GB),4.000.000,8,0,snapdragon,8,2.4,5000,1,33,8,128,6.59,90,3,android,50,16,1,2412,1080,null
+oppo,OPPO K10 5G,7.500.000,7.9,1,dimensity,8,2.4,5000,1,33,8,128,6.56,90,2,android,48,8,1,1612,720,null
+oppo,Oppo K10 Pro 5G,10.000.000,8.1,1,snapdragon,8,2.84,5000,1,80,8,128,6.62,120,3,android,50,16,0,2400,1080,null
+oppo,Oppo K10x 5G,12.000.000,7.8,1,snapdragon,8,2.2,5000,1,67,6,128,6.59,120,3,android,64,16,0,2412,1080,null
+oppo,Oppo K5 (8GB RAM + 128GB),8.500.000,8.2,0,snapdragon,8,2.2,4000,1,30,8,128,6.4,60,4,android,64,32,1,2340,1080,null
+oppo,OPPO Reno 10,9.500.000,8.4,1,snapdragon,8,2.5,5000,1,120,8,256,6.73,120,3,android,50,32,0,2412,1080,350000
+oppo,OPPO Reno 10 Pro,9.000.000,8.6,1,dimensity,8,03.05,5000,1,120,16,256,6.73,120,2,android,50,32,0,2412,1080,100000
+oppo,Oppo Reno 10 Pro Plus,9.500.000,8.8,1,snapdragon,8,3.2,4700,1,80,12,256,6.73,120,4,android,64,32,0,2412,1080,100000
+oppo,Oppo Reno 5,6.000.000,8.3,1,snapdragon,8,2.4,4300,1,65,8,128,6.43,60,4,android,64,32,0,2400,1080,100000
+oppo,Oppo Reno 5 Pro 5G,4.500.000,8.4,1,dimensity,8,2.6,4350,1,65,8,128,6.53,90,4,android,64,32,0,2400,1080,100000
+oppo,Oppo Reno 5A,4.800.000,8,1,snapdragon,8,2.4,4000,1,18,6,128,6.5,90,4,android,64,16,1,2400,1080,110000
+oppo,OPPO Reno 6,5.500.000,8.3,1,dimensity,8,2,4300,1,65,8,128,6.43,90,3,android,64,32,0,2400,1080,110000
+oppo,OPPO Reno 6 Pro 5G,6.500.000,8.7,1,dimensity,8,3,4500,1,65,12,256,6.55,90,4,android,64,32,0,2400,1080,110000
+oppo,OPPO Reno 6 Pro Plus 5G,8.000.000,8.7,1,snapdragon,8,3.2,4500,1,65,8,128,6.55,90,4,android,50,32,0,2400,1080,110000
+oppo,OPPO Reno 8 House of Dragon Edition,6.000.000,8.4,1,dimensity,8,3,4500,1,80,8,128,6.43,90,3,android,50,32,0,2400,1080,110000
+oppo,Oppo Reno 8 Pro (8GB RAM + 256GB),7.500.000,8.5,1,dimensity,8,2.85,4500,1,80,8,256,6.7,120,3,android,50,32,0,2412,1080,110000
+oppo,OPPO Reno 8 Pro 5G,8.500.000,8.6,1,dimensity,8,2.85,4500,1,80,12,256,6.7,120,3,android,50,32,0,2412,1080,110000
+oppo,OPPO Reno 8 Pro House of Dragon Edition,null,8.6,1,dimensity,8,2.85,4500,1,80,12,256,6.7,120,3,android,50,32,0,2412,1080,110000
+oppo,OPPO Reno 8 Z,null,8.6,1,snapdragon,8,2.2,4500,1,33,8,256,6.43,60,3,android,64,16,1,2400,1080,150000
+oppo,Oppo Reno 8T,null,8.7,1,snapdragon,8,2.2,5000,1,66,8,256,6.67,120,3,android,108,16,1,2400,1080,140000
+oppo,Oppo Reno 8T 4G,null,8.3,0,helio,8,2.2,5000,1,66,8,256,6.67,120,3,android,50,16,1,2400,1080,170000
+oppo,OPPO Reno 9 5G,null,8.3,1,snapdragon,8,2.4,4500,1,67,8,256,6.7,120,2,android,64,32,0,2412,1080,170000
+oppo,OPPO Reno 9 Pro 5G,null,8.6,1,dimensity,8,2.85,4500,1,67,16,256,6.7,120,2,android,50,32,0,2412,1080,190000
+oppo,OPPO Reno 9 Pro Plus,null,8.6,1,snapdragon,8,3.2,4700,1,80,16,256,6.7,120,3,android,50,32,0,2412,1080,190000
+oppo,OPPO Reno 9 Z,null,8.4,1,snapdragon,8,2.2,4800,1,33,8,128,6.58,120,3,android,50,32,1,2400,1080,190000
+oppo,OPPO Reno7 5G,null,8.5,1,dimensity,8,2,4500,1,65,8,256,6.43,90,3,android,64,32,1,2400,1080,310000
+oppo,OPPO Reno7 Pro 5G,null,8.7,1,dimensity,8,3,4500,1,65,12,256,6.55,90,3,android,50,32,1,2400,1080,400000
+oppo,OPPO Reno7 Z 5G,null,8.4,1,snapdragon,8,2.2,4500,1,33,8,128,6.43,60,3,android,64,16,1,2400,1080,400000
+oppo,OPPO Reno8 5G,null,8.3,1,dimensity,8,3,4500,1,80,8,128,6.43,90,3,android,50,32,0,2400,1080,400000
+oppo,OPPO X 2021,null,8.6,0,snapdragon,8,2.84,4000,1,45,8,256,7.4,60,3,android,64,16,0,3200,1440,null
+Oppo,Find X9 Pro,4.800.000,,1,Mediatek,8,4.21,7500,1,80.0W,12 / 16,256 / 512 / 1024,6.78,120,3,android,50,50,0,2772,1272,180000
+Oppo,Find X9 Pro,5.200.000,,1,Mediatek,8,4.21,7500,1,80.0W,12 / 16,256 / 512 / 1024,6.78,120,3,android,50,50,0,2772,1272,210000
+Oppo,Reno 13,2.000.000,,1,Mediatek,8,3.35,5600,1,80.0W,8 / 12 / 16,128 - 1024,6.59,120,3,android,50,50,0,2760,1256,300000
+Oppo,Reno 15 Pro Max,1.400.000,,1,Mediatek,8,3.63,6500,1,120.0W,12 / 16,256 / 512 / 1024,6.78,120,3,android,200,50,0,2800,1272,380000
+Oppo,F31 Pro,1.600.000,,1,Mediatek,8,2.5,7000,1,80.0W,8 / 12,128 / 256,6.57,120,2,android,50,32,0,2372,1080,380000
+Oppo,K13,1.200.000,,1,Qualcomm,8,2.3,7000,1,80.0W,8 / 12,128 / 256 / 512,6.67,120,2,android,50,16,0,2400,1080,390000
+Oppo,Reno 14,1.300.000,,1,Mediatek,8,3.35,6000,1,80.0W,12,256 / 512,6.59,120,3,android,50,50,0,2412,1080,390000
+Oppo,Reno 15 Pro Max,1.600.000,,1,Mediatek,8,3.63,6500,1,120.0W,12 / 16,256 / 512 / 1024,6.78,120,3,android,200,50,0,2800,1272,450000
+Oppo,K13x,4.500.000,,1,Mediatek,8,2.4,6000,1,45.0W,4 / 6 / 8,128 / 256,6.67,120,2,android,50,8,1,1604,720,360000
+Oppo,K13 Turbo,5.500.000,,1,Mediatek,8,3.25,7000,1,80.0W,8 / 12 / 16,128 / 256 / 512,6.8,120,2,android,50,16,0,2800,1280,360000
+Oppo,Reno 14 Pro 5G,5.000.000,,1,Mediatek,8,3.25,6200,1,80.0W,12 / 16,256 / 512 / 1024,6.83,120,3,android,50,50,0,2800,1272,305000
+Oppo,F31,5.300.000,,1,Mediatek,8,2.4,7000,1,80.0W,8,128 / 256,6.57,120,2,android,50,16,1,2372,1080,430000
+Oppo,Reno 13 Pro 5G,8.000.000,,1,Mediatek,8,3.35,5800,1,80.0W,12 / 16,256 / 512 / 1024,6.83,120,3,android,50,50,0,2800,1272,430000
+oukitel,Oukitel WP19,6.000.000,8.4,0,helio,8,2,21000,1,33,8,256,6.78,60,3,android,64,16,1,2400,1080,null
+oukitel,Oukitel WP21,null,8.2,0,helio,8,2.2,9800,1,66,12,256,6.78,120,3,android,64,0,0,2400,1080,null
+oukitel,Oukitel WP9,7.000.000,7.2,0,helio,8,2,8000,0,0,6,128,5.86,60,3,android,16,8,1,1520,720,220000
+poco,POCO C31,2.000.000,6.5,0,helio,8,2.3,5000,0,0,3,32,6.53,60,3,android,13,5,1,1600,720,360000
+poco,POCO C31 (4GB RAM + 64GB),2.500.000,6.8,0,helio,8,2.3,5000,0,0,4,64,6.53,60,3,android,13,5,1,1600,720,null
+poco,Poco C50,2.300.000,0,0,helio,4,2,5000,1,10,2,32,6.52,60,2,android,8,5,1,1600,720,null
+poco,Poco C50 (3GB RAM + 32GB),3.000.000,6.1,0,helio,4,2,5000,1,10,3,32,6.52,60,2,android,8,5,1,1600,720,null
+poco,Poco C55,3.300.000,7,0,helio,8,2,5000,0,0,4,64,6.71,60,2,android,50,5,1,1650,720,null
+poco,Poco F3 GT,2.800.000,7.9,1,dimensity,8,3,5065,1,67,6,128,6.67,120,3,android,64,16,0,2400,1080,null
+poco,Poco F4 (12GB RAM + 256GB),3.200.000,8.6,1,snapdragon,8,3.2,4500,1,67,12,256,6.67,120,3,android,64,20,0,2400,1080,null
+poco,Poco F4 5G,3.500.000,8.2,1,snapdragon,8,3.2,4500,1,67,6,128,6.67,120,3,android,64,20,0,2400,1080,null
+poco,Poco F4 5G (8GB RAM + 128GB),3.800.000,8.5,1,snapdragon,8,3.2,4500,1,67,8,128,6.67,120,3,android,64,20,0,2400,1080,null
+poco,POCO F4 GT 5G,4.000.000,8.6,1,snapdragon,8,3,4700,1,120,8,128,6.67,120,3,android,64,20,0,2400,1080,null
+poco,Poco F5,3.800.000,8.5,1,snapdragon,8,3.2,4700,1,67,8,128,6.7,120,3,android,64,32,0,2400,1080,null
+poco,POCO F5 GT 5G,4.200.000,8.6,1,dimensity,8,3,4500,1,150,8,128,6.67,120,3,android,64,20,0,2412,1080,null
+poco,Poco F5 Pro,4.500.000,8.4,1,snapdragon,8,3.2,5500,1,67,8,128,6.67,120,3,android,64,16,0,3200,1440,null
+poco,Poco M2,2.500.000,7.4,0,helio,8,2,5000,1,18,6,64,6.53,60,4,android,13,8,1,2340,1080,null
+poco,POCO M2 Pro,2.800.000,7.6,0,snapdragon,8,2.3,5000,1,33,4,64,6.67,60,4,android,48,16,1,2400,1080,null
+poco,Poco M3,null,7.5,0,snapdragon,8,2,6000,1,18,6,64,6.53,60,3,android,48,8,1,2340,1080,null
+poco,POCO M3 Pro 5G,3.000.000,7.5,1,dimensity,8,2.2,5000,1,18,4,64,6.5,90,3,android,48,8,1,2400,1080,null
+poco,POCO M3 Pro 5G (6GB RAM + 128GB),4.000.000,7.9,1,dimensity,8,2.2,5000,1,18,6,128,6.5,90,3,android,48,8,1,2400,1080,null
+poco,Poco M4 5G,null,7.5,1,dimensity,8,2.2,5000,1,18,4,64,6.58,90,2,android,50,8,1,2400,1080,null
+poco,Poco M4 5G (6GB RAM + 128GB),5.500.000,7.9,1,dimensity,8,2.2,5000,1,18,6,128,6.58,90,2,android,50,8,1,2400,1080,null
+poco,POCO M4 Pro 4G,6.000.000,7.7,0,helio,8,02.05,5000,1,33,6,64,6.43,90,3,android,64,16,1,2400,1080,110000
+poco,POCO M4 Pro 4G (6GB RAM + 128GB),4.500.000,7.9,0,helio,8,02.05,5000,1,33,6,128,6.43,90,3,android,64,16,1,2400,1080,175000
+poco,POCO M4 Pro 4G (8GB RAM + 128GB),4.800.000,8.1,0,helio,8,02.05,5000,1,33,8,128,6.43,90,3,android,64,16,1,2400,1080,190000
+poco,Poco M4 Pro 5G,5.000.000,7.6,1,dimensity,8,2.4,5000,1,33,4,64,6.6,90,2,android,50,16,1,2400,1080,190000
+poco,Poco M4 Pro 5G (6GB RAM + 128GB),4.000.000,8.1,1,dimensity,8,2.4,5000,1,33,6,128,6.6,90,2,android,50,16,1,2400,1080,null
+poco,Poco M4 Pro 5G (8GB RAM + 128GB),null,8.2,1,dimensity,8,2.4,5000,1,33,8,128,6.6,90,2,android,50,16,1,2400,1080,210000
+poco,Poco M5,4.800.000,7.4,0,helio,8,2.2,5000,1,18,4,64,6.58,90,3,android,50,8,1,2400,1080,210000
+poco,Poco M5 (6GB RAM + 128GB),5.000.000,7.7,0,helio,8,2.2,5000,1,18,6,128,6.58,90,3,android,50,8,1,2400,1080,400000
+poco,Poco M6 Pro,2.800.000,8.4,1,dimensity,8,2.5,5100,1,120,8,128,6.73,120,3,android,108,32,1,2400,1080,400000
+poco,Poco X3,3.100.000,8,0,snapdragon,8,2.3,6000,1,33,6,64,6.67,120,4,android,64,20,1,2400,1080,null
+poco,Poco X3 Pro,3.000.000,8.2,0,snapdragon,8,2.96,5160,1,33,6,128,6.67,120,4,android,48,20,1,2400,1080,270000
+poco,Poco X4,3.500.000,7.9,1,dimensity,8,2.2,5000,1,67,6,128,6.67,120,3,android,50,16,1,2400,1080,310000
+poco,POCO X4 GT 5G,3.800.000,8.4,1,dimensity,8,2.85,5080,1,67,8,128,6.6,144,3,android,64,16,0,2460,1080,310000
+poco,POCO X4 GT 5G (8GB RAM + 256GB),4.500.000,8.5,1,dimensity,8,2.85,5080,1,67,8,256,6.6,144,3,android,64,16,0,2460,1080,null
+poco,Poco X4 Pro 5G,5.000.000,8,1,snapdragon,8,2.2,5000,1,67,6,64,6.67,120,3,android,64,16,1,2400,1080,110000
+poco,Poco X4 Pro 5G (6GB RAM + 128GB),4.000.000,8.2,1,snapdragon,8,2.2,5000,1,67,6,128,6.67,120,3,android,64,16,1,2400,1080,110000
+poco,Poco X4 Pro 5G (8GB RAM + 128GB),4.500.000,8.4,1,snapdragon,8,2.2,5000,1,67,8,128,6.67,120,3,android,64,16,1,2400,1080,175000
+poco,Poco X5,5.000.000,7.4,1,snapdragon,8,2.2,5000,1,33,4,128,6.67,120,3,android,48,8,0,2400,1080,190000
+poco,POCO X5 GT,2.500.000,8.4,1,dimensity,8,3.2,5000,1,80,8,128,6.7,144,3,android,64,32,0,2400,1080,190000
+poco,Poco X5 Pro,3.000.000,8.1,1,snapdragon,8,2.4,5000,1,67,6,128,6.67,120,3,android,108,16,0,2400,1080,310000
+poco,Poco X6 Pro 5G,2.000.000,7.2,1,snapdragon,8,0,5000,1,0,6,128,6.67,120,4,android,64,32,1,2400,1080,310000
+realme,Realme 10,3.500.000,7.4,0,helio,8,2.2,5000,1,33,4,64,6.4,90,2,android,50,16,1,2400,1080,null
+realme,Realme 10 (8GB RAM + 128GB),3.800.000,7.9,0,helio,8,2.2,5000,1,33,8,128,6.4,90,2,android,50,16,1,2400,1080,270000
+realme,Realme 10 5G,2.500.000,7.9,1,dimensity,8,2.2,5000,1,33,8,128,6.6,90,3,android,50,8,1,2408,1080,210000
+realme,Realme 10 Pro,2.800.000,8.2,1,snapdragon,8,2.2,5000,1,33,6,128,6.72,120,2,android,108,16,1,2400,1080,210000
+realme,Realme 10 Pro (8GB RAM + 128GB),2.500.000,8.4,1,snapdragon,8,2.2,5000,1,33,8,128,6.72,120,2,android,108,16,1,2400,1080,210000
+realme,Realme 10 Pro Plus,3.500.000,8.2,1,dimensity,8,2.6,5000,1,67,6,128,6.7,120,3,android,108,16,0,2412,1080,210000
+realme,Realme 10 Pro Plus (8GB RAM + 256GB),4.000.000,8.5,1,dimensity,8,2.6,5000,1,67,8,256,6.7,120,3,android,108,16,0,2412,1080,430000
+realme,Realme 10s,4.500.000,8,1,dimensity,8,2.4,5000,1,33,8,128,6.6,90,2,android,50,8,1,2408,1080,430000
+realme,Realme 11 Pro,5.000.000,8.2,1,snapdragon,8,3,5000,1,65,6,128,6.4,120,3,android,64,32,1,2400,1080,null
+realme,Realme 11 Pro Plus,2.200.000,7.8,1,dimensity,8,2.2,4200,1,66,6,128,6.4,90,3,android,50,16,0,2400,1080,null
+realme,Realme 6 (6GB RAM + 64GB),2.500.000,7.7,0,helio,8,02.05,4300,1,30,6,64,6.5,90,4,android,64,16,1,2400,1080,null
+realme,Realme 6 Pro,2.800.000,8,0,snapdragon,8,2.3,4300,1,30,6,64,6.6,90,4,android,64,16,1,2400,1080,null
+realme,Realme 7 Pro (8GB RAM + 128GB),2.500.000,8.5,0,snapdragon,8,2.3,4500,1,65,8,128,6.4,60,4,android,64,32,1,2400,1080,540000
+realme,Realme 8,2.800.000,7.8,0,helio,8,2,5000,1,30,4,128,6.4,60,4,android,64,16,1,2400,1080,540000
+realme,Realme 8 (8GB RAM + 128GB),null,8.3,0,helio,8,2,5000,1,30,8,128,6.4,60,4,android,64,16,1,2400,1080,600000
+realme,Realme 8 5G,1.500.000,7.5,1,dimensity,8,2.2,5000,1,18,4,128,6.5,90,3,android,48,16,1,2400,1080,400000
+realme,Realme 8 5G (8GB RAM + 128GB),1.400.000,8,1,dimensity,8,2.2,5000,1,18,8,128,6.5,90,3,android,48,16,1,2400,1080,410000
+realme,Realme 8i,1.600.000,7.4,0,helio,8,02.05,5000,1,18,4,64,6.6,120,3,android,50,16,1,2412,1080,450000
+realme,Realme 8i (6GB RAM + 128GB),1.300.000,7.7,0,helio,8,02.05,5000,1,18,6,128,6.6,120,3,android,50,16,1,2412,1080,455000
+realme,Realme 8s 5G,1.500.000,8,1,dimensity,8,2.4,5000,1,33,6,128,6.5,90,3,android,64,16,1,2400,1080,550000
+realme,Realme 8s 5G (8GB RAM + 128GB),1.800.000,8.2,1,dimensity,8,2.4,5000,1,33,8,128,6.5,90,3,android,64,16,1,2400,1080,700000
+realme,Realme 9 4G,null,8.1,0,snapdragon,8,2.4,5000,1,33,6,128,6.4,90,3,android,108,16,1,2400,1080,450000
+realme,Realme 9 4G (8GB RAM + 128GB),1.300.000,8.4,0,snapdragon,8,2.4,5000,1,33,8,128,6.4,90,3,android,108,16,1,2400,1080,580000
+realme,Realme 9 5G,1.400.000,7.5,1,dimensity,8,2.4,5000,1,18,4,64,6.5,90,3,android,48,16,1,2400,1080,600000
+realme,Realme 9 5G (6GB RAM + 128GB),1.400.000,7.9,1,dimensity,8,2.4,5000,1,18,6,128,6.5,90,3,android,48,16,1,2400,1080,750000
+realme,Realme 9 5G SE,1.600.000,8,1,snapdragon,8,2.4,5000,1,30,6,128,6.6,144,3,android,48,16,1,2412,1080,650000
+realme,Realme 9 5G SE (8GB RAM + 128GB),1.500.000,8.2,1,snapdragon,8,2.4,5000,1,30,8,128,6.6,144,3,android,48,16,1,2412,1080,750000
+realme,Realme 9 Pro 5G,1.700.000,8,1,snapdragon,8,2.2,5000,1,33,6,128,6.6,120,3,android,64,16,1,2412,1080,760000
+realme,Realme 9 Pro 5G (8GB RAM + 128GB),null,8.2,1,snapdragon,8,2.2,5000,1,33,8,128,6.6,120,3,android,64,16,1,2412,1080,850000
+realme,Realme 9 Pro Plus 5G,1.700.000,7.8,1,dimensity,8,2.5,4500,1,60,6,128,6.4,90,3,android,50,16,0,2400,1080,860000
+realme,Realme 9 Pro Plus 5G (8GB RAM + 128GB),1.900.000,8.1,1,dimensity,8,2.5,4500,1,60,8,128,6.4,90,3,android,50,16,0,2400,1080,860000
+realme,Realme 9 Pro Plus 5G (8GB RAM + 256GB),2.100.000,8.2,1,dimensity,8,2.5,4500,1,60,8,256,6.4,90,3,android,50,16,0,2400,1080,900000
+realme,Realme 9i,2.400.000,7.5,0,snapdragon,8,2.4,5000,1,33,4,64,6.6,90,3,android,50,16,1,2412,1080,920000
+realme,Realme 9i (4GB RAM + 128GB),2.600.000,7.5,0,snapdragon,8,2.4,5000,1,33,4,128,6.6,90,3,android,50,16,1,2412,1080,920000
+realme,Realme 9i (6GB RAM + 128GB),null,7.8,0,snapdragon,8,2.4,5000,1,33,6,128,6.6,90,3,android,50,16,1,2412,1080,950000
+realme,Realme 9i 5G,7.500.000,7.5,1,dimensity,8,2.4,5000,1,18,4,64,6.6,90,3,android,50,8,1,2408,1080,1250000
+realme,Realme 9i 5G (6GB RAM + 128GB),9.000.000,7.8,1,dimensity,8,2.4,5000,1,18,6,128,6.6,90,3,android,50,8,1,2408,1080,1250000
+realme,Realme A1,9.500.000,0,0,helio,8,2.1,4000,0,0,2,16,6.2,60,2,android,13,8,1,1520,720,960000
+realme,Realme C11,11.000.000,6.1,0,helio,8,2.3,5000,0,0,2,32,6.5,60,2,android,13,5,1,1600,720,1280000
+realme,Realme C11 2021,7.000.000,6.1,0,sc9863a,8,1.6,5000,0,0,2,32,6.52,60,1,android,8,5,1,1600,720,1280000
+realme,Realme C11 2021 (4GB RAM + 64GB),6.500.000,6.1,0,sc9863a,8,1.6,5000,0,0,4,64,6.52,60,1,android,8,5,1,1600,720,1300000
+realme,Realme C2,6.000.000,0,0,helio,8,2,4000,0,0,2,16,6.1,60,2,android,13,5,1,720,1560,1300000
+realme,Realme C21Y,7.000.000,6.2,0,unisoc,8,1.8,5000,0,0,3,32,6.5,60,3,android,13,5,1,1600,720,1300000
+realme,Realme C25Y (4GB RAM + 64GB),6.500.000,6.9,0,tiger,8,1.8,5000,1,18,4,64,6.5,60,3,android,50,8,1,720,1600,null
+realme,Realme C2s,7.000.000,6.3,0,helio,8,2,4000,0,0,3,32,6.1,60,2,android,13,5,1,1560,720,null
+realme,Realme C30,7.500.000,0,0,tiger,8,1.82,5000,0,0,2,32,6.5,60,1,android,8,5,1,1600,720,280000
+realme,Realme C30 (3GB RAM + 32GB),null,6,0,tiger,8,1.82,5000,0,0,3,32,6.5,60,1,android,8,5,1,1600,720,950000
+realme,Realme C30s,9.000.000,0,0,unisoc,8,1.6,5000,1,10,2,32,6.5,60,1,android,8,5,1,1600,720,1200000
+realme,Realme C30s (4GB RAM + 64GB),6.800.000,6.2,0,unisoc,8,1.6,5000,1,10,4,64,6.5,60,1,android,8,5,1,1600,720,960000
+realme,Realme C31,2.500.000,6.2,0,tiger,8,1.82,5000,0,0,3,32,6.52,60,3,android,13,5,1,1600,720,1220000
+realme,Realme C31 (4GB RAM + 64GB),3.500.000,6.5,0,tiger,8,1.82,5000,0,0,4,64,6.52,60,3,android,13,5,1,1600,720,1220000
+realme,Realme C32,4.500.000,6.5,0,tiger,8,1.82,5000,0,0,4,64,6.52,60,3,android,13,5,1,1600,720,null
+realme,Realme C33,2.800.000,6.4,0,unisoc,8,1.8,5000,0,0,3,32,6.5,60,2,android,50,5,1,1600,720,null
+realme,Realme C33 (4GB RAM + 64GB),3.200.000,6.7,0,unisoc,8,1.8,5000,0,0,4,64,6.5,60,2,android,50,5,1,1600,720,null
+realme,Realme C35,3.500.000,7,0,tiger,8,1.8,5000,1,18,4,64,6.6,60,3,android,50,8,1,2408,1080,null
+realme,Realme C35 (4GB RAM + 128GB),3.800.000,7.1,0,tiger,8,1.8,5000,1,18,4,128,6.6,90,3,android,50,8,1,2408,1080,490000
+realme,Realme C35 (6GB RAM + 128GB),3.600.000,7.4,0,tiger,8,1.8,5000,1,18,6,128,6.6,90,3,android,50,8,1,2408,1080,510000
+realme,Realme G1,4.500.000,6.4,0,helio,8,2.3,6000,0,0,3,32,6.52,60,3,android,13,5,1,1600,720,null
+realme,Realme GT 2 5G,5.000.000,8.4,1,snapdragon,8,2.84,5000,1,65,8,128,6.62,120,3,android,50,16,0,2400,1080,null
+realme,Realme GT 2 Explorer Master Edition,2.200.000,8.6,1,snapdragon,8,3.2,5000,1,100,8,128,6.7,120,3,android,50,16,0,2412,1080,null
+realme,Realme GT 2 Pro 5G,1.800.000,8.9,1,snapdragon,8,3,5000,1,65,8,128,6.7,120,3,android,50,32,0,3216,1440,null
+realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),2.000.000,8.9,1,snapdragon,8,3,5000,1,65,12,256,6.7,120,3,android,50,32,0,3216,1440,null
+realme,Realme GT 5G,1.500.000,8.5,1,snapdragon,8,2.84,4500,1,65,8,128,6.43,120,3,android,64,16,0,2400,1080,null
+realme,Realme GT Explorer Master Edition,1.700.000,8.5,1,snapdragon,8,3.2,4500,1,65,8,128,6.55,120,3,android,50,32,0,2400,1080,null
+realme,Realme GT Master Edition 5G,1.600.000,8.4,1,snapdragon,8,2.4,4300,1,65,8,128,6.43,120,3,android,64,32,0,2400,1080,null
+realme,Realme GT Neo 3 5G,1.800.000,8.3,1,dimensity,8,2.85,5000,1,80,8,128,6.7,120,3,android,50,16,0,2412,1080,null
+realme,Realme GT Neo 3T,3.000.000,7.9,1,snapdragon,8,3.2,5000,1,80,6,128,6.62,120,3,android,64,16,0,2400,1080,null
+realme,Realme GT Neo 3T (8GB RAM + 128GB),4.000.000,8.1,1,snapdragon,8,3.2,5000,1,80,8,128,6.62,120,3,android,64,16,0,2400,1080,null
+realme,Realme GT Neo 3T (8GB RAM + 256GB),3.200.000,8.2,1,snapdragon,8,3.2,5000,1,80,8,256,6.62,120,3,android,64,16,0,2400,1080,1100000
+realme,Realme GT Neo 4T,4.500.000,8,1,snapdragon,8,3,5000,1,120,8,128,6.73,144,3,android,50,16,0,2400,1080,220000
+realme,Realme GT Neo 5,9.000.000,8.3,1,snapdragon,8,3.2,4600,1,240,8,128,6.7,120,3,android,50,16,0,2412,1080,240000
+realme,Realme GT Neo2 5G,8.000.000,8.2,1,snapdragon,8,3.2,5000,1,65,8,128,6.62,120,3,android,64,16,0,1080,2400,580000
+realme,Realme Narzo 20,6.000.000,7.2,0,helio,8,2,6000,1,18,4,64,6.5,60,3,android,48,8,1,1600,720,950000
+realme,Realme Narzo 30 5G,3.500.000,8,1,dimensity,8,2.2,5000,1,18,6,128,6.5,90,3,android,48,16,1,2400,1080,600000
+realme,Realme Narzo 30 Pro 5G (8GB RAM +128GB),null,8.3,1,dimensity,8,2.4,5000,1,30,8,128,6.5,120,3,android,48,16,1,2400,1080,700000
+realme,Realme Narzo 50,null,7.4,0,helio,8,2,5000,1,33,4,64,6.6,120,3,android,50,16,1,2412,1080,800000
+realme,Realme Narzo 50 (6GB RAM + 128GB),null,7.7,0,helio,8,2,5000,1,33,6,128,6.6,120,3,android,50,16,1,2412,1080,1800000
+realme,Realme Narzo 50 5G,null,7.9,1,dimensity,8,2.4,5000,1,33,6,128,6.6,90,3,android,48,16,1,2400,1080,110000
+realme,Realme Narzo 50 5G (4GB RAM + 128GB),null,7.6,1,dimensity,8,2.4,5000,1,33,4,128,6.6,90,3,android,48,16,1,2400,1080,200000
+realme,Realme Narzo 50 5G (4GB RAM + 64GB),null,7.5,1,dimensity,8,2.4,5000,1,33,4,64,6.6,90,3,android,48,16,1,2400,1080,210000
+realme,Realme Narzo 50 Pro 5G,null,8.1,1,dimensity,8,2.5,5000,1,33,6,128,6.4,90,3,android,48,16,1,2400,1080,215000
+realme,Realme Narzo 50 Pro 5G (8GB RAM + 128GB),null,8.3,1,dimensity,8,2.5,5000,1,33,8,128,6.4,90,3,android,48,16,1,2400,1080,350000
+realme,Realme Narzo 50A,null,7.1,0,helio,8,2,6000,1,18,4,64,6.5,60,3,android,50,8,1,1600,720,480000
+realme,Realme Narzo 50A Prime,null,7.3,0,tiger,8,1.82,5000,1,18,4,64,6.6,60,3,android,50,8,1,2408,1080,350000
+realme,Realme Narzo 50A Prime (4GB RAM + 128GB),null,7.4,0,tiger,8,1.82,5000,1,18,4,128,6.6,60,3,android,50,8,1,2408,1080,900000
+realme,Realme Narzo 50i,null,0,0,unisoc,8,1.6,5000,0,0,2,32,6.5,60,1,android,8,5,1,1600,720,360000
+realme,Realme Narzo 50i (4GB RAM + 64GB),null,6.2,0,unisoc,8,1.6,5000,0,0,4,64,6.5,60,1,android,8,5,1,1600,720,500000
+realme,Realme Narzo 50i Prime,null,6.1,0,tiger,8,1.82,5000,1,10,3,32,6.5,60,1,android,8,5,1,1600,720,700000
+realme,Realme Narzo 50i Prime (4GB RAM + 64GB),null,6.4,0,tiger,8,1.82,5000,1,10,4,64,6.5,60,1,android,8,5,1,1600,720,710000
+realme,Realme Q2i,1.499.000,6.9,1,dimensity,8,2,5000,1,18,4,128,6.5,60,3,android,13,8,0,1600,720,90000
+realme,Realme Q3,2.800.000,8,1,snapdragon,8,2.2,5000,1,30,6,128,6.5,120,3,android,48,16,1,2400,1080,100000
+realme,Realme Q3i 5G,4.000.000,7.6,1,dimensity,8,2.2,5000,1,18,4,128,6.5,60,3,android,48,16,1,2400,1080,210000
+realme,Realme Q5 5G,15.000.000,7.8,1,snapdragon,8,2.2,5000,1,60,6,128,6.6,120,3,android,50,16,1,2412,1080,290000
+realme,Realme X50 Pro 5G (12GB RAM + 256GB),null,8.7,1,snapdragon,8,2.84,4200,1,65,12,256,6.44,90,4,android,64,32,0,2400,1080,290000
+realme,Realme X50 Pro 5G (8GB RAM + 128GB),900,8.5,1,snapdragon,8,2.84,4200,1,65,8,128,6.44,90,4,android,64,32,0,2400,1080,330000
+realme,Realme X7 Max,1.500.000,8.4,1,dimensity,8,3,4500,1,50,8,128,6.43,120,3,android,64,16,0,2400,1080,500000
+realme,Realme XT,1.700.000,7.5,0,snapdragon,8,2.3,4000,1,20,4,64,6.4,60,4,android,64,16,1,2340,1080,380000
+Realme,P3 Ultra,1.200.000,,1,Mediatek,8,3.35,6000,1,80.0W,8 / 12,128 / 256 / 512,6.83,120,2,android,50,16,0,2800,1272,220000
+Realme,P4 5G,1.800.000,,1,Mediatek,8,2.6,7000,1,80.0W,6.0 / 8,128 / 256,6.77,144,1,android,50,16,0,2392,1080,300000
+Realme,P3 Pro 5G,1.600.000,,1,Qualcomm,8,2.5,6000,1,80.0W,8 / 12,128 / 256,6.83,120,2,android,50,16,0,2800,1272,120000
+Realme,P3x 5G,1.800.000,,1,Mediatek,8,2.5,6000,1,45.0W,6.0 / 8,128,6.72,120,2,android,50,8,1,2400,1080,240000
+Realme,15.0x 5G,1.500.000,,1,Mediatek,8,2.4,7000,1,60.0W,6.0 / 8,128 / 256,6.81,144,1,android,50,50,1,1570,720,150000
+Realme,P4 Pro 5G,1.600.000,,1,Qualcomm,8,2.8,7000,1,80.0W,8 / 12,128 / 256 / 512,6.8,144,2,android,50,50,0,2800,1280,150000
+Realme,GT 7,1.700.000,,1,Mediatek,8,3.4,7000,1,120.0W,8 / 12 / 16,256 / 512,6.78,120,3,android,50,32,0,2780,1264,160000
+Realme,Narzo 80 Lite 5G,1.800.000,,1,Mediatek,8,2.4,6000,1,15.0W,4.0 / 6,64 / 128,6.67,120,1,android,32,8,1,1604,720,180000
+Realme,15.0x 5G,2.000.000,,1,Mediatek,8,2.4,7000,1,60.0W,6.0 / 8,128 / 256,6.81,144,1,android,50,50,1,1570,720,180000
+Realme,P4 Pro 5G,1.900.000,,1,Qualcomm,8,2.8,7000,1,80.0W,8 / 12,128 / 256 / 512,6.8,144,2,android,50,50,0,2800,1280,180000
+Realme,GT 7,1.800.000,,1,Mediatek,8,3.4,7000,1,120.0W,8 / 12 / 16,256 / 512,6.78,120,3,android,50,32,0,2780,1264,250000
+Realme,Narzo 80 Lite 5G,2.000.000,,1,Mediatek,8,2.4,6000,1,15.0W,4.0 / 6,64 / 128,6.67,120,1,android,32,8,1,1604,720,190000
+Realme,Narzo 80x 5G,2.200.000,,1,Mediatek,8,2.5,6000,1,45.0W,6.0 / 8,128,6.72,120,2,android,50,8,1,2400,1080,110000
+Realme,Narzo 80 Lite 4G,2.500.000,,0,Unisoc,8,1.8,6300,1,15.0W,4.0 / 6,64 / 128,6.74,90,1,android,13,5,1,1600,720,120000
+Realme,GT 6,2.800.000,,1,Qualcomm,8,3.0,5500,1,120.0W,8 / 12 / 16,256 / 512,6.78,120,3,android,50,32,0,2780,1264,null
+redmi,Redmi 12C,3.000.000,7,0,helio,8,2,5000,0,0,4,64,6.71,60,2,android,50,5,1,1650,720,null
+redmi,Redmi Note 11 Pro 2023,3.000.000,8.1,0,snapdragon,8,2.3,5000,1,67,6,128,6.67,120,4,android,108,16,1,2400,1080,null
+redmi,Redmi Note 12 Pro Speed Edition,3.500.000,8.1,1,snapdragon,8,2.4,5000,1,67,6,128,6.67,120,3,android,108,16,0,2400,1080,null
+royole,Royole FlexPai 2,3.800.000,8.7,1,snapdragon,8,2.84,4450,0,0,8,128,7.8,60,3,android,64,32,0,1920,1440,null
+royole,Royole FlexPai 3 5G,4.200.000,8.7,1,snapdragon,8,2.84,3360,0,0,8,128,7.2,60,3,android,64,32,0,1920,1440,null
+samsung,Samsung Galaxy A01 Core,4.500.000,0,0,mediatek,4,1.5,3000,0,0,1,16,5.3,60,1,android,8,5,1,1480,720,null
+samsung,Samsung Galaxy A03,null,6.6,0,unisoc,8,1.6,5000,1,15,3,32,6.5,60,2,android,48,5,1,1560,720,null
+samsung,Samsung Galaxy A03 (4GB RAM + 64GB),2.500.000,6.9,0,unisoc,8,1.6,5000,1,15,4,64,6.5,60,2,android,48,5,1,1560,720,null
+samsung,Samsung Galaxy A03 Core,2.800.000,0,0,unisoc,4,1.6,5000,0,0,2,32,6.5,60,1,android,8,5,1,1600,720,null
+samsung,Samsung Galaxy A03s,3.500.000,6.7,0,helio,8,2.3,5000,1,15,3,32,6.5,60,3,android,13,5,1,1600,720,null
+samsung,Samsung Galaxy A04,3.800.000,7.1,0,helio,8,2.3,5000,1,0,4,64,6.5,60,2,android,50,5,1,1600,720,null
+samsung,Samsung Galaxy A04 (4GB RAM + 128GB),4.200.000,7.2,0,helio,8,2.3,5000,1,0,4,128,6.5,60,2,android,50,5,1,1600,720,null
+samsung,Samsung Galaxy A04e,4.500.000,6.5,0,helio,8,2.3,5000,0,0,3,32,6.5,60,2,android,13,5,1,1600,720,null
+samsung,Samsung Galaxy A04e (3GB RAM + 64GB),null,6.6,0,helio,8,2.3,5000,0,0,3,64,6.5,60,2,android,13,5,1,1600,720,110000
+samsung,Samsung Galaxy A04e (4GB RAM + 128GB),3.500.000,6.9,0,helio,8,2.3,5000,0,0,4,128,6.5,60,2,android,13,5,1,1600,720,250000
+samsung,Samsung Galaxy A04s,4.000.000,7.1,0,exynos,8,2,5000,1,15,4,64,6.5,90,3,android,50,5,1,1600,720,500000
+samsung,Samsung Galaxy A04s (4GB RAM + 128GB),4.200.000,7.2,0,exynos,8,2,5000,1,15,4,128,6.5,90,3,android,50,5,1,1600,720,850000
+samsung,Samsung Galaxy A05,4.800.000,6.3,0,,8,0,5000,1,18,4,64,6.5,60,2,android,48,5,1,1560,720,null
+samsung,Samsung Galaxy A11,5.200.000,6.3,0,,8,1.8,4000,1,15,2,32,6.4,60,3,android,13,8,1,1560,720,410000
+samsung,Samsung Galaxy A12,5.000.000,7.1,0,helio,8,2.3,5000,1,15,4,64,6.5,60,4,android,48,8,1,1560,720,410000
+samsung,Samsung Galaxy A12 (6GB RAM + 128GB),2.800.000,7.5,0,helio,8,2.3,5000,1,15,6,128,6.5,60,4,android,48,8,1,1560,720,410000
+samsung,Samsung Galaxy A13,3.500.000,7.5,0,,8,2,5000,1,25,4,64,6.6,60,4,android,50,8,1,2408,1080,410000
+samsung,Samsung Galaxy A13 (4GB RAM + 128GB),4.500.000,7.5,0,,8,2,5000,1,25,4,128,6.6,60,4,android,50,8,1,2408,1080,410000
+samsung,Samsung Galaxy A13 (6GB RAM + 128GB),4.800.000,7.8,0,,8,2,5000,1,25,6,128,6.6,60,4,android,50,8,1,2408,1080,410000
+samsung,Samsung Galaxy A13 5G,5.800.000,7.3,1,dimensity,8,2.2,5000,1,15,4,64,6.5,90,3,android,50,5,1,1600,720,540000
+samsung,Samsung Galaxy A14 5G,5.500.000,7.5,1,exynos,8,2.4,5000,1,15,4,64,6.6,90,3,android,50,13,1,2408,1080,540000
+samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),5.800.000,7.9,1,exynos,8,2.4,5000,1,15,6,128,6.6,90,3,android,50,13,1,2408,1080,415000
+samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),6.000.000,8.2,1,exynos,8,2.4,5000,1,15,8,128,6.6,90,3,android,50,13,1,2408,1080,415000
+samsung,Samsung Galaxy A15,3.000.000,6.3,0,,8,0,5000,1,0,6,64,6.5,60,3,android,48,8,1,1600,720,415000
+samsung,Samsung Galaxy A21s (6GB RAM + 128GB),5.000.000,7.5,0,exynos,8,2,5000,0,0,6,128,6.5,60,4,android,48,13,1,1600,720,550000
+samsung,Samsung Galaxy A22,7.000.000,7.6,0,helio,8,2,5000,1,15,6,128,6.4,60,4,android,48,13,1,1600,720,600000
+samsung,Samsung Galaxy A22 5G,7.500.000,7.9,1,dimensity,8,2.2,5000,1,15,6,128,6.6,90,3,android,48,8,1,2408,1080,410000
+samsung,Samsung Galaxy A23,null,7.9,0,snapdragon,8,2.4,5000,1,25,6,128,6.6,60,4,android,50,8,1,2408,1080,null
+samsung,Samsung Galaxy A23 (8GB RAM + 128GB),null,8.2,0,snapdragon,8,2.4,5000,1,25,8,128,6.6,60,4,android,50,8,1,2408,1080,230000
+samsung,Samsung Galaxy A23 5G,null,7.9,1,snapdragon,8,2.2,5000,1,25,6,128,6.6,120,4,android,50,8,1,2408,1080,250000
+samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),null,8.1,1,snapdragon,8,2.2,5000,1,25,8,128,6.6,120,4,android,50,8,1,2408,1080,180000
+samsung,Samsung Galaxy A24,null,7.7,0,exynos,8,1.8,4000,1,15,6,64,6.4,60,3,android,48,16,1,2408,1080,200000
+samsung,Samsung Galaxy A32,null,8,0,helio,8,2,5000,1,15,6,128,6.4,90,4,android,64,20,1,2400,1080,320000
+samsung,Samsung Galaxy A32 (8GB RAM + 128GB),1.300.000,8.2,0,helio,8,2,5000,1,15,8,128,6.4,90,4,android,64,20,1,2400,1080,350000
+samsung,Samsung Galaxy A32 5G,1.800.000,7.9,1,dimensity,8,2,5000,1,15,6,128,6.5,90,4,android,48,13,1,1600,720,320000
+samsung,Samsung Galaxy A33 5G,1.900.000,8.2,1,exynos,8,2.4,5000,1,25,6,128,6.4,90,4,android,48,13,1,2400,1080,400000
+samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),2.100.000,8.5,1,exynos,8,2.4,5000,1,25,8,128,6.4,90,4,android,48,13,1,2400,1080,280000
+samsung,Samsung Galaxy A34 5G,null,7.5,1,exynos,8,0,5000,1,33,6,128,6.5,90,4,android,48,13,1,2400,1080,430000
+samsung,Samsung Galaxy A40,2.800.000,6.9,0,exynos,8,2.2,3100,1,15,4,64,5.9,60,2,android,16,25,1,2340,1080,440000
+samsung,Samsung Galaxy A50s,3.200.000,8,0,exynos,8,2.3,4000,1,15,4,128,6.4,60,3,android,48,32,1,2340,1080,450000
+samsung,Samsung Galaxy A52,4.000.000,8.3,0,snapdragon,8,2.3,4500,1,25,6,128,6.5,90,4,android,64,32,1,2400,1080,680000
+samsung,Samsung Galaxy A52 (8GB RAM + 128GB),4.200.000,8.6,0,snapdragon,8,2.3,4500,1,25,8,128,6.5,90,4,android,64,32,1,2400,1080,680000
+samsung,Samsung Galaxy A53 (8GB RAM + 256GB),null,8.9,1,exynos,8,2.4,5000,1,25,8,256,6.5,120,4,android,64,32,1,2400,1080,690000
+samsung,Samsung Galaxy A53 5G,2.800.000,8.7,1,exynos,8,2.4,5000,1,25,6,128,6.5,120,4,android,64,32,1,2400,1080,690000
+samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),3.800.000,8.9,1,exynos,8,2.4,5000,1,25,8,128,6.5,120,4,android,64,32,1,2400,1080,380000
+samsung,Samsung Galaxy A54 5G,4.200.000,7.6,1,exynos,8,0,5000,1,25,6,128,6.4,120,3,android,50,32,1,2400,1080,440000
+samsung,Samsung Galaxy A7 (2018),null,7,0,exynos,8,2.2,3300,0,0,4,64,6,60,3,android,24,24,1,1080,2220,520000
+samsung,Samsung Galaxy A71,1.400.000,8.6,0,snapdragon,8,2.2,4500,1,25,8,128,6.7,60,4,android,64,32,1,2400,1080,520000
+samsung,Samsung Galaxy A73 5G,1.500.000,0,1,snapdragon,8,2.4,5000,1,25,8,128,6.7,120,4,android,108,32,1,2400,1080,530000
+samsung,Samsung Galaxy A73 5G (8GB RAM + 256GB),1.900.000,0,1,snapdragon,8,2.4,5000,1,25,8,256,6.7,120,4,android,108,32,1,2400,1080,530000
+samsung,Samsung Galaxy A74 5G,2.000.000,0,1,snapdragon,8,2.36,5000,1,33,8,128,6.7,120,4,android,108,32,1,2412,1080,385000
+samsung,Samsung Galaxy A75 5G,2.200.000,8.3,1,snapdragon,8,0,5000,1,67,8,128,6.7,120,4,android,108,32,1,2412,1080,null
+samsung,Samsung Galaxy A82 5G,2.500.000,8.6,1,snapdragon,8,2.96,4500,1,25,6,128,6.71,120,3,android,64,10,1,3200,1440,850000
+samsung,Samsung Galaxy A83 5G,2.800.000,8.6,1,snapdragon,8,3.2,4500,1,25,6,128,6.71,120,3,android,64,10,1,3200,1440,860000
+samsung,Samsung Galaxy A9 Pro (2019),null,7.8,0,snapdragon,8,2.2,3400,1,0,6,128,6.4,60,3,android,24,24,1,2340,1080,null
+samsung,Samsung Galaxy A92 5G,2.800.000,8,1,dimensity,8,3,5000,1,0,8,128,6.7,60,3,android,48,16,0,2400,1080,null
+samsung,Samsung Galaxy F04,2.500.000,6.8,0,helio,8,2.3,5000,1,15,4,64,6.5,60,2,android,13,5,1,1600,720,1250000
+samsung,Samsung Galaxy F12,2.800.000,7.3,0,exynos,8,2,6000,1,15,4,64,6.5,90,4,android,48,8,1,1600,720,1200000
+samsung,Samsung Galaxy F13,2.900.000,7.4,0,exynos,8,2,6000,1,15,4,64,6.6,60,3,android,50,8,1,1080,2408,1200000
+samsung,Samsung Galaxy F13 (4GB RAM + 128GB),2.800.000,7.5,0,exynos,8,2,6000,1,15,4,128,6.6,60,3,android,50,8,1,1080,2408,1250000
+samsung,Samsung Galaxy F14,3.800.000,6.7,0,,8,0,5000,1,25,4,64,6.62,60,3,android,50,16,1,1080,2408,1250000
+samsung,Samsung Galaxy F22,4.200.000,7.3,0,helio,8,2,6000,0,0,4,64,6.4,90,4,android,48,13,1,1600,720,1050000
+samsung,Samsung Galaxy F22 (6GB RAM + 128GB),null,7.6,0,helio,8,2,6000,0,0,6,128,6.4,90,4,android,48,13,1,1600,720,1050000
+samsung,Samsung Galaxy F23 5G,null,7.8,1,snapdragon,8,2.2,5000,1,25,4,128,6.6,120,3,android,50,8,1,2408,1080,1060000
+samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),null,8,1,snapdragon,8,2.2,5000,1,25,6,128,6.6,120,3,android,50,8,1,2408,1080,1100000
+samsung,Samsung Galaxy F24 5G,null,7.8,1,snapdragon,8,2.2,5000,1,25,4,128,6.6,120,3,android,50,8,1,2408,1080,1300000
+samsung,Samsung Galaxy F41 (6GB RAM + 128GB),6.000.000,8.2,0,exynos,8,2.3,6000,1,15,6,128,6.4,60,3,android,64,32,1,2340,1080,1310000
+samsung,Samsung Galaxy F42 5G,6.500.000,8,1,dimensity,8,2.2,5000,1,15,6,128,6.6,90,3,android,64,8,1,2408,1080,1320000
+samsung,Samsung Galaxy F42 5G (8GB RAM + 128GB),null,8.2,1,dimensity,8,2.2,5000,1,15,8,128,6.6,90,3,android,64,8,1,2408,1080,105000
+samsung,Samsung Galaxy F63,5.500.000,8.4,1,dimensity,8,2,7000,1,33,6,128,6.7,60,4,android,64,32,1,2400,1080,105000
+samsung,Samsung Galaxy M04,14.000.000,6.6,0,helio,8,2.3,5000,1,15,4,64,6.5,60,2,android,13,5,1,1600,720,110000
+samsung,Samsung Galaxy M04 (4GB RAM + 128GB),16.000.000,6.8,0,helio,8,2.3,5000,1,15,4,128,6.5,60,2,android,13,5,1,1600,720,110000
+samsung,Samsung Galaxy M12,8.500.000,7.2,0,exynos,8,2,6000,1,15,4,64,6.5,90,4,android,48,8,1,1600,720,115000
+samsung,Samsung Galaxy M13,10.000.000,7.5,0,exynos,8,2,6000,1,15,6,128,6.6,60,3,android,50,8,1,2400,1080,140000
+samsung,Samsung Galaxy M13 (4GB RAM + 64GB),12.000.000,7.1,0,exynos,8,2,6000,1,15,4,64,6.6,60,3,android,50,8,1,2400,1080,580000
+samsung,Samsung Galaxy M13 5G,7.000.000,7.5,1,dimensity,8,2.2,5000,1,15,6,128,6.5,90,2,android,50,5,1,1600,720,130000
+samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),11.000.000,7.1,1,dimensity,8,2.2,5000,1,15,4,64,6.5,90,2,android,50,5,1,1600,720,135000
+samsung,Samsung Galaxy M14,13.000.000,6,0,exynos,8,0,6000,0,0,4,64,6.5,60,3,android,48,8,1,1600,720,135000
+samsung,Samsung Galaxy M21 2021,10.000.000,7.6,0,exynos,8,2.3,6000,1,15,4,64,6.4,60,3,android,48,20,1,2340,1080,135000
+samsung,Samsung Galaxy M32,12.500.000,7.6,0,helio,8,2,6000,1,15,4,64,6.4,90,4,android,64,20,1,2400,1080,130000
+samsung,Samsung Galaxy M32 (6GB RAM + 128GB),14.000.000,8,0,helio,8,2,6000,1,15,6,128,6.4,90,4,android,64,20,1,2400,1080,140000
+samsung,Samsung Galaxy M32 Prime Edition,15.000.000,7.5,0,helio,8,2,6000,1,15,4,64,6.4,90,4,android,64,20,1,2400,1080,140000
+samsung,Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),18.000.000,7.9,0,helio,8,2,6000,1,15,6,128,6.4,90,4,android,64,20,1,2400,1080,140000
+samsung,Samsung Galaxy M33 5G,20.000.000,8.1,1,exynos,8,2.4,6000,1,25,6,128,6.6,120,4,android,50,8,1,2400,1080,145000
+samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),null,8.4,1,exynos,8,2.4,6000,1,25,8,128,6.6,120,4,android,50,8,1,2400,1080,145000
+samsung,Samsung Galaxy M34 5G,15.000.000,8.4,1,exynos,8,2.4,6000,1,25,6,128,6.5,120,4,android,64,32,1,2400,1080,145000
+samsung,Samsung Galaxy M35,17.000.000,7.4,0,exynos,8,0,6000,1,0,8,128,6.5,60,3,android,64,32,1,2400,1080,180000
+samsung,Samsung Galaxy M51s 5G,18.000.000,7.2,1,exynos,8,0,6000,1,0,6,128,6.7,60,3,android,64,32,1,2400,1080,185000
+samsung,Samsung Galaxy M52s 5G,20.000.000,7.4,1,exynos,8,0,5000,1,0,8,128,6.5,60,3,android,64,32,1,2400,1080,180000
+samsung,Samsung Galaxy M53 5G,22.000.000,8.5,1,dimensity,8,2.4,5000,1,25,6,128,6.7,120,4,android,108,32,1,2400,1080,180000
+samsung,Samsung Galaxy M53 5G (8GB RAM + 128GB),12.999.000,8.7,1,dimensity,8,2.4,5000,1,25,8,128,6.7,120,4,android,108,32,1,2400,1080,240000
+samsung,Samsung Galaxy M54 5G,null,8.5,1,snapdragon,8,2.84,6000,1,25,6,128,6.67,90,3,android,64,32,1,2412,1080,250000
+samsung,Samsung Galaxy M62,14.500.000,8.3,0,exynos,8,2.73,7000,1,0,6,128,6.71,60,4,android,64,32,1,2400,1080,250000
+samsung,Samsung Galaxy Note 10 Lite,16.000.000,8.3,0,exynos,8,2.7,4500,1,25,6,128,6.7,60,3,android,12,32,1,2400,1080,250000
+samsung,Samsung Galaxy Note 10 Plus,15.000.000,8.9,0,exynos,8,2.73,4300,1,45,12,256,6.8,60,4,android,12,10,1,3040,1440,255000
+samsung,Samsung Galaxy Note 10 Plus 5G,18.000.000,8.9,1,exynos,8,2.7,4300,1,0,12,256,6.8,60,4,android,12,10,1,3040,1440,255000
+samsung,Samsung Galaxy Note 20,19.500.000,8.7,0,exynos,8,2.73,4300,1,25,8,256,6.7,60,3,android,64,10,0,2400,1080,310000
+samsung,Samsung Galaxy Note 30 Ultra 5G,25.000.000,0,1,snapdragon,8,3.2,4500,1,67,12,256,6.71,120,3,android,200,10,1,3214,1440,140000
+samsung,Samsung Galaxy S10 5G,null,8.6,1,exynos,8,2.7,4500,1,25,8,256,6.7,60,3,android,16,10,1,3040,1440,250000
+samsung,Samsung Galaxy S10 Plus,18.000.000,8.1,0,exynos,8,2.7,4100,1,15,8,128,6.4,60,3,android,16,10,1,3040,1440,250000
+samsung,Samsung Galaxy S20,null,8.8,0,exynos,8,2.73,4000,1,25,8,128,6.2,120,3,android,64,10,1,3200,1440,330000
+samsung,Samsung Galaxy S20 5G,null,8.9,1,exynos,8,2.73,4000,1,25,8,128,6.2,60,3,android,64,10,1,3200,1440,350000
+samsung,Samsung Galaxy S20 FE,null,8.6,0,exynos,8,2.73,4500,1,25,8,128,6.5,120,3,android,12,32,1,2400,1080,440000
+samsung,Samsung Galaxy S20 FE 5G,null,8.8,1,snapdragon,8,2.84,4500,1,0,8,128,6.5,120,3,android,12,32,1,2400,1080,450000
+samsung,Samsung Galaxy S20 Plus,null,8.8,0,exynos,8,2.73,4500,1,25,8,128,6.7,120,4,android,64,10,1,3200,1440,390000
+samsung,Samsung Galaxy S20 Plus 5G,null,0,1,exynos,8,2.73,4500,1,25,8,128,6.7,60,4,android,64,10,1,3200,1440,390000
+samsung,Samsung Galaxy S20 Ultra 5G,null,0,1,exynos,8,2.73,5000,1,45,12,128,6.9,60,4,android,108,40,1,3200,1440,390000
+samsung,Samsung Galaxy S21,null,8.8,1,exynos,8,2.9,4000,1,25,8,128,6.2,120,3,android,64,10,0,2400,1080,390000
+samsung,Samsung Galaxy S21 FE 5G,null,8.7,1,exynos,8,2.9,4500,1,25,8,128,6.4,120,3,android,12,32,0,2340,1080,390000
+samsung,Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),null,8.8,1,exynos,8,2.9,4500,1,25,8,256,6.4,120,3,android,12,32,0,2340,1080,120000
+samsung,Samsung Galaxy S21 Plus,null,8.8,1,exynos,8,2.9,4800,1,25,8,128,6.7,120,3,android,64,10,0,2400,1080,380000
+samsung,Samsung Galaxy S21 Ultra,15.000.000,0,1,exynos,8,2.9,5000,1,25,12,256,6.8,120,4,android,108,40,0,3200,1440,450000
+samsung,Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB),16.000.000,0,1,exynos,8,2.9,5000,1,25,12,128,6.8,120,4,android,108,40,0,3200,1440,380000
+samsung,Samsung Galaxy S22 5G,21.000.000,8.6,1,snapdragon,8,3,3700,1,25,8,128,6.1,120,3,android,50,10,0,2340,1080,440000
+samsung,Samsung Galaxy S22 5G (8GB RAM + 256GB),4.500.000,8.7,1,snapdragon,8,3,3700,1,25,8,256,6.1,120,3,android,50,10,0,2340,1080,500000
+samsung,Samsung Galaxy S22 FE 5G,3.500.000,7.9,1,exynos,8,0,4200,1,33,8,128,6.4,120,3,android,12,32,0,2400,1080,600000
+samsung,Samsung Galaxy S22 Plus 5G,11.000.000,8.7,1,snapdragon,8,3,4500,1,45,8,128,6.6,120,3,android,50,10,0,2340,1080,100000
+samsung,Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),15.000.000,8.8,1,snapdragon,8,3,4500,1,45,8,256,6.6,120,3,android,50,10,0,2340,1080,105000
+samsung,Samsung Galaxy S22 Ultra 5G,null,0,1,snapdragon,8,3,5000,1,45,12,256,6.8,120,4,android,108,40,0,3080,1440,108000
+samsung,Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),null,0,1,snapdragon,8,3,5000,1,45,12,512,6.8,120,4,android,108,40,0,3080,1440,null
+samsung,Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),19.000.000,0,1,snapdragon,8,3,5000,1,45,8,128,6.8,120,4,android,108,40,0,3080,1440,null
+samsung,Samsung Galaxy S23,null,8.8,1,snapdragon,8,3.2,3900,1,25,8,128,6.1,120,3,android,50,12,0,2340,1080,null
+samsung,Samsung Galaxy S23 FE 5G,1.000.000,7.7,1,exynos,8,0,4500,1,0,8,128,6.5,60,4,android,64,32,0,2400,1080,null
+samsung,Samsung Galaxy S23 Plus,2.200.000,8.9,1,snapdragon,8,3.2,4700,1,45,8,256,6.6,120,3,android,50,12,0,2340,1080,null
+samsung,Samsung Galaxy S23 Ultra 5G,2.000.000,0,1,snapdragon,8,3.2,5000,1,45,8,256,6.8,120,4,android,200,12,0,3088,1440,null
+samsung,Samsung Galaxy S24 Ultra,1.900.000,8.5,1,snapdragon,8,0,5100,1,45,12,256,6.83,144,4,android,200,60,0,2860,1200,null
+samsung,Samsung Galaxy S9 Plus (128GB),2.500.000,7.8,0,exynos,8,2.8,3500,1,0,6,128,6.2,60,2,android,12,8,1,2960,1440,null
+samsung,Samsung Galaxy Z Flip 3,2.800.000,8.4,1,snapdragon,8,2.84,3300,1,15,8,128,6.7,120,2,android,12,10,0,2640,1080,null
+samsung,Samsung Galaxy Z Flip 4 5G,3.000.000,8.8,1,snapdragon,8,3.2,3700,1,25,8,128,6.7,120,2,android,12,10,0,2640,1080,null
+samsung,Samsung Galaxy Z Fold 3,4.000.000,8.9,1,snapdragon,8,2.84,4400,1,25,12,256,7.6,120,3,android,12,10,0,2208,1768,null
+samsung,Samsung Galaxy Z Fold 4,3.000.000,0,1,snapdragon,8,3.2,4400,1,25,12,256,7.6,120,3,android,50,10,0,2176,1812,null
+samsung,Samsung Galaxy Z Fold 4 (12GB RAM + 1TB),null,0,1,snapdragon,8,3.2,4400,1,25,12,1024,7.6,120,3,android,50,10,0,2176,1812,null
+Samsung,Galaxy A56,5.500.000,,1,Exynos,8,2.9,5000,1,45.0W,6 / 8 / 12,128 / 256,6.7,120,3,android,50,12,0,2340,1080,null
+Samsung,Galaxy S24 Ultra,6.500.000,,1,Qualcomm,8,3.39,5000,1,45.0W,12,256 / 512 / 1024,6.8,120,4,android,200,12,0,3120,1440,null
+Samsung,Galaxy S25 Ultra,950,,1,Qualcomm,8,4.47,5000,1,45.0W,12 / 16,256 / 512 / 1024,6.9,120,4,android,200,12,0,3120,1440,null
+Samsung,Galaxy S24 FE,1.200.000,,1,Exynos,10,3.1,4700,1,25.0W,8,128 / 256 / 512,6.7,120,3,android,50,10,0,2340,1080,null
+Samsung,Galaxy A35 5G,2.500.000,,1,Exynos,8,2.4,5000,1,25.0W,4 / 6 / 8 / 12,128 / 256,6.6,120,3,android,50,13,1,2340,1080,null
+Samsung,Galaxy A55 5G,2.800.000,,1,Exynos,8,2.75,5000,1,25.0W,6 / 8 / 12,128 / 256,6.6,120,3,android,50,32,1,2340,1080,null
+Samsung,Galaxy A17,3.000.000,,1,Exynos,8,2.4,5000,1,25.0W,4 / 6 / 8,128 / 256,6.7,90,3,android,50,13,1,2340,1080,520000
+Samsung,Galaxy M17,3.000.000,,1,Exynos,8,2.4,5000,1,25.0W,4 / 6 / 8,128,6.7,90,3,android,50,13,1,2340,1080,680000
+Samsung,Galaxy M06,3.800.000,,1,Mediatek,8,2.4,5000,1,25.0W,4.0 / 6,64 / 128,6.74,90,2,android,50,8,1,1600,720,680000
+Samsung,Galaxy M36,3.500.000,,1,Exynos,8,2.4,5000,1,25.0W,6.0 / 8,128 / 256,6.7,120,3,android,50,13,1,2340,1080,830000
+Samsung,Galaxy F36,2.200.000,,1,Exynos,8,2.4,5000,1,25.0W,6.0 / 8,128 / 256,6.7,120,3,android,50,13,1,2340,1080,700000
+Samsung,Galaxy S25,2.500.000,,1,Qualcomm,8,4.47,4000,1,25.0W,12,128 / 256 / 512,6.2,120,3,android,50,12,0,2340,1080,1050000
+Samsung,Galaxy S24,1.500.000,,1,Qualcomm,8,3.39,4000,1,25.0W,8 / 12,128 / 256 / 512,6.2,120,3,android,50,12,0,2340,1080,1050000
+Samsung,Galaxy A36 5G,1.800.000,,1,Qualcomm,8,2.4,5000,1,45.0W,6 / 8 / 12,128 / 256,6.7,120,3,android,50,12,0,2340,1080,null
+sharp,Sharp Aquos R5G,1.500.000,8.8,0,snapdragon,8,2.84,3730,1,0,12,256,6.5,60,3,android,48,16,1,3168,1440,1200000
+sony,Sony Xperia 1 II,1.700.000,8.9,1,snapdragon,8,2.84,4000,1,21,8,256,6.5,60,4,android,12,8,1,3840,1644,870000
+sony,Sony Xperia 1 IV (12GB RAM + 512GB),1.800.000,0,1,snapdragon,8,3,5000,1,30,12,512,6.5,120,4,android,12,12,1,3840,1644,1150000
+sony,Sony Xperia 10 II,1.900.000,7.5,0,snapdragon,8,2,3600,1,18,4,128,6,90,3,android,12,8,1,2520,1080,1300000
+sony,Sony Xperia 10 III Lite 5G,2.000.000,7.8,1,snapdragon,8,2,4500,1,30,6,64,6,60,3,android,12,8,1,2520,1080,1320000
+sony,Sony Xperia 5 II,2.100.000,8.6,1,snapdragon,8,2.84,4000,1,21,8,128,6.1,120,3,android,12,8,1,2520,1080,1400000
+sony,Sony Xperia 5 IV 5G,2.500.000,8.9,1,snapdragon,8,3,5000,1,30,8,256,6.1,120,3,android,12,12,1,2520,1080,null
+sony,Sony Xperia Ace IV,2.400.000,8,0,snapdragon,8,2,5000,1,33,8,128,6.5,120,2,android,50,16,1,2400,1080,750000
+sony,Sony Xperia L5 5G,1.300.000,7.3,0,helio,8,2.3,4000,1,0,4,64,6.2,60,3,android,13,8,1,1680,720,950000
+sony,Sony Xperia Pro-I,1.400.000,0,1,snapdragon,8,2.84,4500,1,30,12,512,6.5,120,3,android,12,8,1,3840,1644,650000
+Sony,Xperia 1 VI,null,,1,Qualcomm,8,3.3,5000,1,30.0W,12,256 / 512,6.5,120,3,android,48,12,1,2340,1080,680000
+tcl,TCL Ion X,null,6,0,helio,8,2,3000,1,10,3,32,6,60,1,android,13,5,1,1440,720,690000
+tecno,Tecno Camon 18,null,7.5,0,helio,8,2,5000,1,18,4,128,6.8,90,3,android,48,16,0,2460,1080,440000
+tecno,Tecno Camon 19,null,7.9,0,helio,8,2,5000,1,18,6,128,6.8,60,3,android,64,16,1,2460,1080,440000
+tecno,Tecno Camon 19 Neo,null,7.7,0,helio,8,2,5000,1,18,6,128,6.8,90,3,android,48,32,0,2400,1080,440000
+tecno,Tecno Camon 19 Pro,null,8.1,0,helio,8,02.05,5000,1,33,8,128,6.8,120,3,android,64,32,0,2460,1080,820000
+tecno,Tecno Camon 19 Pro 5G,null,8.2,1,dimensity,8,2.4,5000,1,33,8,128,6.8,120,3,android,64,16,0,2460,1080,830000
+tecno,Tecno Camon 19 Pro Mondrian Edition,null,8.4,0,helio,8,02.05,5000,1,33,8,128,6.8,120,3,android,64,32,1,2460,1080,720000
+tecno,Tecno Camon 20 Premier,null,7.9,1,dimensity,8,2.2,5000,1,33,6,128,6.83,120,3,android,50,16,0,2460,1080,720000
+tecno,Tecno Phantom X,null,8.4,0,helio,8,02.05,4700,1,33,8,256,6.7,90,3,android,50,48,0,2340,1080,840000
+tecno,Tecno Phantom X Pro,null,8.4,0,helio,8,02.05,5000,1,44,8,256,6.7,120,4,android,50,48,0,2400,1080,850000
+tecno,Tecno Phantom X2,null,8.5,1,dimensity,8,03.05,5160,1,45,8,256,6.8,120,3,android,64,32,0,2400,1080,800000
+tecno,Tecno Phantom X2 Pro,null,8.9,1,dimensity,8,03.05,5160,1,45,12,256,6.8,120,3,android,50,32,0,2400,1080,980000
+tecno,Tecno Pop 5 Go,null,0,0,spreadtrum,4,1.3,4000,0,0,1,16,6.1,60,2,android,5,5,1,1520,720,1210000
+tecno,Tecno Pop 6 Pro,null,0,0,helio,4,2,5000,0,0,2,32,6.56,60,2,android,8,5,1,1600,720,300000
+tecno,Tecno Pova 2,150.000.000,7.4,0,helio,8,2,7000,1,18,4,64,6.95,60,4,android,48,8,1,2460,1080,300000
+tecno,Tecno Pova 3,3.500.000,7.4,0,helio,8,2,7000,1,33,4,64,6.95,90,3,android,50,8,1,2460,1080,190000
+tecno,Tecno Pova 3 (6GB RAM + 128GB),5.000.000,7.7,0,helio,8,2,7000,1,33,6,128,6.9,90,3,android,50,8,1,2460,1080,190000
+tecno,Tecno Pova 4,6.000.000,7.3,0,helio,8,2.2,6000,1,18,8,128,6.82,90,2,android,50,8,1,1600,720,200000
+tecno,Tecno Pova 4 Pro,null,7.4,0,helio,8,2.2,6000,1,45,8,256,6.66,90,2,android,50,8,1,1600,720,195000
+tecno,Tecno Pova 5G,3.200.000,7.8,1,dimensity,8,2.4,6000,1,18,8,128,6.9,120,3,android,50,16,1,2460,1080,195000
+tecno,Tecno Pova Neo 2,3.400.000,6.7,0,helio,8,2,7000,0,0,6,128,6.82,90,2,android,16,8,1,1600,720,300000
+tecno,Tecno Pova Neo 5G,3.000.000,7.1,0,dimensity,8,2.4,6000,1,18,4,128,6.8,120,2,android,50,8,1,2400,1080,120000
+tecno,Tecno Spark 8 (4GB RAM + 64GB),3.200.000,6.4,0,helio,8,1.8,5000,0,0,4,64,6.52,60,2,android,16,8,1,1600,720,120000
+tecno,Tecno Spark 8 Pro,1.700.000,7.2,0,helio,8,2,5000,1,33,4,64,6.8,60,3,android,48,8,1,2460,1080,120000
+tecno,Tecno Spark 8C,3.500.000,6.2,0,unisoc,8,2,5000,0,0,3,64,6.6,90,2,android,13,8,1,1612,720,120000
+tecno,Tecno Spark 8C (4GB RAM + 64GB),5.000.000,6.3,0,unisoc,8,2,5000,0,0,4,64,6.6,90,2,android,13,8,1,1612,720,280000
+tecno,Tecno Spark 8T,7.500.000,7,0,helio,8,2.3,5000,0,0,4,64,6.6,60,2,android,50,8,1,1600,720,280000
+tecno,Tecno Spark 9,3.500.000,6.9,0,helio,8,2.3,5000,0,0,6,128,6.6,90,2,android,13,8,1,1600,720,220000
+tecno,Tecno Spark 9 (3GB RAM + 64GB),5.500.000,6.3,0,helio,8,2.3,5000,0,0,3,64,6.6,90,2,android,13,8,1,1600,720,220000
+tecno,Tecno Spark 9 (4GB RAM + 64GB),6.500.000,6.5,0,helio,8,2.3,5000,0,0,4,64,6.6,90,2,android,13,8,1,1600,720,300000
+tecno,Tecno Spark 9 Pro,null,7.4,0,helio,8,2,5000,1,18,4,64,6.6,90,3,android,48,32,1,2460,1080,300000
+tecno,Tecno Spark 9T,4.500.000,7.2,0,helio,8,2.3,5000,1,18,4,64,6.6,60,3,android,50,8,1,2408,1080,500000
+tecno,Tecno Spark Go 2022,5.500.000,6.1,0,,8,2.2,5000,0,0,2,32,6.51,60,2,android,13,8,1,1600,720,350000
+tecno,Tecno Spark Go 2023,5.000.000,6.2,0,helio,4,2,5000,1,10,3,32,6.56,60,2,android,13,5,1,1600,720,140000
+Tecno,Pova Slim,7.000.000,,1,Mediatek,8,2.5,5160,1,45.0W,8,128 / 256,6.78,144,2,android,50,13,0,2720,1224,140000
+Tecno,Spark Slim,20.000.000,,0,Mediatek,8,2.2,5160,1,45.0W,8,256,6.78,144,1,android,50,13,0,2720,1224,140000
+Tecno,Spark Go,17.000.000,,1,Mediatek,8,2.5,6000,1,18.0W,4,128,6.74,120,1,android,50,5,1,1600,720,140000
+Tecno,Spark 40C,11.000.000,,0,Mediatek,8,2.0,6000,1,18.0W,4.0 / 8,128 / 256,6.67,120,1,android,13,8,1,1600,720,180000
+Tecno,Pova 7 Pro,12.500.000,,1,Mediatek,8,2.5,6000,1,45.0W,8 / 12,128 / 256,6.78,144,2,android,64,13,0,2720,1224,120000
+Tecno,Pova 7,10.000.000,,1,Mediatek,8,2.5,6000,1,45.0W,8,128 / 256,6.78,144,1,android,50,13,1,2460,1080,120000
+Tecno,Spark 40 Pro+,14.000.000,,0,Mediatek,8,2.2,5200,1,45.0W,8,128 / 256,6.78,144,2,android,50,13,0,2720,1224,120000
+Tecno,Spark 40 Pro,4.500.000,,0,Mediatek,8,2.2,5200,1,45.0W,8,128 / 256,6.78,144,2,android,50,13,1,2720,1224,120000
+Tecno,Spark 40,6.000.000,,0,Mediatek,8,2.0,5200,1,45.0W,4 / 6 / 8,128 / 256,6.67,120,2,android,50,8,1,1600,720,120000
+Tecno,Pova 7 Ultra,7.000.000,,1,Mediatek,8,3.35,6000,1,70.0W,8 / 12,256,6.67,144,2,android,108,13,0,2800,1260,100000
+Tecno,Pova 7 4G,8.000.000,,0,Mediatek,8,2.2,7000,1,45.0W,8,128 / 256,6.78,120,2,android,108,8,1,2460,1080,110000
+Tecno,Camon 40 Premier,9.000.000,,1,Mediatek,8,3.35,5100,1,70.0W,12,256,6.67,144,3,android,50,50,0,2800,1260,110000
+Tecno,Spark Go 2,9.500.000,,0,Unisoc,8,1.8,5000,1,15.0W,3.0 / 4,64 / 128 / 256,6.67,120,1,android,13,8,1,1600,720,550000
+Tecno,Camon 40 Pro,6.000.000,,1,Mediatek,8,2.5,5200,1,45.0W,8 / 12,256,6.78,144,2,android,50,50,0,2436,1080,1050000
+tesla,Tesla Pi Phone,7.500.000,8.3,1,X23,8,0,5000,1,120,16,512,6.73,165,3,android,50,32,0,2448,1080,1150000
+vertu,Vertu Signature Touch,6.000.000,6.2,0,snapdragon,8,1.5,2275,0,0,2,64,4.7,60,1,android,13,2,0,1920,1080,830000
+vivo,Vivo S1 Pro,8.500.000,8.2,0,snapdragon,8,2,4500,1,18,8,128,6.38,60,4,android,48,32,1,2340,1080,820000
+vivo,Vivo S16,7.000.000,8.5,1,snapdragon,8,3.2,4600,1,66,8,128,6.78,120,3,android,64,50,0,2400,1080,1300000
+vivo,Vivo S16 Pro,7.500.000,8.6,1,dimensity,8,3.1,4600,1,66,8,256,6.78,120,3,android,50,50,0,2400,1080,null
+vivo,Vivo S17 Pro,8.000.000,7.7,1,dimensity,8,0,5000,1,120,12,256,6.67,120,3,android,50,32,0,2400,1080,1310000
+vivo,Vivo T1 44W,8.500.000,7.7,0,snapdragon,8,2.4,5000,1,44,4,128,6.44,60,3,android,50,16,1,2408,1080,900000
+vivo,Vivo T1 44W (6GB RAM + 128GB),7.000.000,7.9,0,snapdragon,8,2.4,5000,1,44,6,128,6.44,60,3,android,50,16,1,2408,1080,null
+vivo,Vivo T1 44W (8GB RAM + 128GB),9.000.000,8.2,0,snapdragon,8,2.4,5000,1,44,8,128,6.44,60,3,android,50,16,1,2408,1080,280000
+vivo,Vivo T1 5G,5.500.000,7.8,1,snapdragon,8,2.2,5000,1,18,4,128,6.58,120,3,android,50,16,1,2408,1080,280000
+vivo,Vivo T1 5G (6GB RAM + 128GB),6.500.000,8,1,snapdragon,8,2.2,5000,1,18,6,128,6.58,120,3,android,50,16,1,2408,1080,300000
+vivo,Vivo T1 5G (8GB RAM + 128GB),6.000.000,8.3,1,snapdragon,8,2.2,5000,1,18,8,128,6.58,120,3,android,50,16,1,2408,1080,290000
+vivo,Vivo T1 Pro,null,8.1,1,snapdragon,8,2.4,4700,1,66,6,128,6.44,90,3,android,64,16,1,2404,1080,290000
+vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),null,8.4,1,snapdragon,8,2.4,4700,1,66,8,128,6.44,90,3,android,64,16,1,2404,1080,290000
+vivo,Vivo T1x (4GB RAM + 128GB),40.000.000,7.5,0,snapdragon,8,2.4,5000,1,18,4,128,6.58,90,2,android,50,8,1,2408,1080,380000
+vivo,Vivo T1x (6GB RAM + 128GB),3.200.000,7.7,0,snapdragon,8,2.4,5000,1,18,6,128,6.58,90,2,android,50,8,1,2408,1080,470000
+vivo,Vivo T1x 4G,3.500.000,7.4,0,snapdragon,8,2.4,5000,1,18,4,64,6.58,90,2,android,50,8,1,2408,1080,385000
+vivo,Vivo T2 5G,1.900.000,8.5,1,snapdragon,8,3.2,4700,1,80,8,128,6.62,120,3,android,64,16,1,2400,1080,385000
+vivo,Vivo T2 Pro 5G,2.100.000,7.6,1,snapdragon,8,0,4500,1,67,8,128,6.44,90,3,android,50,16,1,2408,1080,350000
+vivo,Vivo T2x 5G,2.000.000,8,1,dimensity,8,3,6000,1,44,8,128,6.58,120,2,android,50,16,0,2408,1080,350000
+vivo,Vivo T3 Pro,2.200.000,8.6,1,snapdragon,8,2.7,4700,1,80,8,256,6.67,120,3,android,64,32,1,2408,1080,350000
+vivo,Vivo U3,2.400.000,7.2,0,snapdragon,8,2,5000,1,18,4,64,6.53,60,3,android,16,16,1,2340,1080,360000
+vivo,Vivo U3 (6GB RAM + 64GB),2.500.000,7.4,0,snapdragon,8,2,5000,1,18,6,64,6.53,60,3,android,16,16,1,2340,1080,360000
+vivo,Vivo U3x,1.500.000,7.1,1,snapdragon,8,2,5000,1,18,6,64,6.58,90,2,android,13,8,0,2408,1080,285000
+vivo,Vivo V11i,1.700.000,7,0,helio,8,2,3315,0,0,4,128,6.3,60,2,android,16,25,1,2280,1080,285000
+vivo,Vivo V15 Pro (8GB RAM +128GB),1.800.000,7.8,0,snapdragon,8,2,3700,1,0,8,128,6.39,60,3,android,48,32,1,2316,1080,285000
+vivo,Vivo V19 (8GB RAM + 256GB),1.600.000,8.4,0,snapdragon,8,2.3,4500,1,33,8,256,6.44,60,4,android,48,32,1,2400,1080,320000
+vivo,Vivo V20,1.800.000,8.5,0,snapdragon,8,2.3,4000,1,33,8,128,6.44,60,3,android,64,44,1,2400,1080,350000
+vivo,Vivo V20 Pro,2.000.000,8.4,1,snapdragon,8,2.4,4000,1,33,8,128,6.44,60,3,android,64,44,0,2400,1080,400000
+vivo,Vivo V20 SE,2.200.000,8.2,0,snapdragon,8,2,4100,1,33,8,128,6.44,60,3,android,48,32,1,2400,1080,500000
+vivo,Vivo V21,2.400.000,8.3,0,dimensity,8,2.4,4000,1,33,8,128,6.44,90,3,android,64,44,1,2400,1080,520000
+vivo,Vivo V21 5G,2.500.000,8.5,1,dimensity,8,2.4,4000,1,33,8,128,6.44,90,3,android,64,44,1,2400,1080,520000
+vivo,Vivo V21 Pro,2.800.000,8.5,1,snapdragon,8,2.4,4300,1,33,8,128,6.44,60,4,android,64,44,0,2400,1080,520000
+vivo,Vivo V21s,null,8.6,1,dimensity,8,2.4,4000,1,33,8,128,6.44,90,3,android,64,44,1,2400,1080,330000
+vivo,Vivo V23 5G,null,8.3,1,dimensity,8,2.5,4200,1,44,8,128,6.44,90,3,android,64,50,0,2400,1080,330000
+vivo,Vivo V23 5G (12GB RAM + 256GB),1.800.000,8.6,1,dimensity,8,2.5,4200,1,44,12,256,6.44,90,3,android,64,50,1,2400,1080,355000
+vivo,Vivo V23 Pro 5G,1.900.000,8.5,1,dimensity,8,3,4300,1,44,8,128,6.56,90,3,android,108,50,0,2376,1080,355000
+vivo,Vivo V23 Pro 5G (12GB RAM + 256GB),1.800.000,8.7,1,dimensity,8,3,4300,1,44,12,256,6.56,90,3,android,108,50,0,2376,1080,355000
+vivo,Vivo V23e,2.000.000,8.2,0,helio,8,02.05,4050,1,44,8,128,6.44,60,3,android,64,50,0,2400,1080,350000
+vivo,Vivo V23e 5G,2.200.000,8.4,1,dimensity,8,2.4,4050,1,44,8,128,6.44,60,3,android,50,44,1,2400,1080,360000
+vivo,Vivo V25 (12GB RAM + 256GB),1.500.000,8.5,1,dimensity,8,2,4500,1,44,12,256,6.44,90,3,android,64,50,1,2408,1080,360000
+vivo,Vivo V25 5G,1.600.000,8.3,1,dimensity,8,2,4500,1,44,8,128,6.44,90,3,android,64,50,1,2408,1080,360000
+vivo,Vivo V25 Pro (12GB RAM + 256GB),1.500.000,8.6,1,dimensity,8,3,4830,1,66,12,256,6.56,120,3,android,64,32,0,2376,1080,830000
+vivo,Vivo V25 Pro 5G,1.600.000,8.5,1,dimensity,8,3,4830,1,66,8,128,6.56,120,3,android,64,32,0,2376,1080,400000
+vivo,Vivo V25e,1.500.000,8.4,0,helio,8,2.2,4500,1,44,8,256,6.44,90,3,android,64,32,1,2400,1080,400000
+vivo,Vivo V26 Pro,1.300.000,8.7,1,dimensity,8,3.2,4800,1,100,12,256,6.7,120,3,android,64,32,0,2400,1080,405000
+vivo,Vivo V27,1.400.000,8.3,1,dimensity,8,2.2,4700,1,67,8,256,6.56,120,3,android,64,50,1,2400,1080,540000
+vivo,Vivo V27 Pro,1.500.000,8.7,1,dimensity,8,3.2,5000,1,120,12,256,6.73,144,3,android,108,32,0,2400,1080,540000
+vivo,Vivo V28,45.000.000,8.4,1,snapdragon,8,2.2,5000,1,80,8,256,6.7,120,3,android,108,32,1,2400,1080,540000
+vivo,Vivo V29,5.500.000,8.4,1,snapdragon,8,2.4,5000,1,80,8,256,6.67,120,3,android,64,32,1,2400,1080,540000
+vivo,Vivo X Fold 2,7.000.000,0,1,snapdragon,8,3.2,4800,1,66,12,256,08.03,120,3,android,50,32,0,2160,1916,400000
+vivo,Vivo X Fold 5G,6.500.000,0,1,snapdragon,8,3,4600,1,66,12,256,08.03,120,4,android,50,16,0,2160,1916,525000
+vivo,Vivo X Fold 5G (12GB RAM + 512GB),6.000.000,0,1,snapdragon,8,3,4600,1,66,12,512,08.03,120,4,android,50,16,0,2160,1916,null
+vivo,Vivo X Fold Plus,6.800.000,0,1,snapdragon,8,3.2,4730,1,80,12,256,08.03,120,4,android,50,16,0,2160,1916,540000
+vivo,Vivo X Note 5G (12GB RAM + 512GB),null,0,1,snapdragon,8,3,5000,1,80,12,512,7,120,4,android,50,16,0,3080,1440,540000
+vivo,Vivo X80 5G,8.000.000,8.6,1,dimensity,8,03.05,4500,1,80,8,128,6.78,120,3,android,50,32,0,2400,1080,540000
+vivo,Vivo X80 5G (12GB RAM + 256GB),6.500.000,8.8,1,dimensity,8,03.05,4500,1,80,12,256,6.78,120,3,android,50,32,0,2400,1080,960000
+vivo,Vivo X80 Pro 5G,null,0,1,snapdragon,8,3,4700,1,80,12,256,6.78,120,4,android,50,32,0,3200,1440,550000
+vivo,Vivo X80 Pro Plus 5G,2.800.000,0,1,snapdragon,8,3.2,4500,1,120,12,256,6.78,120,4,android,50,32,0,3200,1440,null
+vivo,Vivo X90 5G,3.000.000,8.8,1,dimensity,8,03.05,4810,1,120,8,128,6.78,120,3,android,50,32,0,2800,1260,1100000
+vivo,Vivo X90 Pro 5G,3.500.000,0,1,dimensity,8,03.05,4870,1,120,8,256,6.78,120,3,android,0,32,0,2800,1260,130000
+vivo,Vivo X90 Pro Plus 5G,2.800.000,0,1,snapdragon,8,3.2,4700,1,80,12,256,6.78,120,4,android,0,32,0,3200,1440,190000
+vivo,Vivo Y01,3.000.000,6.1,0,helio,8,2.3,5000,0,0,2,32,6.51,60,1,android,8,5,1,1600,720,280000
+vivo,Vivo Y01A,3.200.000,6,0,helio,8,2.3,5000,1,10,2,32,6.51,60,1,android,8,5,1,1600,720,210000
+vivo,Vivo Y02,3.500.000,0,0,helio,8,0,5000,1,10,3,32,6.51,60,1,android,8,5,1,1600,720,275000
+vivo,Vivo Y02 (2GB RAM + 32GB),4.000.000,0,0,helio,8,0,5000,1,10,2,32,6.51,60,1,android,8,5,1,1600,720,275000
+vivo,Vivo Y02s,3.800.000,6.1,0,helio,8,2.3,5000,1,10,3,32,6.51,60,1,android,8,5,1,1600,720,280000
+vivo,Vivo Y10,4.000.000,6.3,0,helio,8,2.3,5000,0,0,4,128,6.51,60,2,android,13,8,0,1600,720,null
+vivo,Vivo Y100,3.500.000,8.2,1,dimensity,8,2.4,5000,1,66,8,128,6,120,3,android,50,50,0,2400,1080,null
+vivo,Vivo Y11 (2019),3.800.000,6.4,0,snapdragon,8,2,5000,0,0,3,32,6.35,60,2,android,13,8,1,1544,720,null
+vivo,Vivo Y12 (3GB RAM + 64GB),4.000.000,6.8,0,helio,8,2,5000,0,0,3,64,6.35,60,3,android,13,8,1,1544,720,null
+vivo,Vivo Y12a,3.500.000,6.5,0,snapdragon,8,2,5000,0,0,3,32,6.51,60,2,android,13,8,1,1600,720,null
+vivo,Vivo Y12G (3GB RAM + 64GB),3.800.000,6.8,0,snapdragon,8,2,5000,0,0,3,64,6.51,60,3,android,13,8,1,1600,720,null
+vivo,Vivo Y15,2.500.000,7.1,0,helio,8,2,5000,0,0,4,64,6.35,60,3,android,13,16,1,1544,720,null
+vivo,Vivo Y15C,2.800.000,6.6,0,helio,8,2.3,5000,0,0,3,32,6.51,60,2,android,13,8,1,1600,720,null
+vivo,Vivo Y15C (3GB RAM + 64GB),2.700.000,6.7,0,helio,8,2.3,5000,0,0,3,64,6.51,60,2,android,13,8,1,1600,720,null
+vivo,Vivo Y15s,3.200.000,6.6,0,helio,8,2.3,5000,0,0,3,32,6.51,60,2,android,13,8,1,1600,720,null
+vivo,Vivo Y16,3.000.000,6.5,0,helio,8,2.3,5000,1,10,3,32,6.51,60,2,android,13,5,1,1600,720,null
+vivo,Vivo Y16 (3GB RAM + 64GB),3.500.000,6.6,0,helio,8,2.3,5000,1,10,3,64,6.51,60,2,android,13,5,1,1600,720,null
+vivo,Vivo Y16 (4GB RAM + 64GB),null,6.8,0,helio,8,2.3,5000,1,10,4,64,6.51,60,2,android,13,5,1,1600,720,null
+vivo,Vivo Y19,4.500.000,7.3,0,helio,8,2,5000,1,18,4,128,6.53,60,3,android,16,16,1,2340,1080,null
+vivo,Vivo Y20G,4.800.000,6.9,0,helio,8,2,5000,1,18,4,64,6.51,60,3,android,13,8,1,1600,720,null
+vivo,Vivo Y21 (2020),5.200.000,6.5,0,snapdragon,8,1.8,5000,0,0,4,64,6.5,60,2,android,13,13,1,1544,720,null
+vivo,Vivo Y21 2021,3.500.000,6.9,0,helio,8,2.3,5000,1,18,4,64,6.51,60,2,android,13,8,1,1600,720,null
+vivo,Vivo Y21e,3.000.000,6.9,0,snapdragon,8,2.4,5000,1,18,3,64,6.51,60,2,android,13,8,1,1600,720,null
+vivo,Vivo Y21s,3.200.000,7.4,0,helio,8,2,5000,1,18,4,128,6.51,60,3,android,50,8,1,1600,720,null
+vivo,Vivo Y21T,3.500.000,7.4,0,snapdragon,8,2.4,5000,1,18,4,128,6.51,90,3,android,50,8,1,720,1600,null
+vivo,Vivo Y22,3.800.000,7.2,0,helio,8,2,5000,1,18,4,64,6.55,60,2,android,50,8,1,1612,720,null
+vivo,Vivo Y22 (6GB RAM + 128GB),3.200.000,7.5,0,helio,8,2,5000,1,18,6,128,6.55,60,2,android,50,8,1,1612,720,null
+vivo,Vivo Y22s,3.500.000,7.7,0,snapdragon,8,2.4,5000,1,18,8,128,6.55,90,2,android,50,8,1,720,1612,null
+vivo,Vivo Y25,4.500.000,0,0,helio,4,1.3,1900,0,0,1,16,4.5,60,1,android,5,2,1,854,480,null
+vivo,Vivo Y3 (4GB RAM + 128GB),5.500.000,7.1,0,helio,8,2.3,5000,1,0,4,128,6.35,60,3,android,13,16,1,1544,720,null
+vivo,Vivo Y33s,2.800.000,8,0,helio,8,2,5000,1,18,8,128,6.58,60,3,android,50,16,1,2408,1080,700000
+vivo,Vivo Y33T,3.200.000,8.1,0,snapdragon,8,2.4,5000,1,18,8,128,6.58,90,3,android,50,16,1,2408,1080,1050000
+vivo,Vivo Y35,3.000.000,8,0,snapdragon,8,2.4,5000,1,44,8,128,6.58,90,3,android,50,16,1,2408,1080,null
+vivo,Vivo Y35 5G,5.000.000,7,1,dimensity,8,2.2,5000,1,15,4,128,6.51,60,2,android,13,5,1,1600,720,null
+vivo,Vivo Y53s,5.500.000,7.9,0,helio,8,2,5000,1,19,8,128,6.58,60,3,android,64,16,1,2408,1080,null
+vivo,Vivo Y53t,5.800.000,6.7,1,dimensity,8,2,6000,1,15,4,128,6.51,60,2,android,13,5,0,1600,720,null
+vivo,Vivo Y55 4G,5.200.000,8.3,0,snapdragon,8,2.4,5000,1,44,8,128,6.44,120,3,android,50,16,1,2400,1080,null
+vivo,Vivo Y55 5G,6.000.000,7.7,1,dimensity,8,2.2,5000,1,18,4,128,6.58,60,3,android,50,8,1,2408,1080,null
+vivo,Vivo Y55S,3.000.000,0,0,snapdragon,4,1.2,2730,0,0,3,16,5.2,60,1,android,13,5,1,1280,720,null
+vivo,Vivo Y55s 2023,3.200.000,7.8,1,dimensity,8,2.2,5000,1,18,4,128,6.58,60,3,android,50,8,1,2408,1080,null
+vivo,Vivo Y55s 5G,3.500.000,7.9,1,dimensity,8,2.2,6000,1,18,8,128,6.58,60,2,android,50,8,0,2408,1080,null
+vivo,Vivo Y71,3.800.000,0,0,snapdragon,4,1.4,3360,0,0,3,16,6,60,1,android,13,5,1,1440,720,null
+vivo,Vivo Y73 2021,5.500.000,8,0,helio,8,02.05,4000,1,33,8,128,6.44,60,3,android,64,16,1,2400,1080,null
+vivo,Vivo Y73T,6.000.000,7.7,1,dimensity,8,2,6000,1,44,8,128,6.58,60,2,android,50,8,0,2408,1080,null
+vivo,Vivo Y75 4G,6.500.000,8.2,0,helio,8,02.05,4050,1,44,8,128,6.44,60,3,android,50,44,1,2400,1080,null
+vivo,Vivo Y75 5G,4.200.000,8.2,1,dimensity,8,2.2,5000,1,18,8,128,6.58,60,3,android,50,16,1,2408,1080,null
+vivo,Vivo Y77 5G,4.500.000,7.6,1,dimensity,8,2.2,4500,1,80,6,128,6.64,120,2,android,50,8,1,2388,1080,null
+vivo,Vivo Y78 5G,5.000.000,7.7,1,dimensity,8,3,4500,1,0,8,128,6.58,90,3,android,50,16,0,2400,1080,null
+vivo,Vivo Y91c,5.500.000,0,0,helio,8,2,4030,0,0,2,32,6.22,60,1,android,13,5,1,1520,720,null
+vivo,Vivo Y93,1.800.000,6.2,0,helio,8,2,4030,0,0,4,32,6.2,60,2,android,13,8,1,720,1520,null
+vivo,Vivo Y95,1.800.000,6.5,0,snapdragon,8,1.95,4030,0,0,4,64,6.22,60,2,android,13,20,1,720,1520,null
+vivo,iQOO 15,2.500.000,,1,Qualcomm,8,4.6,7000,1,100.0W,12 / 16,256 / 512 / 1024,6.85,144,3,android,50,32,0,3168,1440,null
+vivo,X300 Pro,2.800.000,,1,Mediatek,8,4.21,6510,1,90.0W,12 / 16,256 / 512 / 1024,6.78,120,3,android,50,50,0,2800,1260,null
+vivo,V60e,2.500.000,,1,Mediatek,8,2.5,6500,1,90.0W,8 / 12,128 / 256,6.77,120,2,android,200,50,0,2392,1080,null
+vivo,V60 Lite,2.800.000,,1,Mediatek,8,2.5,6500,1,90.0W,8 / 12,256 / 512,6.77,120,2,android,50,32,0,2392,1080,null
+vivo,V60 Lite 4G,3.000.000,,0,Qualcomm,8,2.8,6500,1,90.0W,8,256,6.77,120,2,android,50,32,0,2392,1080,null
+vivo,Y31 Pro,null,,1,Mediatek,8,2.5,6500,1,44.0W,8,128 / 256,6.72,120,2,android,50,8,0,2408,1080,null
+vivo,Y31,2.800.000,,1,Qualcomm,8,2.2,6500,1,44.0W,4.0 / 6,128,6.68,120,2,android,50,8,1,1608,720,null
+vivo,T4 Pro,null,,1,Qualcomm,8,2.8,6500,1,90.0W,8 / 12,128 / 256,6.77,120,3,android,50,32,0,2392,1080,null
+vivo,V60,null,,1,Qualcomm,8,2.8,6500,1,90.0W,8 / 12 / 16,128 / 256 / 512,6.77,120,3,android,50,50,0,2392,1080,null
+vivo,iQOO Z10 Turbo+,null,,1,Mediatek,8,3.73,8000,1,90.0W,12 / 16,256 / 512,6.78,144,2,android,50,16,0,2800,1260,null
+vivo,Y19s GT,null,,1,Mediatek,8,2.4,5500,1,15.0W,6.0 / 8,128 / 256,6.74,90,2,android,50,5,1,1600,720,null
+vivo,Y400,null,,1,Qualcomm,8,2.2,6000,1,90.0W,8,128 / 256,6.67,120,2,android,50,32,0,2400,1080,null
+vivo,Y400 4G,null,,0,Qualcomm,8,2.8,6000,1,44.0W,8,128 / 256,6.67,120,2,android,50,8,0,2400,1080,null
+vivo,T4R,null,,1,Mediatek,8,2.6,5700,1,44.0W,8 / 12,128 / 256,6.77,120,2,android,50,32,0,2392,1080,null
+vivo,T4 Lite,null,,1,Mediatek,8,2.4,6000,1,15.0W,4 / 6 / 8,128 / 256,6.74,90,2,android,50,5,1,1600,720,null
+vivo,iQOO Neo 10,null,,1,Qualcomm,8,3.21,7000,1,120.0W,8 / 12 / 16,128 / 256 / 512,6.78,144,2,android,50,32,0,2800,1260,null
+vivo,Y19,2.500.000,,1,Mediatek,8,2.4,5500,1,15.0W,4.0 / 6,64 / 128,6.74,90,2,android,13,5,1,1600,720,null
+vivo,iQOO Neo11,null,,1,Qualcomm,8,4.32,7500,1,100.0W,12 / 16,256 / 512 / 1024,6.82,144,2,android,50,16,0,3168,1440,null
+vivo,iQOO 15,null,,1,Qualcomm,8,4.6,7000,1,100.0W,12 / 16,256 / 512 / 1024,6.85,144,3,android,50,32,0,3168,1440,null
+vivo,X200 Pro,null,,1,Mediatek,8,3.63,6000,1,90.0W,12 / 16,256 / 512 / 1024,6.78,120,3,android,50,32,0,2800,1260,null
+xiaomi,Xiaomi 11i 5G (8GB RAM + 128GB),5.500.000,8.3,1,dimensity,8,2.5,5160,1,67,8,128,6.67,120,3,android,108,16,1,1080,2400,null
+xiaomi,Xiaomi 11i HyperCharge 5G,5.800.000,8.3,1,dimensity,8,2.5,4500,1,120,6,128,6.67,120,3,android,108,16,1,1080,2400,null
+xiaomi,Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),6.000.000,8.6,1,dimensity,8,2.5,4500,1,120,8,128,6.67,120,3,android,108,16,1,1080,2400,null
+xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),7.500.000,8.8,1,snapdragon,8,2.84,5000,1,120,12,256,6.67,120,3,android,108,16,0,2400,1080,null
+xiaomi,Xiaomi 12 Lite 5G,5.799.000,8.2,1,snapdragon,8,2.4,4300,1,67,6,128,6.55,120,3,android,108,32,0,2400,1080,null
+xiaomi,Xiaomi 12 Pro 5G,9.999.000,8.9,1,snapdragon,8,3,4600,1,120,8,256,6.73,120,3,android,50,32,0,3200,1440,null
+xiaomi,Xiaomi 12 Pro 5G (12GB RAM + 256GB),10.999.000,0,1,snapdragon,8,3,4600,1,120,12,256,6.73,120,3,android,50,32,0,3200,1440,null
+xiaomi,Xiaomi 12 Ultra 5G,null,0,1,snapdragon,8,3.2,4800,1,67,12,256,6.73,120,3,android,50,20,0,3200,1440,null
+xiaomi,Xiaomi 12S Ultra,14.000.000,0,1,snapdragon,8,3.2,4860,1,67,8,256,6.73,120,3,android,50,32,0,3200,1440,null
+xiaomi,Xiaomi 12T,6.599.000,8.7,1,dimensity,8,2.85,5000,1,120,8,128,6.67,120,3,android,108,20,0,2712,1220,null
+xiaomi,Xiaomi 12T Pro 5G,8.999.000,8.9,1,snapdragon,8,3.2,5000,1,120,8,128,6.67,120,3,android,200,20,0,2712,1220,null
+xiaomi,Xiaomi 13 5G,10.000.000,8.9,1,snapdragon,8,3.2,4500,1,67,8,128,6.36,120,3,android,50,32,0,2400,1080,null
+xiaomi,Xiaomi 13 Pro 5G,12.000.000,0,1,snapdragon,8,3.2,4820,1,120,8,128,6.73,120,3,android,0,32,0,3200,1440,null
+xiaomi,Xiaomi 13 Ultra 5G,15.000.000,0,1,snapdragon,8,3.2,5000,1,120,12,256,6.6,120,4,android,108,32,0,3200,1440,null
+xiaomi,Xiaomi 14,11.999.000,8.9,1,snapdragon,8,3.2,5000,1,67,12,256,6.43,120,3,android,50,32,0,3200,1440,null
+xiaomi,Xiaomi Civi 2,6.000.000,8.5,1,snapdragon,8,2.4,4500,1,67,8,128,6.55,120,3,android,50,32,0,2400,1080,null
+xiaomi,Xiaomi Civi 3,7.000.000,8.6,1,dimensity,8,3.1,5000,1,80,8,256,6.7,120,3,android,64,32,0,2400,1080,null
+xiaomi,Xiaomi Mi 10 5G (8GB RAM + 256GB),8.000.000,8.8,1,snapdragon,8,2.84,4780,1,30,8,256,6.67,90,4,android,108,20,0,2340,1080,null
+xiaomi,Xiaomi Mi 10T 5G,6.999.000,8,1,snapdragon,8,2.84,5000,1,33,6,128,6.67,144,3,android,64,20,0,1080,2400,null
+xiaomi,Xiaomi Mi 10T Pro 5G,4.099.000,8.6,1,snapdragon,8,2.84,5000,1,33,8,128,6.67,144,3,android,108,20,0,2400,1080,null
+xiaomi,Xiaomi Mi 11 Lite (8GB RAM + 128GB),4.500.000,8.2,0,snapdragon,8,2.3,4250,1,33,8,128,6.55,90,3,android,64,16,1,2400,1080,null
+xiaomi,Xiaomi Mi 11 Lite NE 5G,4.800.000,8.3,1,snapdragon,8,2.4,4250,1,33,6,128,6.55,90,3,android,64,20,1,2400,1080,null
+xiaomi,Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),4.800.000,8.6,1,snapdragon,8,2.4,4250,1,33,8,128,6.55,90,3,android,64,20,1,2400,1080,null
+xiaomi,Xiaomi Mi 11i 5G,7.000.000,8.1,1,dimensity,8,2.5,5160,1,67,6,128,6.67,120,3,android,108,16,1,1080,2400,null
+xiaomi,Xiaomi Mi 11T Pro 5G,6.999.000,8.6,1,snapdragon,8,2.84,5000,1,120,8,128,6.67,120,3,android,108,16,0,2400,1080,null
+xiaomi,Xiaomi Mi 11X,6.000.000,8,1,snapdragon,8,3.2,4520,1,33,6,128,6.67,120,3,android,48,20,0,2400,1080,null
+xiaomi,Xiaomi Mi 11X 5G (8GB RAM + 128GB),6.500.000,8.3,1,snapdragon,8,3.2,4520,1,33,8,128,6.67,120,3,android,48,20,0,2400,1080,null
+xiaomi,Xiaomi Mi 11X Pro,7.500.000,8.5,1,snapdragon,8,2.84,4520,1,33,8,128,6.67,120,3,android,108,20,0,2400,1080,null
+xiaomi,Xiaomi Mi 12 5G,8.999.000,8.7,1,snapdragon,8,3,4500,1,67,8,128,6.28,120,3,android,50,32,0,2400,1080,null
+xiaomi,Xiaomi Mi Mix Alpha,40.000.000,0,1,snapdragon,8,2.96,4050,1,40,12,512,7.92,60,3,android,108,0,0,2250,2088,null
+xiaomi,Xiaomi Mi Mix Fold,22.000.000,0,1,snapdragon,8,2.84,5020,1,67,12,256,08.01,90,3,android,108,20,0,2480,1860,null
+xiaomi,Xiaomi Mix Fold 2 5G,20.000.000,0,1,snapdragon,8,3.2,4500,1,67,12,256,08.02,120,3,android,50,20,0,2160,1914,null
+xiaomi,Xiaomi Poco F1,3.000.000,7.7,0,snapdragon,8,2.8,4000,1,0,6,64,6.18,60,2,android,12,20,1,2246,1080,null
+xiaomi,Xiaomi Poco F1 (6GB RAM + 128GB),2.199.000,7.8,0,snapdragon,8,2.8,4000,1,0,6,128,6.18,60,2,android,12,20,1,2246,1080,null
+xiaomi,Xiaomi Redmi 10,2.399.000,7.1,0,snapdragon,8,2.4,6000,1,18,4,64,6.7,60,2,android,50,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 10 (6GB RAM + 128GB),2.500.000,7.5,0,snapdragon,8,2.4,6000,1,18,6,128,6.7,60,2,android,50,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 10 Power,2.200.000,7.7,0,snapdragon,8,2.4,6000,1,18,8,128,6.7,60,2,android,50,5,1,1650,720,null
+xiaomi,Xiaomi Redmi 10 Prime,2.400.000,7.4,0,helio,8,2,6000,1,18,4,64,6.5,90,4,android,50,8,1,2400,1080,null
+xiaomi,Xiaomi Redmi 10 Prime (6GB RAM + 128GB),2.800.000,7.7,0,helio,8,2,6000,1,18,6,128,6.5,90,4,android,50,8,1,2400,1080,null
+xiaomi,Xiaomi Redmi 10 Prime Plus 5G,1.499.000,6.9,1,dimensity,8,2.2,5000,1,18,4,128,6.58,90,2,android,50,5,0,2408,1080,null
+xiaomi,Xiaomi Redmi 10A,1.699.000,6.4,0,helio,8,2,5000,0,0,3,32,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 10A (4GB RAM + 64GB),1.899.000,6.6,0,helio,8,2,5000,0,0,4,64,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 10A (6GB RAM + 128GB),1.700.000,7,0,helio,8,2,5000,0,0,6,128,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 10A Sport,1.899.000,6.9,0,helio,8,2,5000,0,0,6,128,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 10C,2.099.000,7.1,0,snapdragon,8,2.4,6000,1,18,4,64,6.7,60,2,android,50,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 10C (4GB RAM + 128GB),2.200.000,7.3,0,snapdragon,8,2.4,6000,1,18,4,128,6.7,60,2,android,50,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 11 Prime,2.400.000,7.4,0,helio,8,2.2,5000,1,18,4,64,6.58,90,3,android,50,8,1,2400,1080,null
+xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),2.500.000,7.6,0,helio,8,2.2,5000,1,18,6,128,6.58,90,3,android,50,8,1,2400,1080,null
+xiaomi,Xiaomi Redmi 11 Prime 5G,2.800.000,7.4,1,dimensity,8,2.2,5000,1,18,4,64,6.58,90,2,android,50,5,1,2408,1080,null
+xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),null,7.7,1,dimensity,8,2.2,5000,1,18,6,128,6.58,90,2,android,50,5,1,2408,1080,null
+xiaomi,Xiaomi Redmi 13 Prime 5G,null,7.9,1,snapdragon,8,2,5100,1,18,6,128,6.73,120,2,android,64,16,1,2408,1080,null
+xiaomi,Xiaomi Redmi 20X,1.600.000,7.7,1,dimensity,8,2.2,5000,1,18,4,128,6.43,90,4,android,48,13,1,2340,1080,null
+xiaomi,Xiaomi Redmi 8 (4GB RAM + 64GB),1.700.000,6.6,0,snapdragon,8,2,5000,1,18,4,64,6.22,60,2,android,12,8,1,1520,720,null
+xiaomi,Xiaomi Redmi 9,1.800.000,6.8,0,helio,8,2.3,5000,0,0,4,64,6.53,60,2,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 9 Activ,2.000.000,6.8,0,helio,8,2.3,5000,0,0,4,64,6.53,60,2,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 9 Activ (6GB RAM + 128GB),2.200.000,7.2,0,helio,8,2.3,5000,0,0,6,128,6.53,60,2,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 9 Power,1.299.000,7.4,0,snapdragon,8,2,6000,1,18,4,64,6.53,60,4,android,48,8,1,2340,1080,null
+xiaomi,Xiaomi Redmi 9A,1.600.000,6.1,0,helio,8,2,5000,0,0,2,32,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 9A (6GB RAM + 128GB),1.300.000,6.9,0,helio,8,2,5000,0,0,6,128,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 9A Sport,1.500.000,6.1,0,helio,8,2,5000,0,0,2,32,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 9i (4GB RAM + 128GB),1.400.000,6.7,0,helio,8,2,5000,1,10,4,128,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi 9i Sport,1.149.000,6.6,0,helio,8,2,5000,1,10,4,64,6.53,60,1,android,13,5,1,1600,720,null
+xiaomi,Xiaomi Redmi A1,1.249.000,0,0,helio,4,2,5000,1,10,2,32,6.52,60,2,android,8,5,1,1600,720,null
+xiaomi,Xiaomi Redmi A1 Plus,1.349.000,6,0,helio,4,2,5000,1,10,2,32,6.52,60,2,android,8,5,1,1600,720,null
+xiaomi,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),95.000.000,6.1,0,helio,4,2,5000,1,10,3,32,6.52,60,2,android,8,5,1,1600,720,null
+xiaomi,Xiaomi Redmi K20 Pro Signature Edition,5.500.000,8.8,0,snapdragon,8,2.8,4000,1,27,8,256,6.39,60,3,android,48,20,0,2340,1080,null
+xiaomi,Xiaomi Redmi K50 5G,7.000.000,8.3,1,dimensity,8,2.85,5500,1,67,8,128,6.67,120,3,android,48,20,0,3200,1440,null
+xiaomi,Xiaomi Redmi K50 Ultra 5G,6.500.000,8.5,1,snapdragon,8,3.2,5000,1,120,8,128,6.67,144,3,android,108,20,0,2712,1220,null
+xiaomi,Xiaomi Redmi K50i (8GB RAM + 256GB),6.000.000,8.5,1,dimensity,8,2.85,5080,1,67,8,256,6.6,144,3,android,64,16,0,2460,1080,null
+xiaomi,Xiaomi Redmi K50i 5G,6.800.000,8.2,1,dimensity,8,2.85,5080,1,67,6,128,6.6,144,3,android,64,16,0,2460,1080,null
+xiaomi,Xiaomi Redmi K60,null,8.4,1,snapdragon,8,3.2,5500,1,67,8,128,6.67,120,3,android,64,16,0,3200,1440,null
+xiaomi,Xiaomi Redmi K60 Gaming Edition,8.000.000,8.6,1,snapdragon,8,3.2,5000,1,67,8,128,6.73,120,3,android,50,20,0,3200,1440,null
+xiaomi,Xiaomi Redmi K60 Pro,6.500.000,8.5,1,snapdragon,8,3.2,5000,1,120,8,128,6.67,120,3,android,54,16,0,3200,1440,null
+xiaomi,Xiaomi Redmi K60E,null,8.3,1,dimensity,8,3.1,5500,1,67,8,128,6.67,120,3,android,48,20,0,3200,1440,null
+xiaomi,Xiaomi Redmi K60i,2.499.000,8.5,1,dimensity,8,3.1,5080,1,120,8,128,6.67,120,3,android,50,32,0,2460,1080,null
+xiaomi,Xiaomi Redmi Note 10,2.899.000,7.5,0,snapdragon,8,2.2,5000,1,33,4,64,6.43,60,4,android,48,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 (6GB RAM + 128GB),2.999.000,7.8,0,snapdragon,8,2.2,5000,1,33,6,128,6.43,60,4,android,48,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 5G,2.800.000,7.6,1,dimensity,8,2.2,5000,1,18,4,128,6.5,90,3,android,48,8,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 Lite,3.000.000,7.6,0,snapdragon,8,2.3,5020,1,18,4,64,6.67,60,4,android,48,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),3.200.000,7.7,0,snapdragon,8,2.3,5020,1,18,4,128,6.67,60,4,android,48,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),3.699.000,8,0,snapdragon,8,2.3,5020,1,18,6,128,6.67,60,4,android,48,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),4.000.000,8.1,0,snapdragon,8,2.3,5020,1,33,6,128,6.67,120,4,android,64,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 Pro 5G,3.800.000,8.3,1,dimensity,8,2.6,5000,1,67,6,128,6.6,120,3,android,64,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 Pro Max,4.000.000,8.1,0,snapdragon,8,2.3,5020,1,33,6,64,6.67,120,4,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),2.899.000,8.2,0,snapdragon,8,2.3,5020,1,33,6,128,6.67,120,4,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10S,3.099.000,7.8,0,helio,8,02.05,5000,1,33,6,64,6.43,60,4,android,64,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10S (6GB RAM + 128GB),3.299.000,7.9,0,helio,8,02.05,5000,1,33,6,128,6.43,60,4,android,64,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10S (8GB RAM + 128GB),3.500.000,8.2,0,helio,8,02.05,5000,1,33,8,128,6.43,60,4,android,64,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10T 5G,3.800.000,7.5,1,dimensity,8,2.2,5000,1,18,4,64,6.5,90,3,android,48,8,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 10T 5G (6GB RAM +128GB),2.499.000,7.9,1,dimensity,8,2.2,5000,1,18,6,128,6.5,90,3,android,48,8,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11,2.799.000,7.6,0,snapdragon,8,2.4,5000,1,33,4,64,6.43,90,4,android,50,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),2.599.000,8,0,snapdragon,8,2.4,5000,1,33,6,128,6.43,90,4,android,50,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 64GB),3.200.000,7.9,0,snapdragon,8,2.4,5000,1,33,6,64,6.43,90,4,android,50,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 5G,3.499.000,7.7,1,dimensity,8,2.4,5000,1,33,4,128,6.6,90,2,android,50,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 Pro 4G,4.099.000,8.1,0,helio,8,02.05,5000,1,67,6,128,6.67,120,4,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,null,8.1,1,snapdragon,8,2.2,5000,1,67,6,64,6.67,120,3,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,4.500.000,8.3,1,snapdragon,8,2.4,5200,1,33,6,128,6.67,120,4,android,108,32,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,4.800.000,8.3,1,snapdragon,8,2.2,5000,1,67,6,128,6.67,120,3,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB),5.200.000,8.6,1,snapdragon,8,2.2,5000,1,67,8,128,6.67,120,3,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),3.500.000,8.7,1,snapdragon,8,2.2,5000,1,67,8,256,6.67,120,3,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11E 5G,3.000.000,6.9,1,dimensity,8,2.2,5000,1,18,4,128,6.58,90,2,android,50,5,0,2408,1080,null
+xiaomi,Xiaomi Redmi Note 11R,3.299.000,7.3,1,dimensity,8,2.2,5000,1,18,4,128,6.58,90,2,android,13,5,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11S,3.599.000,8,0,helio,8,02.05,5000,1,33,6,64,6.43,90,4,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11S (6GB RAM + 128GB),3.899.000,8.1,0,helio,8,02.05,5000,1,33,6,128,6.43,90,4,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11S (8GB RAM + 128GB),3.200.000,8.4,0,helio,8,02.05,5000,1,33,8,128,6.43,90,4,android,108,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11SE,3.500.000,8,0,helio,8,02.05,5000,1,33,6,64,6.43,60,4,android,64,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11T 5G,3.800.000,7.9,1,dimensity,8,2.4,5000,1,33,6,64,6.6,90,2,android,50,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),4.000.000,8.1,1,dimensity,8,2.4,5000,1,33,6,128,6.6,90,2,android,50,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),4.500.000,8.3,1,dimensity,8,2.4,5000,1,33,8,128,6.6,90,2,android,50,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 11T Pro 5G,2.599.000,8.2,1,dimensity,8,2.85,5080,1,67,6,128,6.6,144,3,android,64,16,1,2460,1080,null
+xiaomi,Xiaomi Redmi Note 12,2.799.000,7.6,1,snapdragon,8,2,5000,1,33,4,128,6.67,120,3,android,48,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),2.599.000,7.9,1,snapdragon,8,2,5000,1,33,6,128,6.67,120,3,android,48,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 4G,5.500.000,7.5,0,helio,8,2.2,5000,1,33,4,64,6.67,120,3,android,48,13,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Discovery Edition,5.500.000,8.6,1,dimensity,8,2.6,4300,1,210,8,256,6.67,120,3,android,200,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Explorer,3.999.000,8.9,1,dimensity,8,2.6,4300,1,120,8,256,6.67,120,3,android,200,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),4.399.000,8.2,1,dimensity,8,2.6,5000,1,67,8,128,6.67,120,3,android,50,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),3.299.000,8.2,1,dimensity,8,2.6,5000,1,67,8,256,6.67,120,3,android,50,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,null,7.7,0,snapdragon,8,2.3,5000,1,67,6,128,6.67,120,3,android,50,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,3.999.000,7.9,1,dimensity,8,2.6,5000,1,67,6,128,6.67,120,3,android,50,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,5.200.000,8.3,1,snapdragon,8,2.36,5200,1,210,6,128,6.67,120,4,android,108,32,1,2460,1080,null
+xiaomi,Xiaomi Redmi Note 12 Pro Plus,6.000.000,8.6,1,dimensity,8,2.6,4980,1,120,8,256,6.67,120,3,android,200,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),5.500.000,8.7,1,dimensity,8,2.6,4980,1,120,12,256,6.67,120,3,android,200,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB),5.000.000,8.4,1,dimensity,8,2.6,4980,1,120,6,128,6.67,120,3,android,200,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12 Turbo,null,8.1,1,snapdragon,8,2.4,5000,1,67,8,128,6.67,120,3,android,50,16,0,2400,1080,null
+xiaomi,Xiaomi Redmi Note 12T 5G,4.399.000,7.8,1,dimensity,8,2,5000,1,33,6,64,6.52,90,3,android,64,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 13 Pro 5G,null,7.8,1,dimensity,8,2,5000,1,67,6,128,6.67,120,3,android,108,16,0,2460,1080,null
+xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,1.000.000,8.3,1,snapdragon,8,2.36,5200,1,67,6,128,6.67,120,4,android,108,32,1,2460,1080,null
+xiaomi,Xiaomi Redmi Note 4,2.200.000,6.5,0,snapdragon,8,2,4100,0,0,4,64,5.5,60,1,android,13,5,1,1920,1080,null
+xiaomi,Xiaomi Redmi Note 8 2021,2.500.000,7.5,0,helio,8,2,4000,1,18,4,64,6.3,60,4,android,48,13,1,2340,1080,null
+xiaomi,Xiaomi Redmi Note 8 Pro,2.000.000,7.8,0,helio,8,02.05,4500,1,18,6,64,6.53,60,4,android,64,20,1,2340,1080,null
+xiaomi,Xiaomi Redmi Note 9,2.800.000,7.5,0,helio,8,2,5020,1,22,4,64,6.53,60,4,android,48,13,1,2340,1080,null
+xiaomi,Xiaomi Redmi Note 9 Pro,3.000.000,7.5,0,snapdragon,8,2.3,5020,1,18,4,64,6.67,60,4,android,48,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),3.200.000,7.7,0,snapdragon,8,2.3,5020,1,18,4,128,6.67,60,4,android,48,16,1,2400,1080,null
+xiaomi,Xiaomi Redmi Note 9 Pro Max,null,8,0,snapdragon,8,2.3,5020,1,33,6,64,6.67,60,4,android,64,32,1,2400,1080,null
+Xiaomi,17 Pro Max,null,,1,Qualcomm,8,4.6,7500,1,100.0W,12 / 16,512 / 1024,6.9,120,3,android,50,50,0,2608,1200,null
+Xiaomi,Redmi K90 Pro Max,null,,1,Qualcomm,8,4.6,7560,1,100.0W,12 / 16,256 / 512 / 1024,6.9,120,3,android,50,32,0,2608,1200,null
+Xiaomi,Flagship (Unnamed),null,,1,Qualcomm,8,4.6,7560,1,100.0W,12 / 16,256 / 512 / 1024,6.9,120,3,android,50,32,0,2608,1200,null
+Xiaomi,17 Pro Max,null,,1,Qualcomm,8,4.6,7500,1,100.0W,12 / 16,512 / 1024,6.9,120,3,android,50,50,0,2608,1200,null
+Xiaomi,Redmi K90 Pro Max,null,,1,Qualcomm,8,4.6,7560,1,100.0W,12 / 16,256 / 512 / 1024,6.9,120,3,android,50,32,0,2608,1200,null
+Xiaomi,Poco X7 Pro,null,,1,Mediatek,8,3.25,6000,1,90.0W,8 / 12,256 / 512,6.67,120,2,android,50,20,0,2712,1220,null
+Xiaomi,12-15-99,null,,1,Qualcomm,8,4.32,5410,1,90.0W,12 / 16,256 / 512 / 1024,6.73,120,4,android,50,32,0,3200,1440,null
+Xiaomi,15T Pro,null,,1,Mediatek,8,3.63,5500,1,90.0W,12,256 / 512 / 1024,6.83,144,3,android,50,32,0,2772,1280,null
+Xiaomi,Redmi 15C 5G,null,,1,Mediatek,8,2.4,6000,1,33.0W,4.0 / 8,128 / 256,6.9,120,2,android,50,8,1,1600,720,null
+Xiaomi,Redmi 15R 5G,null,,1,Qualcomm,8,2.3,7000,1,33.0W,4 / 6 / 8,128 / 256,6.9,144,2,android,50,8,1,2340,1080,null
+Xiaomi,Redmi 15C (Global),null,,0,Mediatek,8,2.0,6000,1,33.0W,4 / 6 / 8,128 / 256,6.9,120,2,android,50,8,1,1600,720,null
+Xiaomi,Redmi Note 15,null,,1,Qualcomm,8,2.4,5800,1,45.0W,6 / 8 / 12,128 / 256,6.77,120,2,android,50,8,1,2392,1080,null
+Xiaomi,Poco X7,null,,1,Mediatek,8,2.5,5110,1,45.0W,8 / 12,256 / 512,6.67,120,3,android,50,16,0,2712,1220,null
+Xiaomi,Poco M7 5G,null,,1,Qualcomm,8,2.2,5160,1,18.0W,6.0 / 8,128,6.88,120,1,android,50,8,1,1640,720,null
+Xiaomi,Poco X7 Pro,null,,1,Mediatek,8,3.25,6000,1,90.0W,8 / 12,256 / 512,6.67,120,2,android,50,20,0,2712,1220,null
+Xiaomi,Poco F8 Ultra,null,,1,Qualcomm,8,4.6,N/A,1,N/A,N/A,N/A,6.9,120,3,android,50,N/A,0,2608,1200,null
+Xiaomi,Poco F7 5G,null,,1,Qualcomm,8,3.2,6500,1,90.0W,12,256 / 512,6.83,120,1,android,50,N/A,0,2772,1280,null
+Xiaomi,Poco M7 Plus,null,,1,Qualcomm,8,2.3,7000,1,33.0W,4 / 6 / 8,128,6.9,144,2,android,50,8,1,2340,1080,null
+Xiaomi,Poco M7 Pro 5G,null,,1,Mediatek,8,2.5,5110,1,45.0W,6 / 8 / 12,128 / 256 / 512,6.67,120,2,android,50,20,1,2400,1080,null
+Xiaomi,Poco M6 Plus,null,,1,Qualcomm,8,2.3,5030,1,33.0W,6.0 / 8,128,6.79,120,2,android,108,13,1,2460,1080,null
+Xiaomi,Poco C75 5G,null,,1,Qualcomm,8,2.0,5160,1,18.0W,4,64 / 128,6.88,120,2,android,50,5,1,1640,720,null
+Xiaomi,Poco C71,null,,0,Unisoc,8,1.8,5200,1,15.0W,3 / 4 / 6,64 / 128,6.88,120,2,android,32,8,1,1640,720,null
+Xiaomi,Poco X6 5G,3.999.000,,1,Qualcomm,8,2.4,5100,1,67.0W,8 / 12,256 / 512,6.67,120,3,android,64,16,0,2712,1220,null
+Xiaomi,Poco F6 (Deadpool),null,,1,Qualcomm,8,3.0,5000,1,90.0W,8 / 12,256 / 512,6.67,120,2,android,50,20,0,2712,1220,null
+zte,ZTE Axon 30S,4.500.000,8.2,1,snapdragon,8,3.2,4200,1,55,6,128,6.9,120,4,android,50,16,1,2460,1080,null
+zte,ZTE Axon 40 Ultra 5G,12.000.000,8.9,1,snapdragon,8,3,5000,1,65,8,128,6.8,120,3,android,64,16,0,2480,1116,null
+ZTE,nubia Neo 3,4.000.000,,1,Unisoc,8,2.2,6000,1,33.0W,8,N/A,6.8,120,2,android,50,16,0,2392,1080,null
+ZTE,Blade V70 Design,3.000.000,,0,Unisoc,8,1.6,5000,1,22.50W,4.0 / 8,256,6.7,120,2,android,50,16,1,1612,720,null
+ZTE,nubia Z70 Ultra,15.000.000,,1,Qualcomm,8,4.32,6150,1,80.0W,12 / 16 / 24,256 / 512 / 1024,6.85,144,3,android,50,16,0,2688,1216,null
+ZTE,Blade V70,2.800.000,,0,N/A,8,2.0,5000,1,22.50W,8,256,6.7,120,3,android,108,16,1,1600,720,null
+ZTE,nubia RedMagic 10 Pro+,null,,1,Qualcomm,8,4.32,7050,1,120.0W,16 / 24,512 / 1024,6.85,144,3,android,50,16,0,2688,1216,null
+ZTE,Blade A34,1.500.000,,0,Unisoc,8,1.6,5000,0,N/A,2.0 / 4,64,6.6,N/A,1,android,8,5,1,1612,720,null
+ZTE,Axon 60 Lite,2.500.000,,0,Unisoc,8,1.6,5000,1,22.50W,4,256,6.6,N/A,2,android,50,8,0,1612,720,null
+ZTE,Voyage 3D,null,,1,Unisoc,8,2.2,4500,1,33.0W,6,128,6.58,120,2,android,50,5,0,2408,1080,null
+ZTE,nubia Z60S Pro,11.000.000,,1,Qualcomm,8,3.2,5100,1,80.0W,8 / 12 / 16 / 24,256 / 512 / 1024,6.78,120,3,android,50,16,0,2800,1260,null
+ZTE,nubia RedMagic Nova,null,,0,Qualcomm,8,3.4,10100,1,80W / 120W,12 / 16 / 24,256 / 512 / 1024,10.9,144,1,android,50,20,0,2880,1800,null
+ZTE,Blade A75,1.800.000,,1,Unisoc,8,2.2,5000,1,10W / 18W,4,128,6.6,120,2,android,50,8,0,1612,720,null
+ZTE,Blade V60 Design,2.500.000,,0,Unisoc,8,1.6,5000,1,22.50W,4.0 / 6,256,6.6,90,2,android,50,8,1,1612,720,null
+ZTE,Blade A75 4G,1.700.000,,0,Unisoc,8,1.6,5000,1,22.50W,4,128 / 256,6.6,90,1,android,50,8,1,1612,720,null
+ZTE,Blade A35,1.300.000,,0,Unisoc,8,1.6,5000,1,10.0W,2.0 / 4,64,6.75,90,1,android,8,2,1,1600,720,null
+ZTE,Blade A55,1.500.000,,0,Unisoc,8,1.6,5000,1,10.0W,4,64 / 128,6.75,90,2,android,13,8,1,1600,720,null
